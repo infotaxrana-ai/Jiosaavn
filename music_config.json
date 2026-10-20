@@ -1,12 +1,13 @@
+
 {
   "schema_version": 1,
-  "config_revision": 1,
+  "config_revision": 2,
   "providers": [
     {
       "name": "giosaavn",
       "priority": 1,
-      "enabled": false,
-      "base_url": ""
+      "enabled": true,
+      "base_url": "https://saavn.sumit.co"
     },
     {
       "name": "piped",
