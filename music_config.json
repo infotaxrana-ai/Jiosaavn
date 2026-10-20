@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "config_revision": 1,
+  "providers": [
+    {
+      "name": "giosaavn",
+      "priority": 1,
+      "enabled": false,
+      "base_url": ""
+    },
+    {
+      "name": "piped",
+      "priority": 2,
+      "enabled": false,
+      "base_url": ""
+    }
+  ],
+  "stream": {
+    "timeout_ms": 12000,
+    "retry_count": 1,
+    "formats": ["mp3", "aac", "m4a"]
+  }
+}
