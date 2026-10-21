@@ -10,11 +10,13 @@
       "base_url": "https://saavn.sumit.co"
     },
     {
-      "name": "piped",
+      "name": "giosaavn",
       "priority": 2,
-      "enabled": false,
-      "base_url": ""
+      "enabled": true,
+      "base_url": "https://elitejiosaavn-api.vercel.app"
     }
+  ]
+}
   ],
   "stream": {
     "timeout_ms": 12000,
