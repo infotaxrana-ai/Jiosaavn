@@ -1,7 +1,7 @@
 
 {
   "schema_version": 1,
-  "config_revision": 2,
+  "config_revision": 3,
   "providers": [
     {
       "name": "giosaavn",
@@ -15,8 +15,6 @@
       "enabled": true,
       "base_url": "https://elitejiosaavn-api.vercel.app"
     }
-  ]
-}
   ],
   "stream": {
     "timeout_ms": 12000,
