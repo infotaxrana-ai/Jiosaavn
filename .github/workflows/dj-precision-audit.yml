@@ -1,0 +1,26 @@
+name: Xiaozhi DJ Strict Precision Audit
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  precision:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run precision unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Run strict fail-closed release gate
+        run: python precision_gate.py
+      - name: Upload report even when release blocked
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-strict-precision-report
+          if-no-files-found: warn
+          path: |
+            precision_report.json
+            review_all_candidates.csv
