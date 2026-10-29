@@ -1,0 +1,38 @@
+name: Xiaozhi DJ Step 3 Preview
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: DJ Mode
+        required: true
+        type: choice
+        options:
+          - artist_nonstop
+          - hindi_90s_mix
+          - hindi_classic_movie_1970_2010
+          - bangla_classic_mix
+          - ghazal_mix
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate DJ logic offline
+        run: |
+          python -m py_compile build_dj.py build_dj_modes.py test_step3.py
+          python -m unittest test_step2.py test_step3.py -v
+      - name: Create live preview (metadata only)
+        run: |
+          python build_dj_modes.py --mode '${{ inputs.mode }}' --live --limit 30 --output dj_mode_preview.json
+      - name: Upload DJ preview report
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-step3-${{ inputs.mode }}
+          path: dj_mode_preview.json
+          retention-days: 7
