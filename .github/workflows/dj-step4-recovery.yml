@@ -1,0 +1,25 @@
+name: Xiaozhi DJ Step 4 Recovery Preview
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Existing regression tests
+        run: python -m unittest -v test_step2.py test_step3.py
+      - name: Build separate verified/unverified preview
+        run: python -u dj_step4_recovery.py --limit 40
+      - name: Upload read-only review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-step4-recovery-review
+          path: dj_step4_recovery_preview.json
+          if-no-files-found: warn
