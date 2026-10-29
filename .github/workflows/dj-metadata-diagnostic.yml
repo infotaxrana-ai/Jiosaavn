@@ -1,0 +1,25 @@
+name: Xiaozhi DJ Metadata Diagnostic
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify current DJ tests
+        run: python -m unittest -v test_step2.py test_step3.py
+      - name: Inspect real JioSaavn search metadata
+        run: python inspect_dj_metadata.py --mode hindi_classic_movie_1970_2010 --limit 40
+      - name: Save diagnostic evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xiaozhi-dj-metadata-diagnostic
+          path: dj_metadata_diagnostic.json
+          if-no-files-found: warn
