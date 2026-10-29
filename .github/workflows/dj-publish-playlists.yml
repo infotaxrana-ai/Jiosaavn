@@ -1,0 +1,104 @@
+
+name: Publish Xiaozhi DJ Playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dj-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build six DJ playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p data/dj
+
+          python -m unittest -q \
+            test_step2.py \
+            test_step3.py \
+            test_dj_six_modes.py
+
+          python dj_six_modes.py \
+            --mode artist_nonstop \
+            --artist "Kumar Sanu" \
+            --limit 30 \
+            --output data/dj/artist_nonstop.json
+
+          for mode in hindi_90s romantic sad ghazal bangla_classic
+          do
+            python dj_six_modes.py \
+              --mode "$mode" \
+              --limit 30 \
+              --output "data/dj/${mode}.json"
+          done
+
+      - name: Validate published playlists
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          modes = [
+              "artist_nonstop",
+              "hindi_90s",
+              "romantic",
+              "sad",
+              "ghazal",
+              "bangla_classic",
+          ]
+
+          for mode in modes:
+              p = Path(f"data/dj/{mode}.json")
+              data = json.loads(p.read_text(encoding="utf-8"))
+              songs = data.get("songs", [])
+
+              if not songs:
+                  raise SystemExit(f"BLOCKED: {mode} empty")
+
+              for song in songs:
+                  if not (
+                      song.get("title")
+                      and song.get("artist")
+                      and str(song.get("audio_url", "")).startswith("https://")
+                  ):
+                      raise SystemExit(f"BLOCKED: invalid {mode} track")
+
+              print(f"PASS {mode}: {len(songs)} songs")
+          PY
+
+      - name: Publish playlist JSON files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/dj/
+
+          if git diff --cached --quiet; then
+            echo "NO CHANGES"
+          else
+            git commit -m "chore: refresh six DJ playlists"
+            git push
+          fi
