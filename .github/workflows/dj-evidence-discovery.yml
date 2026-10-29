@@ -1,0 +1,34 @@
+name: Xiaozhi DJ Evidence Discovery
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Existing test suite
+        run: python -m unittest -v test_step2.py test_step3.py
+      - name: Find film metadata evidence for existing candidate songs
+        run: python -u dj_evidence_discovery.py --input data/recovery_snapshot.json --output dj_evidence_discovery_report.json --workers 3
+      - name: Summarize, without claiming verified recording
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('dj_evidence_discovery_report.json',encoding='utf-8'))
+          print('FILM DISCOVERY:',r['summary'])
+          print('NOTICE: Film metadata matches do not prove song credits or recording playback.')
+          assert r['preview_only'] is True
+          PY
+      - name: Upload review evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-film-evidence-discovery
+          path: dj_evidence_discovery_report.json
+          if-no-files-found: warn
