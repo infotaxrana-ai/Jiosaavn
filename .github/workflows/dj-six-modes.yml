@@ -1,0 +1,38 @@
+name: Xiaozhi DJ Six Modes Preview
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'DJ mode'
+        required: true
+        type: choice
+        options: [artist_nonstop, hindi_90s, romantic, sad, ghazal, bangla_classic]
+      artist:
+        description: 'Artist name (artist_nonstop only)'
+        required: false
+        default: 'Kumar Sanu'
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Regression tests
+        run: python -m unittest -v test_step2.py test_step3.py test_dj_six_modes.py
+      - name: Build a single preview playlist
+        env:
+          DJ_MODE: ${{ inputs.mode }}
+          DJ_ARTIST: ${{ inputs.artist }}
+        run: python -u dj_six_modes.py --mode "$DJ_MODE" --artist "$DJ_ARTIST"
+      - name: Upload preview
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-six-modes-preview
+          path: dj_six_modes_preview.json
+          if-no-files-found: warn
