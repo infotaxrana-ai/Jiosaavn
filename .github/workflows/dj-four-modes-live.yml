@@ -1,0 +1,57 @@
+name: Xiaozhi DJ Four Modes Live Audit
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  four-modes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 16
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Regression tests
+        run: python -m unittest -v test_step2.py test_step3.py test_dj_six_modes.py
+      - name: Build and audit all four playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p dj_four_modes_results
+          for mode in romantic sad ghazal bangla_classic; do
+            echo "========== $mode =========="
+            python -u dj_six_modes.py --mode "$mode" --limit 30 --output "dj_four_modes_results/${mode}.json"
+          done
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          results = {}
+          for mode in ('romantic','sad','ghazal','bangla_classic'):
+              path = Path('dj_four_modes_results') / f'{mode}.json'
+              obj = json.loads(path.read_text(encoding='utf-8'))
+              songs = obj.get('songs', [])
+              results[mode] = {
+                  'playlist_count': obj.get('playlist_count'),
+                  'audit': obj.get('audit', {}),
+                  'fetch_errors': obj.get('fetch_errors', {}),
+                  'empty_playlist': len(songs) == 0,
+                  'empty_reason': 'No qualifying API metadata or API failure' if not songs else None,
+              }
+          report = {'preview_only': True, 'device_tested': False, 'modes': results,
+                    'limitations': ['Track metadata may lack genre/mood/language fields',
+                                    'No ESP32 player integration or playback has occurred']}
+          Path('dj_four_modes_results/combined_audit.json').write_text(
+              json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          for name, info in results.items():
+              print(f"MODE {name}: {info['playlist_count']} songs, fetch_errors={len(info['fetch_errors'])}, empty={info['empty_playlist']}")
+          if all(info['empty_playlist'] for info in results.values()):
+              raise SystemExit('ALL MODES EMPTY: check API responses or metadata logic; report still uploaded')
+          PY
+      - name: Upload all four playlists and combined audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dj-four-modes-live-audit
+          path: dj_four_modes_results/
+          if-no-files-found: warn
