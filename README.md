@@ -1,1 +1,1 @@
-# Jiosaavn
+Six DJ modes preview. V2: Hindi 90s year is preference-only. No track is rejected for missing or out-of-range release year; it may admit non-90s tracks. Language if explicitly non-Hindi is excluded. Upload root Python files and workflow under .github/workflows. No firmware changes.

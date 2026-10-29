@@ -8,7 +8,9 @@ def song(artist="Kumar Sanu",year=1995,language="Hindi",genre="Romantic",id="one
 class DJTests(unittest.TestCase):
  def test_year(self):
   self.assertTrue(mode_verdict(song(),"hindi_90s")[0])
-  self.assertFalse(mode_verdict(song(year=2000),"hindi_90s")[0])
+  self.assertTrue(mode_verdict(song(year=2000),"hindi_90s")[0])
+  self.assertTrue(mode_verdict(song(year=None),"hindi_90s")[0])
+  self.assertFalse(mode_verdict(song(language="Tamil"),"hindi_90s")[0])
  def test_bangla(self):
   self.assertTrue(mode_verdict(song(language="Bengali"),"bangla_classic")[0])
   self.assertFalse(mode_verdict(song(language="Tamil"),"bangla_classic")[0])

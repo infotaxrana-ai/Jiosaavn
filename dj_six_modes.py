@@ -43,10 +43,11 @@ def mode_verdict(row,mode):
     year=extract_year(row)
     lang=explicit_language(row)
     if mode=="hindi_90s":
-        if year is None or not 1990<=year<=1999:return False,"year_unverified_or_outside"
+        # Year is a *preference*, never a rejection reason: metadata may use
+        # reissue years rather than the original recording or movie year.
         if lang and lang not in ("hindi","hi"):return False,"not_hindi"
-        if not lang:return False,"language_unverified"
-        return True,"year_and_hindi_metadata"
+        return True,("90s_catalog_year" if year is not None and 1990<=year<=1999
+                     else "year_unknown_or_other_not_rejected")
     if mode=="bangla_classic":
         if lang and lang not in ("bengali","bangla","bn"):return False,"not_bengali"
         if not lang:return False,"language_unverified"
@@ -106,6 +107,9 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
                   "album":album(row),"year_metadata":extract_year(row),"language_metadata":explicit_language(row),
                   "evidence":evidence,"audio_url":url})
             counts["accepted"]+=1
+        if mode=="hindi_90s":
+            # Stable preference order: verified-range metadata first, others kept.
+            accepted.sort(key=lambda x: x["evidence"] != "90s_catalog_year")
         checks[target]=dict(counts);buffers.append(deque(accepted))
     songs=[];seen=set()
     while len(songs)<limit and any(buffers):
@@ -119,7 +123,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
     return {"schema_version":1,"preview_only":True,"mode":mode,"requested_artist":artist if mode=="artist_nonstop" else None,
          "playlist_count":len(songs),"songs":songs,"audit":checks,"fetch_errors":errors,
          "limitations":["Mood and ghazal classification use metadata labels; unlabeled valid songs are excluded.",
-         "1990s mode checks catalog release year, which may differ from original film year.",
+         "1990s uses catalog year for ranking only; no song is rejected for missing/outside-range year, and some selections may not be from the 1990s.",
          "Artist match allows collaborations if the requested artist appears in the credits.",
          "Audio URLs and playback are NOT tested; existing ESP32 Queue is unchanged."]}
 
