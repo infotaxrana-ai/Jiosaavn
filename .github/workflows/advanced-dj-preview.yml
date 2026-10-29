@@ -1,0 +1,40 @@
+name: Xiaozhi Advanced DJ Queue Preview
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Artist nonstop, 90s, Romantic, Sad or Ghazal
+        required: true
+        default: artist
+        type: choice
+        options: [artist, '90s', romantic, sad, ghazal]
+      artist:
+        description: Artist name (artist mode only)
+        required: false
+        default: Kumar Sanu
+        type: string
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Regression + DJ tests
+        run: python -m unittest -v test_step2.py test_step3.py test_advanced_dj.py
+      - name: Build live DJ preview
+        env:
+          MODE: ${{ inputs.mode }}
+          ARTIST: ${{ inputs.artist }}
+        run: python -u advanced_dj.py --mode "$MODE" --artist "$ARTIST" --limit 60
+      - name: Upload preview
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xiaozhi-advanced-dj-preview
+          path: advanced_dj_preview.json
+          if-no-files-found: warn
