@@ -47,11 +47,16 @@
         "Udit Narayan",
         "Alka Yagnik",
         "Sanjeev-Darshan",
-        "Leo Grewal",
-        "Yo Yo Honey Singh",
+        "Amal C Ajith",
+        "Sruthy Sivadas",
         "Sameer",
-        "Aadi",
-        "Isha Chawla"
+        "Pavish",
+        "Anikha Surendran",
+        "Priya Prakash Varrier",
+        "Matthew Thomas",
+        "Venkatesh Menon",
+        "Rabiya Khatoon",
+        "Ramya Ranganathan"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -105,9 +110,7 @@
         "Sonu Nigam",
         "Kavita Krishnamurthy",
         "A. R. Rahman",
-        "Gulzar",
-        "Shah Rukh Khan",
-        "Manisha Koirala"
+        "Gulzar"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -133,7 +136,9 @@
         "Amitabh Bhattacharya",
         "Varun Grover",
         "Manoj Muntashir",
-        "Shelle"
+        "Shelle",
+        "Varun Dhawan",
+        "Kriti Sanon"
       ],
       "album": "Romantic Mashup 2026 by DJ Star & DJ Alex Mumbai",
       "year_metadata": 2026,
@@ -149,7 +154,10 @@
         "Kumar Sanu",
         "Sadhna Sargam",
         "Nadeem-Shravan",
-        "Sameer"
+        "Prashant Tamang",
+        "Sameer",
+        "Manish Kumar",
+        "Manisha Koirala"
       ],
       "album": "Tere Bina Dil - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -204,9 +212,7 @@
         "Udit Narayan",
         "Kumar Sanu",
         "Sameer",
-        "Akshay Kumar",
-        "Shilpa Shetty",
-        "Suniel Shetty"
+        "Irrfan Khan"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -220,12 +226,12 @@
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
-        "Kaprila",
         "Nadeem-Shravan",
-        "S.P. Balasubrahmanyam",
+        "Roxette",
         "Sameer",
-        "Trisha",
-        "Venkatesh"
+        "Vijay",
+        "Malavika Mohanan",
+        "Vijay Sethupathi"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -273,23 +279,11 @@
       "actual_artists": [
         "Udit Narayan",
         "Himesh Reshammiya",
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Abhijeet",
-        "Sapna Awasthi",
-        "Vinod Rathod",
-        "Lata Mangeshkar",
-        "Nitin Mukesh",
-        "A.R. Rahman",
+        "Mohammed Aziz",
+        "Anuradha Paudwal",
         "Sudhakar Sharma",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Shilpa Shetty",
-        "Twinkle Khanna",
-        "Raveena Tandon",
-        "Juhi Chawla",
-        "Nagma",
-        "Malaika Arora"
+        "Rishi Kapoor",
+        "Sri Devi"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -335,8 +329,8 @@
       "audio_url": "https://aac.saavncdn.com/184/b7ed351b3741306fdf3110785871ce14_48.mp4"
     },
     {
-      "id": "mfhYC6bn",
-      "title": "Aisa Deewana",
+      "id": "N9t3iKfe",
+      "title": "Aisa Deewana (From \"Dil Maange More\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
@@ -346,11 +340,11 @@
         "Shahid Kapoor",
         "Soha Ali Khan"
       ],
-      "album": "Romantic Songs Of Sonu Nigam",
-      "year_metadata": 2015,
+      "album": "Himesh Reshammiya Romantic Hit Songs",
+      "year_metadata": 2025,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/341/fca1b5db8dee0cc098a24ca23b279f3e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/711/57e2bcb30dae3b0a2e246001b91a2dc0_48.mp4"
     },
     {
       "id": "oqSP8nSu",
@@ -396,15 +390,13 @@
       "actual_artists": [
         "Udit Narayan",
         "Alka Yagnik",
+        "Smriti Thakur",
         "Nadeem",
         "Shravan",
-        "Kumar Sanu",
+        "JalRaj",
         "Sameer",
-        "Akshay Kumar",
-        "Amrish Puri",
-        "Mohnish Bahl",
-        "Rakhi",
-        "Raveena Tandon"
+        "Dhanush",
+        "Sara Ali Khan"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -437,21 +429,7 @@
       "actual_artists": [
         "Alka Yagnik",
         "Sanjeev-Darshan",
-        "Swaraj Komejwar",
-        "Mohit Chauhan",
-        "Antara Mitra",
-        "Arijit Singh",
-        "Kavita Seth",
-        "Kumar Sanu",
-        "Shreya Ghoshal",
-        "Tochi Raina",
-        "Kailash Kher",
-        "Shaan",
-        "KK",
-        "Sayeed Quadri",
-        "Sameer",
-        "Amrita Singh",
-        "Dharmendra"
+        "Sameer"
       ],
       "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -460,8 +438,8 @@
       "audio_url": "https://aac.saavncdn.com/466/18e7cd14f5f68c5d08a2178e6ed3dfe6_48.mp4"
     },
     {
-      "id": "N9t3iKfe",
-      "title": "Aisa Deewana (From \"Dil Maange More\")",
+      "id": "mfhYC6bn",
+      "title": "Aisa Deewana",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
@@ -471,11 +449,11 @@
         "Shahid Kapoor",
         "Soha Ali Khan"
       ],
-      "album": "Himesh Reshammiya Romantic Hit Songs",
-      "year_metadata": 2025,
+      "album": "Romantic Songs Of Sonu Nigam",
+      "year_metadata": 2015,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/711/57e2bcb30dae3b0a2e246001b91a2dc0_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/341/fca1b5db8dee0cc098a24ca23b279f3e_48.mp4"
     },
     {
       "id": "Bt07_OpM",
@@ -500,12 +478,11 @@
         "Alka Yagnik",
         "P. Sunanda",
         "Nadeem-Shravan",
+        "Anuv Jain",
         "Sameer",
-        "Pulkit Samrat",
-        "Varun Sharma",
-        "Manjot Singh",
-        "Ali Fazal",
-        "Richa Chadha"
+        "Ajay Devgn",
+        "Ayesha Jhulka",
+        "Karisma Kapoor"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -611,9 +588,9 @@
     },
     "Alka Yagnik": {
       "total": 80,
-      "duplicate": 57,
+      "duplicate": 55,
       "accepted": 13,
-      "mood_unverified": 10
+      "mood_unverified": 12
     },
     "Sonu Nigam": {
       "total": 80,

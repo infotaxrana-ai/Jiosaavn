@@ -156,20 +156,21 @@
       "audio_url": "https://aac.saavncdn.com/802/428c8d9c84640c66fdeedd5658da6f84_48.mp4"
     },
     {
-      "id": "pl2IhAYT",
+      "id": "aXOcPwGI",
       "title": "Ekta Kothai Jane Amar Mon",
       "artist": "Kanak Chapa",
       "actual_artists": [
-        "Monir Khan",
         "Kanak Chapa",
+        "Monir Khan",
         "Alauddin Ali",
+        "Kabir Bakul",
         "Mohammad Rafiquzzaman"
       ],
-      "album": "Ekta Kothai Jane Amar Mon",
-      "year_metadata": 2026,
+      "album": "Romantic Duet Riaz Shabnur",
+      "year_metadata": 2025,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/501/5b16d182a4279f92c714b9c65c974f77_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/989/08d67cbd0b5f0cd0fc75dd5f414fe449_48.mp4"
     },
     {
       "id": "GxQB6DG4",
@@ -187,12 +188,12 @@
       "audio_url": "https://aac.saavncdn.com/658/40b4c317dccc7c455651c8cf66b66879_48.mp4"
     },
     {
-      "id": "weq0dgDe",
-      "title": "Ami Misscall Dile Jobab Diyo",
+      "id": "g58M5HZg",
+      "title": "Bondhu Ki Korila",
       "artist": "Runa Laila",
       "actual_artists": [
         "Runa Laila",
-        "Reshad",
+        "Polash",
         "Moniruzzaman Monir",
         "Arnob",
         "Adit Rahman",
@@ -202,7 +203,7 @@
       "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/627/bcccb45f00ec765d54b09c7d7a3b29cc_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/627/bb72eed40ca95af1d080c817af0d2e57_48.mp4"
     },
     {
       "id": "vx1zL3uR",
@@ -234,36 +235,35 @@
       "audio_url": "https://aac.saavncdn.com/559/de7d3ff5e02deaa5f4625d85a416c293_48.mp4"
     },
     {
-      "id": "ij8BS598",
-      "title": "Keno Bhalobasha Hariye Jai",
+      "id": "Pzhk9NY9",
+      "title": "Shomudro Noy Megh Bristi",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Shamsul Alam"
+        "Munshi Wadud"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/0c119efc10ce1767b1f0bda733c4a304_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/84a2f68525774e43972200f6d171922c_48.mp4"
     },
     {
-      "id": "aXOcPwGI",
+      "id": "pl2IhAYT",
       "title": "Ekta Kothai Jane Amar Mon",
       "artist": "Kanak Chapa",
       "actual_artists": [
-        "Kanak Chapa",
         "Monir Khan",
+        "Kanak Chapa",
         "Alauddin Ali",
-        "Kabir Bakul",
         "Mohammad Rafiquzzaman"
       ],
-      "album": "Romantic Duet Riaz Shabnur",
-      "year_metadata": 2025,
+      "album": "Ekta Kothai Jane Amar Mon",
+      "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/989/08d67cbd0b5f0cd0fc75dd5f414fe449_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/501/5b16d182a4279f92c714b9c65c974f77_48.mp4"
     },
     {
       "id": "PB28thOH",
@@ -272,8 +272,16 @@
       "actual_artists": [
         "Saurabh Gaikwad",
         "Manna Dey",
+        "Papiya Mary Bhattacherjee",
+        "Parram Bhattacharya",
+        "Rashmita Mazumder",
         "Suparnakanti Ghosh",
-        "Gauriprasanna Mazumder"
+        "Hemanta Kumar Mukhopadhyay",
+        "Gauriprasanna Mazumder",
+        "Uttam Kumar",
+        "Suchitra Sen",
+        "Pahari Sanyal",
+        "Chhabi Biswas"
       ],
       "album": "Gauriprasanna Mazumder - Bangla Lofi Special",
       "year_metadata": 2023,
@@ -282,22 +290,20 @@
       "audio_url": "https://aac.saavncdn.com/077/b68fbafaa642077cffca8c9ae6da3846_48.mp4"
     },
     {
-      "id": "g58M5HZg",
-      "title": "Bondhu Ki Korila",
+      "id": "weq0dgDe",
+      "title": "Ami Misscall Dile Jobab Diyo",
       "artist": "Runa Laila",
       "actual_artists": [
         "Runa Laila",
-        "Polash",
+        "Reshad",
         "Moniruzzaman Monir",
-        "Arnob",
-        "Adit Rahman",
         "Shawkat Ali Emon"
       ],
       "album": "Bangla Bhai",
       "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/627/bb72eed40ca95af1d080c817af0d2e57_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/627/bcccb45f00ec765d54b09c7d7a3b29cc_48.mp4"
     },
     {
       "id": "zdU0uD2X",
@@ -320,9 +326,14 @@
       "actual_artists": [
         "Andrew Kishore",
         "Samina Chowdhury",
+        "Pranjal Dahiya",
         "Emon Saha",
+        "Bappi Lahiri",
         "A K Sohel",
-        "Liton"
+        "Liton",
+        "Tapas Paul",
+        "Satabdi Roy",
+        "Ranjit Mallick"
       ],
       "album": "Banglar Bou",
       "year_metadata": 2023,
@@ -331,8 +342,8 @@
       "audio_url": "https://aac.saavncdn.com/322/822fb905d68e77f78bdc85ba1563ceaf_48.mp4"
     },
     {
-      "id": "aEs6FxqJ",
-      "title": "Haire Beduin Mon",
+      "id": "9rV0WkSe",
+      "title": "Ami E Dukkho Janabo",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
@@ -343,7 +354,7 @@
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/ccc6a439ff5d58d36da23b703ce15d1c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/07356c57de3fb88ab4449c66d2154dc6_48.mp4"
     },
     {
       "id": "ENMuZTAF",
@@ -422,19 +433,19 @@
       "audio_url": "https://aac.saavncdn.com/279/13cfa45044527c969870f006ec1ed020_48.mp4"
     },
     {
-      "id": "r3RxA4Zr",
-      "title": "Hajar Moner Kache",
+      "id": "xPZDd5nM",
+      "title": "Amar E Duti Chokh",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Nazrul Islam Babu"
+        "Jahidul Haque"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/5aa7e5edf7a972c91f07eda1de6be04e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/7e2005392faa6054d1215a262286f699_48.mp4"
     },
     {
       "id": "GTMfgvUo",
@@ -498,8 +509,8 @@
     },
     "Manna Dey": {
       "total": 80,
-      "accepted": 34,
-      "not_bengali": 46
+      "accepted": 35,
+      "not_bengali": 45
     }
   },
   "fetch_errors": {

@@ -6,22 +6,6 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "zx_40h2p",
-      "title": "Chura Ke Dil Mera",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Rani Malik"
-      ],
-      "album": "East Aur West Anu Is the Best",
-      "year_metadata": 2021,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/066/e9106ec008675aa10954b9dd4e26ecbf_48.mp4"
-    },
-    {
       "id": "TC5PSqsJ",
       "title": "Chura Ke Dil Mera",
       "artist": "Kumar Sanu",
@@ -63,13 +47,33 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Rani Malik"
+        "Pritam",
+        "Akhtar Chanal Zahri",
+        "Rani Malik",
+        "Akshay Kumar",
+        "Shilpa Shetty"
       ],
       "album": "Bollywood Queens",
       "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/367/887807906880a91aaa1b09432a6e0161_48.mp4"
+    },
+    {
+      "id": "zx_40h2p",
+      "title": "Chura Ke Dil Mera",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Rani Malik"
+      ],
+      "album": "East Aur West Anu Is the Best",
+      "year_metadata": 2021,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/066/e9106ec008675aa10954b9dd4e26ecbf_48.mp4"
     },
     {
       "id": "afzBh3mN",
@@ -86,25 +90,6 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/358/b0f04a630f9ab9dd8152996e5b42a906_48.mp4"
-    },
-    {
-      "id": "BBLYc4mS",
-      "title": "Mera Dil Bhi Kitna Pagal Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "S. P. Balasubrahmanyam",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Madhuri Dixit",
-        "Sanjay Dutt"
-      ],
-      "album": "Saajan",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
     },
     {
       "id": "u0ZrXheF",
@@ -147,23 +132,50 @@
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
-        "Suriya",
-        "Mamitha Baiju",
         "Nadeem",
         "Shravan",
-        "Raju Punjabi",
-        "Sheenam Katholic",
-        "Sameer",
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela"
+        "Sameer"
       ],
       "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
       "year_metadata": 2021,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/412/d7908513646cb957e43d5b60b3a992c2_48.mp4"
+    },
+    {
+      "id": "BBLYc4mS",
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "S. P. Balasubrahmanyam",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
+      ],
+      "album": "Saajan",
+      "year_metadata": 1991,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
+    },
+    {
+      "id": "t4uQLt6v",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai (From \"Sirf Tum\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Sameer",
+        "Super Cassettes Industries Private Limited",
+        "Kumar Sanu",
+        "Alka Yagnik"
+      ],
+      "album": "Bollywood Classic Hits",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/066/5aab83a0bca6f3ab89e8eb915bc8380d_48.mp4"
     },
     {
       "id": "-vNMHZD1",
@@ -191,31 +203,13 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sanjay Kapoor",
-        "Priya Gill"
+        "Sameer"
       ],
       "album": "Dilbar Remix",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
-    },
-    {
-      "id": "t4uQLt6v",
-      "title": "Pehli Pehli Baar Mohabbat Ki Hai (From \"Sirf Tum\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Sameer",
-        "Super Cassettes Industries Private Limited",
-        "Kumar Sanu",
-        "Alka Yagnik"
-      ],
-      "album": "Bollywood Classic Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/066/5aab83a0bca6f3ab89e8eb915bc8380d_48.mp4"
     },
     {
       "id": "wGhGhyVh",
@@ -233,24 +227,6 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/922/305d813638992d3767e508572954b4a9_48.mp4"
-    },
-    {
-      "id": "1pxpgV6l",
-      "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Udit Narayan",
-        "Alka Yagnik",
-        "Kumar Sanu",
-        "Nadeem",
-        "Shravan",
-        "Sameer"
-      ],
-      "album": "Sunil Shetty - 12 Superhit Songs",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/417/344297c2d580dd6bbbaee6b68ec50a0d_48.mp4"
     },
     {
       "id": "EfsTgKZD",
@@ -273,22 +249,22 @@
       "audio_url": "https://aac.saavncdn.com/454/c27601522d4588a6ac94ce49460e7d70_48.mp4"
     },
     {
-      "id": "KOXu88KG",
-      "title": "Suniyo Zara (From \"Suryaa\")",
+      "id": "1pxpgV6l",
+      "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
-        "Kumar Sanu",
         "Udit Narayan",
-        "Anupam Amod",
-        "RAAHEE",
-        "Priya Saraiya",
-        "Sunny Deol"
+        "Alka Yagnik",
+        "Kumar Sanu",
+        "Nadeem",
+        "Shravan",
+        "Sameer"
       ],
-      "album": "Suniyo Zara (From \"Suryaa\")",
-      "year_metadata": 2026,
+      "album": "Sunil Shetty - 12 Superhit Songs",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/506/b462941b388067af30f13260dcb94c3d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/417/344297c2d580dd6bbbaee6b68ec50a0d_48.mp4"
     },
     {
       "id": "uRhlGQvH",
@@ -385,6 +361,24 @@
       "audio_url": "https://aac.saavncdn.com/995/7d16f2a00f678a52fc13bea59a26ae0d_48.mp4"
     },
     {
+      "id": "KOXu88KG",
+      "title": "Suniyo Zara (From \"Suryaa\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Anupam Amod",
+        "RAAHEE",
+        "Priya Saraiya",
+        "Sunny Deol"
+      ],
+      "album": "Suniyo Zara (From \"Suryaa\")",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/506/b462941b388067af30f13260dcb94c3d_48.mp4"
+    },
+    {
       "id": "RSrFVHos",
       "title": "Chand Se Parda Kijiye",
       "artist": "Kumar Sanu",
@@ -421,7 +415,7 @@
       "audio_url": "https://aac.saavncdn.com/155/f160a14690ae1f71fb72b336780c0b87_48.mp4"
     },
     {
-      "id": "cCGI71BZ",
+      "id": "Mxmf57ES",
       "title": "Baazigar O Baazigar (From \"Baazigar\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
@@ -430,11 +424,11 @@
         "Anu Malik",
         "Nawab Arzoo"
       ],
-      "album": "Bollywood Moments",
-      "year_metadata": 2026,
+      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
+      "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/765/996b5fc3048892d54d89f35a41773628_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/586/2b3ef9901b0f342d9fa34f2ff08cca64_48.mp4"
     },
     {
       "id": "YdmgPtZ3",
@@ -456,20 +450,23 @@
       "audio_url": "https://aac.saavncdn.com/409/b05d8a94d4347e8093228d9f1fca3f07_48.mp4"
     },
     {
-      "id": "Mxmf57ES",
+      "id": "cCGI71BZ",
       "title": "Baazigar O Baazigar (From \"Baazigar\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Nawab Arzoo"
+        "Nawab Arzoo",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Shilpa Shetty"
       ],
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-      "year_metadata": 2016,
+      "album": "Bollywood Moments",
+      "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/586/2b3ef9901b0f342d9fa34f2ff08cca64_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/765/996b5fc3048892d54d89f35a41773628_48.mp4"
     },
     {
       "id": "CtcxcHma",
@@ -490,51 +487,6 @@
       "audio_url": "https://aac.saavncdn.com/020/da0d5fcdf8aa2ce391e63327ebba1c00_48.mp4"
     },
     {
-      "id": "T6UdZ9mW",
-      "title": "Woh Ladki Bahut Yaad Aati-Duet (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Raftaar",
-        "Nadeem",
-        "Shravan",
-        "Sunidhi Chauhan",
-        "Sameer",
-        "Sidharth Malhotra",
-        "Manoj Bajpayee",
-        "Rakul Preet",
-        "Pooja Chopra",
-        "Adil Hussain",
-        "Kumud Mishra",
-        "Naseeruddin Shah",
-        "Anupam Kher"
-      ],
-      "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
-      "year_metadata": 2021,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/412/a607fc0769678724013331f19233fe75_48.mp4"
-    },
-    {
-      "id": "nrFGr_If",
-      "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
-      ],
-      "album": "Bollywood Star - Ajay Devgn",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/116/9de10a9bc35bd137c2b84aa1155088bc_48.mp4"
-    },
-    {
       "id": "xUTQkP-F",
       "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
       "artist": "Kumar Sanu",
@@ -542,7 +494,7 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Nadeem-Shravan",
-        "Udit Narayan",
+        "Rishu Singh",
         "Sameer",
         "Ajay Devgn",
         "Neha Dhupia"
@@ -552,6 +504,40 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/367/5c3c5061059c487bed0b6bcf453946da_48.mp4"
+    },
+    {
+      "id": "3vDFK8sV",
+      "title": "Woh Ladki Bahut Yaad Aati",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Ajay Devgn",
+        "Neha Dhupia"
+      ],
+      "album": "Qayamat (Original Motion Picture Soundtrack)",
+      "year_metadata": 2003,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/073/aa8ba4fedf93426e34f84c47d0806655_48.mp4"
+    },
+    {
+      "id": "nrFGr_If",
+      "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer"
+      ],
+      "album": "Bollywood Star - Ajay Devgn",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/116/9de10a9bc35bd137c2b84aa1155088bc_48.mp4"
     }
   ],
   "audit": {

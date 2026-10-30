@@ -11,7 +11,13 @@
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Talat Aziz",
-        "Jagjit Singh"
+        "Jagjit Singh",
+        "Shubham Gupta",
+        "Shreya Singh",
+        "Govinda",
+        "Tabu",
+        "Karisma Kapoor",
+        "Shwetha Menon"
       ],
       "album": "Jagjit Singh Presents Talat Aziz",
       "year_metadata": 2008,
@@ -93,9 +99,11 @@
         "Sachin Gupta",
         "Qateel Shifai",
         "Mumtaz Rashid",
-        "Nandana Sen",
-        "Vivek Oberoi",
-        "Aruna Shields"
+        "Saqib Saleem",
+        "Introducing Rhea Chakraborthy",
+        "Ram Kapoor",
+        "Prabal Panjabi",
+        "Ravi Kishan"
       ],
       "album": "Chandi Jaisa Rang (Ghazal Lofi)",
       "year_metadata": 2024,
@@ -124,18 +132,11 @@
       "actual_artists": [
         "Talat Aziz",
         "Nisar Bazmi",
-        "Anuradha Paudwal",
-        "Masroor Anwar",
-        "Marc Zuber",
-        "Shabana Azmi",
-        "Parveen Babi",
-        "Sunil Lahiri",
-        "Mala Jaggi",
-        "Bharati Achrekar",
-        "Neena Gupta",
-        "Sudhir Pandey",
-        "Vinod Pande",
-        "Dinesh Kaushik"
+        "Mahesh Matkar",
+        "IJ Mishra",
+        "Satyajeet",
+        "Harshdeep Kaur",
+        "Masroor Anwar"
       ],
       "album": "Shaam E Ghazal Talat Aziz",
       "year_metadata": 2009,
@@ -149,7 +150,6 @@
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Diljit Dosanjh",
         "Mirza Ghalib"
       ],
       "album": "The Inimitable Ghazal Composed By Jagjit Singh",
@@ -165,13 +165,32 @@
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "S. Rakesh"
+        "S. Rakesh",
+        "Nandana Sen",
+        "Vivek Oberoi",
+        "Aruna Shields"
       ],
       "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
+    },
+    {
+      "id": "ZTT93ZHV",
+      "title": "Khud Ko Behtar (Album Version)",
+      "artist": "Ghulam Ali",
+      "actual_artists": [
+        "Hariharan",
+        "Ustad Ghulam Mustafa Khan",
+        "Ghulam Ali",
+        "Ahmed Faraz"
+      ],
+      "album": "Ghazal Ka Mausam",
+      "year_metadata": 2008,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/562/8a6cb0a8b8aa73fdbade21798e3d3563_48.mp4"
     },
     {
       "id": "zLMUZrOQ",
@@ -209,7 +228,8 @@
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "Zafar Gorakhpuri"
+        "Zafar Gorakhpuri",
+        "Siddharth"
       ],
       "album": "Pankaj Udhas Lofi Songs",
       "year_metadata": 2024,
@@ -223,57 +243,23 @@
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Daagh Dehlvi()"
+        "Daagh Dehlvi()",
+        "Marc Zuber",
+        "Shabana Azmi",
+        "Parveen Babi",
+        "Sunil Lahiri",
+        "Mala Jaggi",
+        "Bharati Achrekar",
+        "Neena Gupta",
+        "Sudhir Pandey",
+        "Vinod Pande",
+        "Dinesh Kaushik"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/236/c978b797b0019b074de0773b68cdfd32_48.mp4"
-    },
-    {
-      "id": "8LrHu8sU",
-      "title": "Zindagi Tujh Ko Jiya Hai",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Chitra Singh",
-        "Jagjit Singh",
-        "Sudarshan Faakir"
-      ],
-      "album": "Ghazal Ka Safar, Vol. 3 (The Journey of The Legends)",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/226/d44382490dfb671447867ef67a25df1c_48.mp4"
-    },
-    {
-      "id": "fNUG2JAh",
-      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "S. Rakesh"
-      ],
-      "album": "Pankaj Udhas Lofi Songs",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/270/bb151bebcf1cddf7eef909a6a467e0bb_48.mp4"
-    },
-    {
-      "id": "M9D0XW7x",
-      "title": "Dil Se",
-      "artist": "Talat Aziz",
-      "actual_artists": [
-        "Talat Aziz",
-        "Mirza Ghalib()"
-      ],
-      "album": "Caravan - E - Ghazal",
-      "year_metadata": 2006,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/aea14bce5de4a2d31dc2e7145fddb71a_48.mp4"
     },
     {
       "id": "J1h1elUG",
@@ -300,6 +286,51 @@
       "language_metadata": "urdu",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/417/e5ee329e74682b2098f8f978769be13f_48.mp4"
+    },
+    {
+      "id": "fNUG2JAh",
+      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "S. Rakesh",
+        "Siddharth"
+      ],
+      "album": "Pankaj Udhas Lofi Songs",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/270/bb151bebcf1cddf7eef909a6a467e0bb_48.mp4"
+    },
+    {
+      "id": "M9D0XW7x",
+      "title": "Dil Se",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Mirza Ghalib()"
+      ],
+      "album": "Caravan - E - Ghazal",
+      "year_metadata": 2006,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/236/aea14bce5de4a2d31dc2e7145fddb71a_48.mp4"
+    },
+    {
+      "id": "8LrHu8sU",
+      "title": "Zindagi Tujh Ko Jiya Hai",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Chitra Singh",
+        "Jagjit Singh",
+        "Sudarshan Faakir"
+      ],
+      "album": "Ghazal Ka Safar, Vol. 3 (The Journey of The Legends)",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/226/d44382490dfb671447867ef67a25df1c_48.mp4"
     },
     {
       "id": "YRA-fq6M",
@@ -347,20 +378,20 @@
       "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
     },
     {
-      "id": "MTfotXeN",
-      "title": "Ek Aisi Ghazal (Mulaqaat / Soundtrack Version)",
+      "id": "Rfzmoec5",
+      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
-        "Suman Sudip",
-        "Sachin Gupta",
-        "Unknown"
+        "Sadhana Sargam",
+        "Viju Shah",
+        "Indeevar"
       ],
-      "album": "Mulaqaat",
-      "year_metadata": 2008,
+      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
+      "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/382/89cf31eeb14119f0c8918154fff5d8e2_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
     },
     {
       "id": "Bcb6vlFE",
@@ -392,20 +423,20 @@
       "audio_url": "https://aac.saavncdn.com/357/04c9dc20ae14a8d557b4ee001e3e0f6f_sar_48.mp4"
     },
     {
-      "id": "Rfzmoec5",
-      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
+      "id": "MTfotXeN",
+      "title": "Ek Aisi Ghazal (Mulaqaat / Soundtrack Version)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
-        "Sadhana Sargam",
-        "Viju Shah",
-        "Indeevar"
+        "Suman Sudip",
+        "Sachin Gupta",
+        "Unknown"
       ],
-      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
-      "year_metadata": 2016,
+      "album": "Mulaqaat",
+      "year_metadata": 2008,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/382/89cf31eeb14119f0c8918154fff5d8e2_48.mp4"
     },
     {
       "id": "D7698Bz4",
@@ -468,25 +499,6 @@
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/236/77db5b795c6db19fad0239b68300ba9e_48.mp4"
-    },
-    {
-      "id": "sUZbMUIL",
-      "title": "Tum Ko Dekha To Yeh Khayal Aaya (From \"Saath Saath\")",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Chitra Singh",
-        "Kuldeep Singh",
-        "Javed Akhtar",
-        "Deepti Naval",
-        "Farooq Sheikh",
-        "Dilip Dhawan"
-      ],
-      "album": "Darbar- E-Ghazal",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/461/593b7ca9774f6dae8625855375ab8b48_48.mp4"
     }
   ],
   "audit": {
@@ -499,13 +511,15 @@
     "Pankaj Udhas": {
       "total": 80,
       "accepted": 41,
-      "ghazal_genre_unverified": 37,
-      "duplicate": 2
+      "ghazal_genre_unverified": 38,
+      "duplicate": 1
     },
     "Ghulam Ali": {
-      "total": 52,
-      "artist_mismatch": 50,
-      "accepted": 2
+      "total": 80,
+      "artist_mismatch": 63,
+      "accepted": 3,
+      "ghazal_genre_unverified": 13,
+      "duplicate": 1
     },
     "Talat Aziz": {
       "total": 80,

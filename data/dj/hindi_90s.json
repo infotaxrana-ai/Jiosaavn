@@ -126,9 +126,7 @@
       "actual_artists": [
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sushmita Sen",
-        "Sanjay Kapoor"
+        "Sameer"
       ],
       "album": "Dilbar Remix",
       "year_metadata": 1999,
@@ -161,9 +159,7 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sanjay Kapoor",
-        "Priya Gill"
+        "Sameer"
       ],
       "album": "Dilbar Remix",
       "year_metadata": 1999,
@@ -244,22 +240,22 @@
       "audio_url": "https://aac.saavncdn.com/318/ce90eb0ea34ddcdb70948c179f6bcba5_48.mp4"
     },
     {
-      "id": "mnyjAhAa",
-      "title": "Mujhe Neend Na Aaye",
+      "id": "4ohPybvm",
+      "title": "Kya Karte They Sajna",
       "artist": "Udit Narayan",
       "actual_artists": [
-        "Anand-Milind",
         "Udit Narayan",
         "Anuradha Paudwal",
-        "Sameer",
-        "Aamir Khan",
-        "Madhuri Dixit"
+        "Anand-Milind",
+        "Majrooh Sultanpuri",
+        "Sahil Chadha",
+        "Veverly Wheeler"
       ],
-      "album": "Dil",
+      "album": "Lal Dupatta Malmal Ka",
       "year_metadata": 1990,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/531/bd5ceccae9988389d34b3d667e468c26_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/921/4ae1cf697e2bd260fc86f18a21edab96_48.mp4"
     },
     {
       "id": "cKPYXoDl",
@@ -269,6 +265,7 @@
         "Alka Yagnik",
         "Vinod Rathod",
         "Nadeem-Shravan",
+        "Arijit Singh",
         "Sameer",
         "Divya Bharti",
         "Shah Rukh Khan"
@@ -316,22 +313,22 @@
       "audio_url": "https://aac.saavncdn.com/416/400150427d8e792c9bcdd4f0ab8e8796_48.mp4"
     },
     {
-      "id": "4ohPybvm",
-      "title": "Kya Karte They Sajna",
+      "id": "mnyjAhAa",
+      "title": "Mujhe Neend Na Aaye",
       "artist": "Udit Narayan",
       "actual_artists": [
+        "Anand-Milind",
         "Udit Narayan",
         "Anuradha Paudwal",
-        "Anand-Milind",
-        "Majrooh Sultanpuri",
-        "Sahil Chadha",
-        "Veverly Wheeler"
+        "Sameer",
+        "Aamir Khan",
+        "Madhuri Dixit"
       ],
-      "album": "Lal Dupatta Malmal Ka",
+      "album": "Dil",
       "year_metadata": 1990,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/921/4ae1cf697e2bd260fc86f18a21edab96_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/531/bd5ceccae9988389d34b3d667e468c26_48.mp4"
     },
     {
       "id": "ZUKuoGM3",
@@ -416,10 +413,11 @@
         "Alka Yagnik",
         "Shankar Mahadevan",
         "Anu Malik",
-        "Udit Narayan",
+        "Tulsi Kumar",
+        "KK",
         "Rahat Indoree",
-        "Saif Ali Khan",
-        "Raageshwari"
+        "Aditya Roy Kapur",
+        "Shraddha Kapoor"
       ],
       "album": "Ghatak",
       "year_metadata": 1996,
@@ -435,11 +433,9 @@
         "Anuradha Paudwal",
         "Arun Paudwal",
         "Traditional",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Sunny Deol"
+        "Madhuri Dixit",
+        "Sanjay Dutt",
+        "Salman Khan"
       ],
       "album": "Ram Ratan Dhan Payo",
       "year_metadata": 1993,
@@ -466,21 +462,24 @@
       "audio_url": "https://aac.saavncdn.com/020/da0d5fcdf8aa2ce391e63327ebba1c00_48.mp4"
     },
     {
-      "id": "OvMYe0ik",
-      "title": "O Dil Tod Ke Hansti Ho Mera",
+      "id": "s9CXLoLM",
+      "title": "Chanda Sitare",
       "artist": "Udit Narayan",
       "actual_artists": [
         "Udit Narayan",
-        "Nikhil-Vinay",
-        "Yogesh",
-        "Shilpa Shirodkar",
-        "Krishan Kumar Dua"
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Govinda",
+        "Mamta Kulkarni",
+        "Rahul Roy",
+        "Kader Khan"
       ],
-      "album": "Bewafa Sanam",
-      "year_metadata": 1995,
+      "album": "Naseeb",
+      "year_metadata": 1998,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/019/b66c5e42eb15ec93d3854afdd9addfb6_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/364/45b2635bdc2bf89dcd83657b29bf3734_48.mp4"
     },
     {
       "id": "4ht8pg-2",
@@ -533,24 +532,21 @@
       "audio_url": "https://aac.saavncdn.com/341/bdcd1e6971fb1628fe425b659ab18261_48.mp4"
     },
     {
-      "id": "s9CXLoLM",
-      "title": "Chanda Sitare",
+      "id": "OvMYe0ik",
+      "title": "O Dil Tod Ke Hansti Ho Mera",
       "artist": "Udit Narayan",
       "actual_artists": [
         "Udit Narayan",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Govinda",
-        "Mamta Kulkarni",
-        "Rahul Roy",
-        "Kader Khan"
+        "Nikhil-Vinay",
+        "Yogesh",
+        "Shilpa Shirodkar",
+        "Krishan Kumar Dua"
       ],
-      "album": "Naseeb",
-      "year_metadata": 1998,
+      "album": "Bewafa Sanam",
+      "year_metadata": 1995,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/364/45b2635bdc2bf89dcd83657b29bf3734_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/019/b66c5e42eb15ec93d3854afdd9addfb6_48.mp4"
     }
   ],
   "audit": {
@@ -567,13 +563,13 @@
     },
     "Alka Yagnik": {
       "total": 80,
-      "duplicate": 53,
-      "accepted": 27
+      "duplicate": 54,
+      "accepted": 26
     },
     "Anuradha Paudwal": {
       "total": 80,
-      "duplicate": 41,
-      "accepted": 37,
+      "duplicate": 42,
+      "accepted": 36,
       "not_hindi": 2
     },
     "Abhijeet Bhattacharya": {
