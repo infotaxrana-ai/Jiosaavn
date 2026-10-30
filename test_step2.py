@@ -2,7 +2,7 @@ import unittest
 from build_dj import filter_songs
 
 def song(id, name, artist, url='https://audio.example/audio.m4a'):
-    return dict(id=id, name=name, artists={'primary':[{'name':artist}]},downloadUrl=[{'quality':'320kbps','url':url}])
+    return dict(id=id, name=name, artists={'primary':[{'name':artist}]},downloadUrl=[{'quality':'48kbps','url':url}])
 
 class FilterTests(unittest.TestCase):
     def test_strict_artist_and_duplicate_and_missing(self):
