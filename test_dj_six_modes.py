@@ -4,7 +4,7 @@ from pathlib import Path
 import tempfile,json
 def song(artist="Kumar Sanu",year=1995,language="Hindi",genre="Romantic",id="one"):
  return {"id":id,"name":"A love song","artists":{"primary":[{"name":artist}]},
- "year":year,"language":language,"genre":genre,"downloadUrl":[{"url":"https://example.org/x.mp4"}]}
+ "year":year,"language":language,"genre":genre,"downloadUrl":[{"quality":"48kbps","url":"https://example.org/x_48.mp4"}]}
 class DJTests(unittest.TestCase):
  def test_year(self):
   self.assertTrue(mode_verdict(song(),"hindi_90s")[0])
