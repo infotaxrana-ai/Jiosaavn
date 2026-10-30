@@ -2,7 +2,7 @@ import unittest
 from build_dj_modes import extract_year, is_ghazal, is_hindi_movie, candidates, build
 
 def song(title,artist,year=None,genre=None,movie=None):
-    d={'id':title,'name':title,'artists':{'primary':[{'name':artist}]},'downloadUrl':[{'url':'https://audio.example/'+title.replace(' ','-')+'.mp3'}]}
+    d={'id':title,'name':title,'artists':{'primary':[{'name':artist}]},'downloadUrl':[{'quality':'48kbps','url':'https://audio.example/'+title.replace(' ','-')+'.mp3'}]}
     if year is not None: d['year']=year
     if genre: d['genre']=genre
     if movie: d['movie']=movie
