@@ -24,22 +24,6 @@
       "audio_url": "https://aac.saavncdn.com/474/fc90bd930001b9e5eb98ac005cce18ba_48.mp4"
     },
     {
-      "id": "EwaVRyUv",
-      "title": "Chura Ke Dil Mera",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Rani Malik"
-      ],
-      "album": "Main Khiladi Tu Anari (With Jhankar Beats)",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/274/7fef90c6c49981cb50403835234722da_48.mp4"
-    },
-    {
       "id": "sTsu7vAH",
       "title": "Chura Ke Dil Mera (From \"Main Khiladi Tu Anari\")",
       "artist": "Kumar Sanu",
@@ -47,11 +31,7 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Pritam",
-        "Akhtar Chanal Zahri",
-        "Rani Malik",
-        "Akshay Kumar",
-        "Shilpa Shetty"
+        "Rani Malik"
       ],
       "album": "Bollywood Queens",
       "year_metadata": 2016,
@@ -76,6 +56,22 @@
       "audio_url": "https://aac.saavncdn.com/066/e9106ec008675aa10954b9dd4e26ecbf_48.mp4"
     },
     {
+      "id": "EwaVRyUv",
+      "title": "Chura Ke Dil Mera",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Rani Malik"
+      ],
+      "album": "Main Khiladi Tu Anari (With Jhankar Beats)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/274/7fef90c6c49981cb50403835234722da_48.mp4"
+    },
+    {
       "id": "afzBh3mN",
       "title": "Mera Dil Bhi Kitna Pagal Hai",
       "artist": "Kumar Sanu",
@@ -83,13 +79,35 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Nadeem-Shravan",
-        "Sameer"
+        "S. P. Balasubrahmanyam",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
       ],
       "album": "Kumar Sanu Ke Sunehre Nagme",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/358/b0f04a630f9ab9dd8152996e5b42a906_48.mp4"
+    },
+    {
+      "id": "BBLYc4mS",
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "S. P. Balasubrahmanyam",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
+      ],
+      "album": "Saajan",
+      "year_metadata": 1991,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
     },
     {
       "id": "u0ZrXheF",
@@ -143,23 +161,47 @@
       "audio_url": "https://aac.saavncdn.com/412/d7908513646cb957e43d5b60b3a992c2_48.mp4"
     },
     {
-      "id": "BBLYc4mS",
-      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "id": "U3wEEo6F",
+      "title": "Tujhe Dekha To",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Lata Mangeshkar",
+        "Kumar Sanu",
+        "Jatin-Lalit",
+        "Anand Bakshi",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Anupam Kher",
+        "Amrish Puri",
+        "Farida Jalal",
+        "Satish Shah",
+        "Achala Sachdev",
+        "Mandira Bedi",
+        "Karan Johar"
+      ],
+      "album": "Dilwale Dulhania Le Jayenge",
+      "year_metadata": 1995,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/588/1915cd0934f79eeb646ffebde384e59d_sar_48.mp4"
+    },
+    {
+      "id": "EOwkcCf1",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai (Remix)",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
-        "S. P. Balasubrahmanyam",
         "Alka Yagnik",
-        "Nadeem-Shravan",
+        "Super Cassettes Industries Private Limited",
         "Sameer",
-        "Madhuri Dixit",
-        "Sanjay Dutt"
+        "Sanjay Kapoor",
+        "Priya Gill"
       ],
-      "album": "Saajan",
-      "year_metadata": 1991,
+      "album": "Dilbar Remix",
+      "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/461/e5ec72fde6980ef6fc434aae3c02fe3d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
     },
     {
       "id": "t4uQLt6v",
@@ -196,37 +238,44 @@
       "audio_url": "https://aac.saavncdn.com/318/ce90eb0ea34ddcdb70948c179f6bcba5_48.mp4"
     },
     {
-      "id": "EOwkcCf1",
-      "title": "Pehli Pehli Baar Mohabbat Ki Hai (Remix)",
+      "id": "oQ6SIBP4",
+      "title": "Tumse Milne Ko Dil",
       "artist": "Kumar Sanu",
       "actual_artists": [
-        "Kumar Sanu",
         "Alka Yagnik",
-        "Super Cassettes Industries Private Limited",
-        "Sameer"
+        "Kumar Sanu",
+        "Nadeem",
+        "Shravan",
+        "Rani Malik",
+        "Ajay Devgn",
+        "Madhoo"
       ],
-      "album": "Dilbar Remix",
-      "year_metadata": 1999,
+      "album": "Phool Aur Kaante",
+      "year_metadata": 1991,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/882/53f10ed42eda671b2f809925dcc27e58_48.mp4"
     },
     {
-      "id": "wGhGhyVh",
+      "id": "1pxpgV6l",
       "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Udit Narayan",
         "Alka Yagnik",
         "Kumar Sanu",
-        "Nadeem-Shravan",
-        "Sameer"
+        "Nadeem",
+        "Shravan",
+        "Sameer",
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
       ],
-      "album": "Director Special Dharmesh Darshan Hits",
-      "year_metadata": 2021,
+      "album": "Sunil Shetty - 12 Superhit Songs",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/922/305d813638992d3767e508572954b4a9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/417/344297c2d580dd6bbbaee6b68ec50a0d_48.mp4"
     },
     {
       "id": "EfsTgKZD",
@@ -249,22 +298,68 @@
       "audio_url": "https://aac.saavncdn.com/454/c27601522d4588a6ac94ce49460e7d70_48.mp4"
     },
     {
-      "id": "1pxpgV6l",
+      "id": "wGhGhyVh",
       "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Udit Narayan",
         "Alka Yagnik",
         "Kumar Sanu",
-        "Nadeem",
-        "Shravan",
-        "Sameer"
+        "Kala Dighal",
+        "Nadeem-Shravan",
+        "Mervin Solomon",
+        "Satya Yamini",
+        "Vivek-Mervin",
+        "Krishna Kanth",
+        "Sameer",
+        "Katrina Kaif",
+        "Aditya Roy Kapur",
+        "Tabu"
       ],
-      "album": "Sunil Shetty - 12 Superhit Songs",
-      "year_metadata": 2017,
+      "album": "Director Special Dharmesh Darshan Hits",
+      "year_metadata": 2021,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/417/344297c2d580dd6bbbaee6b68ec50a0d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/922/305d813638992d3767e508572954b4a9_48.mp4"
+    },
+    {
+      "id": "KOXu88KG",
+      "title": "Suniyo Zara (From \"Suryaa\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Anupam Amod",
+        "RAAHEE",
+        "Priya Saraiya",
+        "Sunny Deol"
+      ],
+      "album": "Suniyo Zara (From \"Suryaa\")",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/506/b462941b388067af30f13260dcb94c3d_48.mp4"
+    },
+    {
+      "id": "Za0OM3hZ",
+      "title": "Mohabbat Dil Ka Sakoon",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Sameer Anjaan",
+        "Nadeem-Shravan",
+        "Alka Yagnik",
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Nadeem Akhtar Saifi",
+        "Shravan Kumar Rathod",
+        "Arjun Rampal",
+        "Preity Zinta"
+      ],
+      "album": "Dil Hai Tumhaara",
+      "year_metadata": 2002,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/541/7134d6ad8fc09e36f8ff5944e3fd8fd7_48.mp4"
     },
     {
       "id": "uRhlGQvH",
@@ -300,6 +395,43 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/066/ff705941bde60d164161e7f1c206ddcc_48.mp4"
+    },
+    {
+      "id": "cAwd_dgB",
+      "title": "Shaam Bhi Khoob Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Sanjeev-Darshan",
+        "Sameer"
+      ],
+      "album": "Karz: The Burden Of Truth",
+      "year_metadata": 2002,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/995/d6251244af34bf7134125903aad03b45_48.mp4"
+    },
+    {
+      "id": "5qQwHnAc",
+      "title": "Shaam Bhi Khoob Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Daft Punk",
+        "Sanjeev-Darshan",
+        "Sameer",
+        "Venkatesh",
+        "Asin"
+      ],
+      "album": "Karz: The Burden Of Truth",
+      "year_metadata": 2002,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/995/7d16f2a00f678a52fc13bea59a26ae0d_48.mp4"
     },
     {
       "id": "-Effa_oZ",
@@ -344,57 +476,38 @@
       "audio_url": "https://aac.saavncdn.com/819/91b9295c9ba9a13b1cae5e7cfd20221b_48.mp4"
     },
     {
-      "id": "5qQwHnAc",
-      "title": "Shaam Bhi Khoob Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Udit Narayan",
-        "Alka Yagnik",
-        "Sanjeev-Darshan",
-        "Sameer"
-      ],
-      "album": "Karz: The Burden Of Truth",
-      "year_metadata": 2002,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/995/7d16f2a00f678a52fc13bea59a26ae0d_48.mp4"
-    },
-    {
-      "id": "KOXu88KG",
-      "title": "Suniyo Zara (From \"Suryaa\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Udit Narayan",
-        "Anupam Amod",
-        "RAAHEE",
-        "Priya Saraiya",
-        "Sunny Deol"
-      ],
-      "album": "Suniyo Zara (From \"Suryaa\")",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/506/b462941b388067af30f13260dcb94c3d_48.mp4"
-    },
-    {
-      "id": "RSrFVHos",
-      "title": "Chand Se Parda Kijiye",
+      "id": "VPJ3_ulJ",
+      "title": "Chand Se Parda (from \"Aao Pyar Karen\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Aadesh Shrivastava",
-        "Rajinder Kishan",
+        "Shyam Raj Kiran",
         "Saif Ali Khan",
         "Shilpa Shetty",
         "Somy Ali"
       ],
-      "album": "Aao Pyar Karen",
-      "year_metadata": 1994,
+      "album": "Best Of Bollywood",
+      "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/416/400150427d8e792c9bcdd4f0ab8e8796_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/904/671fae85c9d0da41fd32f053eff5c04b_48.mp4"
+    },
+    {
+      "id": "5qfMpCrl",
+      "title": "Chand Se Parda (From \"Aao Pyar Karen\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Aadesh Shrivastava",
+        "Kumar Sanu",
+        "Shyam Raj Kiran",
+        "Shilpa Shetty"
+      ],
+      "album": "Chand Se Parda - Shilpa Shetty Hits",
+      "year_metadata": 2014,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/540/e4f1ea955c969ffc03e0750148e28cea_48.mp4"
     },
     {
       "id": "ITeVtBUy",
@@ -415,129 +528,38 @@
       "audio_url": "https://aac.saavncdn.com/155/f160a14690ae1f71fb72b336780c0b87_48.mp4"
     },
     {
-      "id": "Mxmf57ES",
-      "title": "Baazigar O Baazigar (From \"Baazigar\")",
+      "id": "gWO8grLS",
+      "title": "Chand Se Parda (From \"Aao Pyar Karen\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Nawab Arzoo"
-      ],
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/586/2b3ef9901b0f342d9fa34f2ff08cca64_48.mp4"
-    },
-    {
-      "id": "YdmgPtZ3",
-      "title": "Baazigar O Baazigar",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Nawab Arzoo",
-        "Shah Rukh Khan",
-        "Kajol",
+        "Aadesh Shrivastava",
+        "Shyam Raj Kiran",
         "Shilpa Shetty"
       ],
-      "album": "Baazigar",
-      "year_metadata": 1993,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/409/b05d8a94d4347e8093228d9f1fca3f07_48.mp4"
-    },
-    {
-      "id": "cCGI71BZ",
-      "title": "Baazigar O Baazigar (From \"Baazigar\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Nawab Arzoo",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Shilpa Shetty"
-      ],
-      "album": "Bollywood Moments",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/765/996b5fc3048892d54d89f35a41773628_48.mp4"
-    },
-    {
-      "id": "CtcxcHma",
-      "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Kumar Sanu",
-        "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sanjay Dutt",
-        "Pooja Bhatt"
-      ],
-      "album": "Sadak",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/020/da0d5fcdf8aa2ce391e63327ebba1c00_48.mp4"
-    },
-    {
-      "id": "xUTQkP-F",
-      "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Rishu Singh",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
-      ],
-      "album": "Bollywood Queens",
+      "album": "90's Hits Of Shilpa Shetty",
       "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/367/5c3c5061059c487bed0b6bcf453946da_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/232/4dfed1607c3925c2b75ca56a18e0be82_48.mp4"
     },
     {
-      "id": "3vDFK8sV",
-      "title": "Woh Ladki Bahut Yaad Aati",
+      "id": "RSrFVHos",
+      "title": "Chand Se Parda Kijiye",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
+        "Aadesh Shrivastava",
+        "Rajinder Kishan",
+        "Saif Ali Khan",
+        "Shilpa Shetty",
+        "Somy Ali"
       ],
-      "album": "Qayamat (Original Motion Picture Soundtrack)",
-      "year_metadata": 2003,
+      "album": "Aao Pyar Karen",
+      "year_metadata": 1994,
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/073/aa8ba4fedf93426e34f84c47d0806655_48.mp4"
-    },
-    {
-      "id": "nrFGr_If",
-      "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer"
-      ],
-      "album": "Bollywood Star - Ajay Devgn",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/116/9de10a9bc35bd137c2b84aa1155088bc_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/416/400150427d8e792c9bcdd4f0ab8e8796_48.mp4"
     }
   ],
   "audit": {
