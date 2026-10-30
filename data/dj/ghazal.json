@@ -92,7 +92,10 @@
         "Pankaj Udhas",
         "Sachin Gupta",
         "Qateel Shifai",
-        "Mumtaz Rashid"
+        "Mumtaz Rashid",
+        "Nandana Sen",
+        "Vivek Oberoi",
+        "Aruna Shields"
       ],
       "album": "Chandi Jaisa Rang (Ghazal Lofi)",
       "year_metadata": 2024,
@@ -121,7 +124,18 @@
       "actual_artists": [
         "Talat Aziz",
         "Nisar Bazmi",
-        "Masroor Anwar"
+        "Anuradha Paudwal",
+        "Masroor Anwar",
+        "Marc Zuber",
+        "Shabana Azmi",
+        "Parveen Babi",
+        "Sunil Lahiri",
+        "Mala Jaggi",
+        "Bharati Achrekar",
+        "Neena Gupta",
+        "Sudhir Pandey",
+        "Vinod Pande",
+        "Dinesh Kaushik"
       ],
       "album": "Shaam E Ghazal Talat Aziz",
       "year_metadata": 2009,
@@ -130,12 +144,56 @@
       "audio_url": "https://aac.saavncdn.com/380/29d745e9c6f3119a302f3219a5506df8_48.mp4"
     },
     {
+      "id": "dv2aE6Cg",
+      "title": "Hazaron Khwahishen Aisi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Diljit Dosanjh",
+        "Mirza Ghalib"
+      ],
+      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/357/de759c2c2075632d081af3f2821ad80d_48.mp4"
+    },
+    {
+      "id": "yKupr6KC",
+      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "S. Rakesh"
+      ],
+      "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
+    },
+    {
+      "id": "zLMUZrOQ",
+      "title": "Sataa Sataa Ke Hamen Ashk Baar Karti Hai",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Nazar Hussain",
+        "Talat Aziz",
+        "Wafa Roomani"
+      ],
+      "album": "Ghazal Ka Safar - Mehdi Hassan N Ghulam - Vol - 3.",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/445/6068e621061593cd708e2402b7f756ce_48.mp4"
+    },
+    {
       "id": "ShcQXPu1",
       "title": "Ghazal Ka Saaz Uthao",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Chitra Singh",
         "Firaq Gorakhpuri"
       ],
       "album": "Kahkashan -Tv Serial",
@@ -158,53 +216,6 @@
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/270/a1b4c2d3d681c3f215bf1d744f258b78_48.mp4"
-    },
-    {
-      "id": "zLMUZrOQ",
-      "title": "Sataa Sataa Ke Hamen Ashk Baar Karti Hai",
-      "artist": "Talat Aziz",
-      "actual_artists": [
-        "Nazar Hussain",
-        "Talat Aziz",
-        "Wafa Roomani"
-      ],
-      "album": "Ghazal Ka Safar - Mehdi Hassan N Ghulam - Vol - 3.",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/445/6068e621061593cd708e2402b7f756ce_48.mp4"
-    },
-    {
-      "id": "dv2aE6Cg",
-      "title": "Hazaron Khwahishen Aisi",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Mirza Ghalib"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/de759c2c2075632d081af3f2821ad80d_48.mp4"
-    },
-    {
-      "id": "yKupr6KC",
-      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "S. Rakesh",
-        "Nandana Sen",
-        "Vivek Oberoi",
-        "Aruna Shields"
-      ],
-      "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
     },
     {
       "id": "5TjQmwNY",
@@ -251,18 +262,18 @@
       "audio_url": "https://aac.saavncdn.com/270/bb151bebcf1cddf7eef909a6a467e0bb_48.mp4"
     },
     {
-      "id": "Bcb6vlFE",
-      "title": "Kisi Ne Usko",
+      "id": "M9D0XW7x",
+      "title": "Dil Se",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Bahadur Shah Zafar()"
+        "Mirza Ghalib()"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/9fc614aded140c20e4e618478dbd46b9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/aea14bce5de4a2d31dc2e7145fddb71a_48.mp4"
     },
     {
       "id": "J1h1elUG",
@@ -271,8 +282,18 @@
       "actual_artists": [
         "Jagjit Singh",
         "Chitra Singh",
+        "Bali Sharma",
+        "Vampire",
+        "Bali Sharma &amp; Vampire",
         "Ameer Meenai",
-        "Mirza Ghalib"
+        "Mirza Ghalib",
+        "Shammi Kapoor",
+        "Sharmila Tagore",
+        "Pranoop Kumar",
+        "Nazir Hussain",
+        "Padma Devi",
+        "Dhumal",
+        "Tun Tun"
       ],
       "album": "Ghazal Ka Safar",
       "year_metadata": 1997,
@@ -297,18 +318,18 @@
       "audio_url": "https://aac.saavncdn.com/270/7acb13a43cb89a811a6a8cf38dba53dd_48.mp4"
     },
     {
-      "id": "M9D0XW7x",
-      "title": "Dil Se",
+      "id": "2FHq2UBq",
+      "title": "Asar Usko",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Mirza Ghalib()"
+        "Momin Khan Momin()"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/aea14bce5de4a2d31dc2e7145fddb71a_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/bfafd24034b74092aa01c8bcfd3583b9_48.mp4"
     },
     {
       "id": "F-PGUOx3",
@@ -342,18 +363,18 @@
       "audio_url": "https://aac.saavncdn.com/382/89cf31eeb14119f0c8918154fff5d8e2_48.mp4"
     },
     {
-      "id": "2FHq2UBq",
-      "title": "Asar Usko",
+      "id": "Bcb6vlFE",
+      "title": "Kisi Ne Usko",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Momin Khan Momin()"
+        "Bahadur Shah Zafar()"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/bfafd24034b74092aa01c8bcfd3583b9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/9fc614aded140c20e4e618478dbd46b9_48.mp4"
     },
     {
       "id": "1KcLu15n",
@@ -378,7 +399,6 @@
         "Pankaj Udhas",
         "Sadhana Sargam",
         "Viju Shah",
-        "Sachin Gupta",
         "Indeevar"
       ],
       "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
@@ -421,7 +441,7 @@
       "audio_url": "https://aac.saavncdn.com/318/bf810fc62091943d5b8bbc366cc51ffc_48.mp4"
     },
     {
-      "id": "b6UUAFUt",
+      "id": "QRCmReVn",
       "title": "Ahista (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
@@ -429,25 +449,25 @@
         "Sachin Gupta",
         "Zafar Gorakhpuri"
       ],
-      "album": "Pankaj Udhas Lofi Songs",
+      "album": "Ahista (Ghazal Lofi)",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/270/3194c6648735971b86e2455cd37c0bf3_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/931/3c4a8314b4a5718b7ccf3c2ee3cd09c5_48.mp4"
     },
     {
-      "id": "q0OlYMiv",
-      "title": "Jo Massaraton",
+      "id": "agDKJO0R",
+      "title": "Ras Mein Dooba",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Jigar Moradabadi"
+        "Firaq Gorakhpuri"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/7522364a4966aff2a15545c26e2eec0f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/77db5b795c6db19fad0239b68300ba9e_48.mp4"
     },
     {
       "id": "sUZbMUIL",
@@ -479,8 +499,8 @@
     "Pankaj Udhas": {
       "total": 80,
       "accepted": 41,
-      "ghazal_genre_unverified": 38,
-      "duplicate": 1
+      "ghazal_genre_unverified": 37,
+      "duplicate": 2
     },
     "Ghulam Ali": {
       "total": 52,

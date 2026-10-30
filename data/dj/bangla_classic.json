@@ -37,24 +37,24 @@
       "audio_url": "https://aac.saavncdn.com/588/85f8dee763507ddcdc1bd033ab2d5bfd_48.mp4"
     },
     {
-      "id": "hDsYY23n",
-      "title": "Buk Chin Chin (Remix Dj Bangla)",
+      "id": "WL8kt4Ff",
+      "title": "Tomari Mishti Hasi (Remix Dj Bangla)",
       "artist": "Andrew Kishore",
       "actual_artists": [
-        "Doly Sayantoni",
         "Andrew Kishore",
-        "Ali Akram Shuvo",
-        "Kabir Bakul"
+        "Doly Sayantoni",
+        "Alam Khan",
+        "Milton Khondokar"
       ],
-      "album": "Buk Chin Chin (Remix Dj Bangla)",
+      "album": "Tomari Mishti Hasi (Remix Dj Bangla)",
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/178/d65bb132851f78690a08649b3fc9aaf2_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/190/0ce0e71d0f0299a7efda037bd9312abd_48.mp4"
     },
     {
-      "id": "IAh_DFdz",
-      "title": "Borsha Ke",
+      "id": "LoxsT2G2",
+      "title": "Prem Tumi",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
@@ -64,7 +64,7 @@
       "year_metadata": 2017,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/802/428c8d9c84640c66fdeedd5658da6f84_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/802/d51283fc9bf8515576806cd1e95a779f_48.mp4"
     },
     {
       "id": "UuXRcQAm",
@@ -126,24 +126,24 @@
       "audio_url": "https://aac.saavncdn.com/588/64b291f7f065d326561c04eca56bb252_48.mp4"
     },
     {
-      "id": "WL8kt4Ff",
-      "title": "Tomari Mishti Hasi (Remix Dj Bangla)",
+      "id": "hDsYY23n",
+      "title": "Buk Chin Chin (Remix Dj Bangla)",
       "artist": "Andrew Kishore",
       "actual_artists": [
-        "Andrew Kishore",
         "Doly Sayantoni",
-        "Alam Khan",
-        "Milton Khondokar"
+        "Andrew Kishore",
+        "Ali Akram Shuvo",
+        "Kabir Bakul"
       ],
-      "album": "Tomari Mishti Hasi (Remix Dj Bangla)",
+      "album": "Buk Chin Chin (Remix Dj Bangla)",
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/190/0ce0e71d0f0299a7efda037bd9312abd_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/178/d65bb132851f78690a08649b3fc9aaf2_48.mp4"
     },
     {
-      "id": "LoxsT2G2",
-      "title": "Prem Tumi",
+      "id": "IAh_DFdz",
+      "title": "Borsha Ke",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
@@ -153,7 +153,7 @@
       "year_metadata": 2017,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/802/d51283fc9bf8515576806cd1e95a779f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/802/428c8d9c84640c66fdeedd5658da6f84_48.mp4"
     },
     {
       "id": "pl2IhAYT",
@@ -178,8 +178,7 @@
       "actual_artists": [
         "Manna Dey",
         "R3lic At2",
-        "Sudhin Dasgupta",
-        "Apodartho"
+        "Sudhin Dasgupta"
       ],
       "album": "Bangla Romantic Lofi Hits",
       "year_metadata": 2022,
@@ -235,19 +234,19 @@
       "audio_url": "https://aac.saavncdn.com/559/de7d3ff5e02deaa5f4625d85a416c293_48.mp4"
     },
     {
-      "id": "GjTrLnol",
-      "title": "Prem Ache Tai",
+      "id": "ij8BS598",
+      "title": "Keno Bhalobasha Hariye Jai",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Mahfuzur Rahman Mahfuz"
+        "Shamsul Alam"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/0012bee2d13b44bee375a3501932bd2c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/0c119efc10ce1767b1f0bda733c4a304_48.mp4"
     },
     {
       "id": "aXOcPwGI",
@@ -332,19 +331,19 @@
       "audio_url": "https://aac.saavncdn.com/322/822fb905d68e77f78bdc85ba1563ceaf_48.mp4"
     },
     {
-      "id": "EX91CPoc",
-      "title": "Amar Sesh Kothar",
+      "id": "aEs6FxqJ",
+      "title": "Haire Beduin Mon",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "SM Hedayet"
+        "Nazrul Islam Babu"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/fda5c74149f2f6332b37913da3bde306_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/ccc6a439ff5d58d36da23b703ce15d1c_48.mp4"
     },
     {
       "id": "ENMuZTAF",
@@ -409,24 +408,22 @@
       "audio_url": "https://aac.saavncdn.com/588/6f9155c91aaca3a4e9867114e349487e_48.mp4"
     },
     {
-      "id": "4uRUtEt5",
-      "title": "Rokte Veja Bangladesh",
+      "id": "mkN2vvnI",
+      "title": "Bangladesher Damal Chele",
       "artist": "Andrew Kishore",
       "actual_artists": [
         "Andrew Kishore",
-        "Ahmed Humayun",
-        "DIP",
-        "Sujon"
+        "M. A. Shoeb"
       ],
-      "album": "Rokte Veja Bangladesh",
-      "year_metadata": 2024,
+      "album": "Abahani",
+      "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/160/a2a88b3662488d418cc7d9f64dea4403_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/279/13cfa45044527c969870f006ec1ed020_48.mp4"
     },
     {
-      "id": "0lCX_Jbc",
-      "title": "Chaade Kolongko Ache",
+      "id": "r3RxA4Zr",
+      "title": "Hajar Moner Kache",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
@@ -437,7 +434,7 @@
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/590a9afac43636012ea4c2b405da999d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/5aa7e5edf7a972c91f07eda1de6be04e_48.mp4"
     },
     {
       "id": "GTMfgvUo",
@@ -463,11 +460,7 @@
         "Manna Dey",
         "Arati Mukhopadhyay",
         "Neeta Sen",
-        "Gouri Prasanna Majumdar",
-        "Parikshat Sahni",
-        "Rakhee Gulzar",
-        "Asrani",
-        "A.K. Hangal"
+        "Gouri Prasanna Majumdar"
       ],
       "album": "Sonar Bangla",
       "year_metadata": 1982,
@@ -479,15 +472,14 @@
   "audit": {
     "Runa Laila": {
       "total": 65,
-      "not_bengali": 14,
-      "accepted": 50,
+      "not_bengali": 13,
+      "accepted": 51,
       "duplicate": 1
     },
     "Sabina Yasmin": {
       "total": 72,
-      "accepted": 67,
-      "duplicate": 4,
-      "not_bengali": 1
+      "accepted": 68,
+      "duplicate": 4
     },
     "Andrew Kishore": {
       "total": 67,
@@ -506,8 +498,8 @@
     },
     "Manna Dey": {
       "total": 80,
-      "accepted": 33,
-      "not_bengali": 47
+      "accepted": 34,
+      "not_bengali": 46
     }
   },
   "fetch_errors": {
