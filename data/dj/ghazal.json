@@ -11,7 +11,15 @@
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Saba Sikari"
+        "Pankaj Udhas",
+        "Anuradha Paudwal",
+        "Saba Sikari",
+        "Vinod Khanna",
+        "Madhuri Dixit",
+        "Feroz Khan",
+        "Aditya Pancholi",
+        "Anupam Kher",
+        "Amrish Puri"
       ],
       "album": "Geet Ghazal Collection",
       "year_metadata": 2020,
@@ -43,15 +51,7 @@
       "artist": "Ghulam Ali",
       "actual_artists": [
         "Ghulam Ali",
-        "Ahmed Faraz",
-        "Tanuja",
-        "Om Puri",
-        "Rekha",
-        "Raj Babbar",
-        "Amjad Khan",
-        "Reena Roy",
-        "Shatrughan Sinha",
-        "Tanuja Mukherjee"
+        "Ahmed Faraz"
       ],
       "album": "With Love, Pt. 1 (Live)",
       "year_metadata": 2023,
@@ -89,26 +89,22 @@
       "audio_url": "https://aac.saavncdn.com/542/73c62836b7d63751619bf75b96b6a860_48.mp4"
     },
     {
-      "id": "sIJC4oDB",
-      "title": "Chandi Jaisa Rang (Ghazal Lofi)",
+      "id": "yKupr6KC",
+      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "Harjas Harjaayi",
-        "Ankee",
-        "Qateel Shifai",
-        "Mumtaz Rashid",
-        "Govinda",
-        "Tabu",
-        "Karisma Kapoor",
-        "Shwetha Menon"
+        "Anuradha Paudwal",
+        "S. Rakesh",
+        "Vivek Mushran",
+        "Manish Koirala"
       ],
-      "album": "Chandi Jaisa Rang (Ghazal Lofi)",
+      "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/979/0d448af1e4f3966188409b68815bbdb1_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
     },
     {
       "id": "C7rwozsx",
@@ -140,19 +136,27 @@
       "audio_url": "https://aac.saavncdn.com/187/68f4c32ae68043c9dd9f65e399355930_48.mp4"
     },
     {
-      "id": "yKupr6KC",
-      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "id": "sIJC4oDB",
+      "title": "Chandi Jaisa Rang (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "S. Rakesh"
+        "Raj Barman",
+        "Qateel Shifai",
+        "Mumtaz Rashid",
+        "Aruna Shields",
+        "Dalip Tahil",
+        "Nandana Sen",
+        "Neeru Bajwa",
+        "Sanjay Kapoor",
+        "Vivek Oberoi"
       ],
-      "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "album": "Chandi Jaisa Rang (Ghazal Lofi)",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/979/0d448af1e4f3966188409b68815bbdb1_48.mp4"
     },
     {
       "id": "zLMUZrOQ",
@@ -257,19 +261,30 @@
       "audio_url": "https://aac.saavncdn.com/845/22ee77f556156d8ad8c99522fa4ea07d_48.mp4"
     },
     {
-      "id": "F-PGUOx3",
-      "title": "Kabhi To Khul Ke Baras",
+      "id": "J1h1elUG",
+      "title": "Uski Hasrat Hai Jise Dil Se Mita",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
         "Chitra Singh",
-        "Prem Warbartoni"
+        "Bali Sharma",
+        "Vampire",
+        "Bali Sharma &amp; Vampire",
+        "Ameer Meenai",
+        "Mirza Ghalib",
+        "Shammi Kapoor",
+        "Sharmila Tagore",
+        "Pranoop Kumar",
+        "Nazir Hussain",
+        "Padma Devi",
+        "Dhumal",
+        "Tun Tun"
       ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
+      "album": "Ghazal Ka Safar",
+      "year_metadata": 1997,
+      "language_metadata": "urdu",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/417/e5ee329e74682b2098f8f978769be13f_48.mp4"
     },
     {
       "id": "YRA-fq6M",
@@ -302,20 +317,21 @@
       "audio_url": "https://aac.saavncdn.com/236/bfafd24034b74092aa01c8bcfd3583b9_48.mp4"
     },
     {
-      "id": "J1h1elUG",
-      "title": "Uski Hasrat Hai Jise Dil Se Mita",
+      "id": "F-PGUOx3",
+      "title": "Kabhi To Khul Ke Baras",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
         "Chitra Singh",
-        "Ameer Meenai",
-        "Mirza Ghalib"
+        "Prem Warbartoni",
+        "Deepti Naval",
+        "Farooque Sheikh"
       ],
-      "album": "Ghazal Ka Safar",
-      "year_metadata": 1997,
-      "language_metadata": "urdu",
+      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/417/e5ee329e74682b2098f8f978769be13f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
     },
     {
       "id": "ldBliBL7",
@@ -393,6 +409,58 @@
       "audio_url": "https://aac.saavncdn.com/236/fbae12a9df4735fb03a68e2e9a9339a4_48.mp4"
     },
     {
+      "id": "6_5aWBK0",
+      "title": "Hothon Se Chhu Lo Tum (Live In India/2001)",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Indeevar"
+      ],
+      "album": "Top 10 Ghazal By Jagjit Singh",
+      "year_metadata": 2013,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/786/21dd278900520f9bae6d44a16902a779_48.mp4"
+    },
+    {
+      "id": "Rfzmoec5",
+      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sadhana Sargam",
+        "Viju Shah",
+        "Indeevar",
+        "Suniel Shetty",
+        "Poonam Jhawer"
+      ],
+      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
+    },
+    {
+      "id": "d3WYddi7",
+      "title": "Phir Chiddi Raat (From \"Bazaar\")",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Lata Mangeshkar",
+        "Talat Aziz",
+        "Khayyam",
+        "Makhdoom Mohiuddin",
+        "Naseeruddin Shah",
+        "Smita Patil",
+        "Farooq Sheikh",
+        "Supriya Pathak"
+      ],
+      "album": "Darbar- E-Ghazal",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/461/3476ec45ab7b5fdeb653f090b2557430_48.mp4"
+    },
+    {
       "id": "1KcLu15n",
       "title": "Manzil Na De Charagh Na De",
       "artist": "Jagjit Singh",
@@ -406,53 +474,6 @@
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/357/04c9dc20ae14a8d557b4ee001e3e0f6f_sar_48.mp4"
-    },
-    {
-      "id": "Rfzmoec5",
-      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sadhana Sargam",
-        "Viju Shah",
-        "Indeevar",
-        "Suniel Shetty",
-        "Poonam Jhawar"
-      ],
-      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
-    },
-    {
-      "id": "7oV1z3Cl",
-      "title": "Kahin Chand Rahon Mein",
-      "artist": "Talat Aziz",
-      "actual_artists": [
-        "Talat Aziz",
-        "Asha Bhosle",
-        "Dr. Bashir Badr"
-      ],
-      "album": "Ghazal Ka Safar",
-      "year_metadata": 1997,
-      "language_metadata": "urdu",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/417/bf4c34981d152d11c204065abbd55040_48.mp4"
-    },
-    {
-      "id": "6_5aWBK0",
-      "title": "Hothon Se Chhu Lo Tum (Live In India/2001)",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Indeevar"
-      ],
-      "album": "Top 10 Ghazal By Jagjit Singh",
-      "year_metadata": 2013,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/786/21dd278900520f9bae6d44a16902a779_48.mp4"
     },
     {
       "id": "lRAPGTr0",
@@ -483,19 +504,19 @@
     "Pankaj Udhas": {
       "total": 80,
       "accepted": 41,
-      "ghazal_genre_unverified": 39
+      "ghazal_genre_unverified": 38,
+      "duplicate": 1
     },
     "Ghulam Ali": {
-      "total": 80,
-      "artist_mismatch": 67,
-      "accepted": 1,
-      "ghazal_genre_unverified": 12
+      "total": 42,
+      "artist_mismatch": 41,
+      "accepted": 1
     },
     "Talat Aziz": {
       "total": 80,
-      "duplicate": 3,
+      "duplicate": 4,
       "accepted": 39,
-      "ghazal_genre_unverified": 38
+      "ghazal_genre_unverified": 37
     }
   },
   "fetch_errors": {},

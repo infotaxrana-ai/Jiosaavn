@@ -13,10 +13,6 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Hariharan",
-        "Lalit Sen",
-        "Chander",
-        "Traditional",
         "Rani Malik",
         "Akshay Kumar",
         "Shilpa Shetty"
@@ -130,21 +126,21 @@
       "audio_url": "https://aac.saavncdn.com/041/c9c7533375a46d285bc156a2212fdbb5_48.mp4"
     },
     {
-      "id": "9cCPZgWV",
-      "title": "Dilbar Dilbar",
+      "id": "r_Bx8bxm",
+      "title": "Dilbar Dilbar (Remix)",
       "artist": "Alka Yagnik",
       "actual_artists": [
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
         "Sameer",
-        "Sushmita Sen",
-        "Sanjay Kapoor"
+        "Rahul Roy",
+        "Anu Aggarwal"
       ],
-      "album": "Sirf Tum",
+      "album": "Dilbar Remix",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/738/9f2d4a5d72bda591ac10c5818feb88f9_48.mp4"
     },
     {
       "id": "XcmjsB01",
@@ -202,8 +198,8 @@
       "audio_url": "https://aac.saavncdn.com/018/b00abb7d5cb00a7d866af02fb08f2776_48.mp4"
     },
     {
-      "id": "r_Bx8bxm",
-      "title": "Dilbar Dilbar (Remix)",
+      "id": "9cCPZgWV",
+      "title": "Dilbar Dilbar",
       "artist": "Alka Yagnik",
       "actual_artists": [
         "Alka Yagnik",
@@ -212,11 +208,11 @@
         "Sushmita Sen",
         "Sanjay Kapoor"
       ],
-      "album": "Dilbar Remix",
+      "album": "Sirf Tum",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/738/9f2d4a5d72bda591ac10c5818feb88f9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_48.mp4"
     },
     {
       "id": "PpDR0YPG",
@@ -237,20 +233,22 @@
       "audio_url": "https://aac.saavncdn.com/880/cb29b2bd5b55c731d2f7a6521e00bae1_48.mp4"
     },
     {
-      "id": "EOwkcCf1",
-      "title": "Pehli Pehli Baar Mohabbat Ki Hai (Remix)",
+      "id": "-vNMHZD1",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer"
+        "Sameer",
+        "Sanjay Kapoor",
+        "Priya Gill"
       ],
-      "album": "Dilbar Remix",
+      "album": "Sirf Tum",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/318/ce90eb0ea34ddcdb70948c179f6bcba5_48.mp4"
     },
     {
       "id": "4ohPybvm",
@@ -278,6 +276,7 @@
         "Alka Yagnik",
         "Vinod Rathod",
         "Nadeem-Shravan",
+        "Kumar Sanu",
         "Sameer",
         "Divya Bharti",
         "Shah Rukh Khan"
@@ -308,22 +307,28 @@
       "audio_url": "https://aac.saavncdn.com/332/179afdeeb4455883aed4a18ce4696ccd_48.mp4"
     },
     {
-      "id": "-vNMHZD1",
-      "title": "Pehli Pehli Baar Mohabbat Ki Hai",
+      "id": "EOwkcCf1",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai (Remix)",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
         "Sameer",
-        "Sanjay Kapoor",
-        "Priya Gill"
+        "Jaideep Ahlawat",
+        "Amruta Khanvilkar",
+        "Arif Zakaria",
+        "Soni Razdan",
+        "Shishir Sharma",
+        "Alia Bhatt",
+        "Rajit Kapoor",
+        "Vicky Kaushal"
       ],
-      "album": "Sirf Tum",
+      "album": "Dilbar Remix",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/318/ce90eb0ea34ddcdb70948c179f6bcba5_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
     },
     {
       "id": "xQQWBSr1",
@@ -577,8 +582,8 @@
     },
     "Udit Narayan": {
       "total": 80,
-      "accepted": 71,
-      "duplicate": 8,
+      "accepted": 70,
+      "duplicate": 9,
       "not_hindi": 1
     },
     "Alka Yagnik": {
@@ -588,8 +593,8 @@
     },
     "Anuradha Paudwal": {
       "total": 80,
-      "accepted": 46,
-      "duplicate": 32,
+      "duplicate": 33,
+      "accepted": 45,
       "not_hindi": 2
     },
     "Abhijeet Bhattacharya": {

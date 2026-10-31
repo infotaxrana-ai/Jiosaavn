@@ -42,11 +42,7 @@
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
-        "Mostak Ahmed",
-        "Kabir Bakul",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Mostak Ahmed"
       ],
       "album": "Subir Nandi, Vol. 1",
       "year_metadata": 2017,
@@ -119,8 +115,7 @@
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
-        "Mostak Ahmed",
-        "Anwarul Karim"
+        "Mostak Ahmed"
       ],
       "album": "Subir Nandi, Vol. 1",
       "year_metadata": 2017,
@@ -151,10 +146,7 @@
       "actual_artists": [
         "Manna Dey",
         "R3lic At2",
-        "Sudhin Dasgupta",
-        "Uttam Kumar",
-        "Suchitra Sen",
-        "Pahari Sanyal"
+        "Sudhin Dasgupta"
       ],
       "album": "Bangla Romantic Lofi Hits",
       "year_metadata": 2022,
@@ -163,22 +155,20 @@
       "audio_url": "https://aac.saavncdn.com/658/40b4c317dccc7c455651c8cf66b66879_48.mp4"
     },
     {
-      "id": "g58M5HZg",
-      "title": "Bondhu Ki Korila",
+      "id": "weq0dgDe",
+      "title": "Ami Misscall Dile Jobab Diyo",
       "artist": "Runa Laila",
       "actual_artists": [
         "Runa Laila",
-        "Polash",
+        "Reshad",
         "Moniruzzaman Monir",
-        "Arnob",
-        "Adit Rahman",
         "Shawkat Ali Emon"
       ],
       "album": "Bangla Bhai",
       "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/627/bb72eed40ca95af1d080c817af0d2e57_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/627/bcccb45f00ec765d54b09c7d7a3b29cc_48.mp4"
     },
     {
       "id": "vx1zL3uR",
@@ -201,10 +191,7 @@
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Nazrul Islam Babu",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Nazrul Islam Babu"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
@@ -243,12 +230,12 @@
       "audio_url": "https://aac.saavncdn.com/077/b68fbafaa642077cffca8c9ae6da3846_48.mp4"
     },
     {
-      "id": "weq0dgDe",
-      "title": "Ami Misscall Dile Jobab Diyo",
+      "id": "g58M5HZg",
+      "title": "Bondhu Ki Korila",
       "artist": "Runa Laila",
       "actual_artists": [
         "Runa Laila",
-        "Reshad",
+        "Polash",
         "Moniruzzaman Monir",
         "Arnob",
         "Adit Rahman",
@@ -258,7 +245,7 @@
       "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/627/bcccb45f00ec765d54b09c7d7a3b29cc_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/627/bb72eed40ca95af1d080c817af0d2e57_48.mp4"
     },
     {
       "id": "zdU0uD2X",
@@ -281,10 +268,7 @@
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Munshi Wadud",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Munshi Wadud"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
@@ -332,8 +316,6 @@
         "Runa Laila",
         "Rion Music",
         "Alauddin Ali",
-        "Arnob",
-        "Adit Rahman",
         "Gazi Mazharul Anwar"
       ],
       "album": "Bangla Party Mix",
@@ -357,22 +339,19 @@
       "audio_url": "https://aac.saavncdn.com/588/6f9155c91aaca3a4e9867114e349487e_48.mp4"
     },
     {
-      "id": "GjTrLnol",
-      "title": "Prem Ache Tai",
+      "id": "Pzhk9NY9",
+      "title": "Shomudro Noy Megh Bristi",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Mahfuzur Rahman Mahfuz",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Munshi Wadud"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/0012bee2d13b44bee375a3501932bd2c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/84a2f68525774e43972200f6d171922c_48.mp4"
     },
     {
       "id": "aApNSt8A",
@@ -398,7 +377,12 @@
         "Manna Dey",
         "Arati Mukhopadhyay",
         "Neeta Sen",
-        "Gouri Prasanna Majumdar"
+        "Gouri Prasanna Majumdar",
+        "Biswajeet",
+        "Sandhya Roy",
+        "Anup Kumar",
+        "Sandhya Debi",
+        "Gita Dey"
       ],
       "album": "Sonar Bangla",
       "year_metadata": 1982,
@@ -440,22 +424,19 @@
       "audio_url": "https://aac.saavncdn.com/484/4a0ebaa2f6971200c76564b728ee571d_48.mp4"
     },
     {
-      "id": "EX91CPoc",
-      "title": "Amar Sesh Kothar",
+      "id": "9rV0WkSe",
+      "title": "Ami E Dukkho Janabo",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "SM Hedayet",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Nazrul Islam Babu"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/fda5c74149f2f6332b37913da3bde306_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/07356c57de3fb88ab4449c66d2154dc6_48.mp4"
     },
     {
       "id": "uoEEtD_c",
@@ -479,8 +460,7 @@
       "artist": "Manna Dey",
       "actual_artists": [
         "Manna Dey",
-        "Mrinal Bandhyapadhya",
-        "R.D. Burman"
+        "Mrinal Bandhyapadhya"
       ],
       "album": "Bangla Amar Maa",
       "year_metadata": 2018,
@@ -492,8 +472,8 @@
   "audit": {
     "Runa Laila": {
       "total": 65,
-      "not_bengali": 20,
-      "accepted": 44,
+      "not_bengali": 19,
+      "accepted": 45,
       "duplicate": 1
     },
     "Sabina Yasmin": {
