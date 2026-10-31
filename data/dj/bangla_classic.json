@@ -37,6 +37,22 @@
       "audio_url": "https://aac.saavncdn.com/588/85f8dee763507ddcdc1bd033ab2d5bfd_48.mp4"
     },
     {
+      "id": "WL8kt4Ff",
+      "title": "Tomari Mishti Hasi (Remix Dj Bangla)",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Doly Sayantoni",
+        "Alam Khan",
+        "Milton Khondokar"
+      ],
+      "album": "Tomari Mishti Hasi (Remix Dj Bangla)",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/190/0ce0e71d0f0299a7efda037bd9312abd_48.mp4"
+    },
+    {
       "id": "IAh_DFdz",
       "title": "Borsha Ke",
       "artist": "Subir Nandi",
@@ -108,6 +124,22 @@
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
       "audio_url": "https://aac.saavncdn.com/588/64b291f7f065d326561c04eca56bb252_48.mp4"
+    },
+    {
+      "id": "hDsYY23n",
+      "title": "Buk Chin Chin (Remix Dj Bangla)",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Doly Sayantoni",
+        "Andrew Kishore",
+        "Ali Akram Shuvo",
+        "Kabir Bakul"
+      ],
+      "album": "Buk Chin Chin (Remix Dj Bangla)",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/178/d65bb132851f78690a08649b3fc9aaf2_48.mp4"
     },
     {
       "id": "LoxsT2G2",
@@ -187,19 +219,34 @@
       "audio_url": "https://aac.saavncdn.com/588/debffabeb09cf61f68e44788267ece15_48.mp4"
     },
     {
-      "id": "ij8BS598",
-      "title": "Keno Bhalobasha Hariye Jai",
+      "id": "Dgtuhgyp",
+      "title": "Ekdin Tomake Na Dekhle (Remix Dj Bangla)",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Kanak Chapa",
+        "Ahmed Imtiaz Bulbul"
+      ],
+      "album": "Ekdin Tomake Na Dekhle (Remix Dj Bangla)",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/559/de7d3ff5e02deaa5f4625d85a416c293_48.mp4"
+    },
+    {
+      "id": "r3RxA4Zr",
+      "title": "Hajar Moner Kache",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Shamsul Alam"
+        "Nazrul Islam Babu"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/0c119efc10ce1767b1f0bda733c4a304_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/5aa7e5edf7a972c91f07eda1de6be04e_48.mp4"
     },
     {
       "id": "aXOcPwGI",
@@ -208,9 +255,18 @@
       "actual_artists": [
         "Kanak Chapa",
         "Monir Khan",
+        "Arafat Mohsin",
+        "Emon Chowdhury",
+        "Abanti Sithi",
+        "Tanjib Sarowar",
         "Alauddin Ali",
+        "Huge Studio",
         "Kabir Bakul",
-        "Mohammad Rafiquzzaman"
+        "Mohammad Rafiquzzaman",
+        "Joy Sengupta",
+        "Mithu Mukherjee",
+        "Pradeep Kumar",
+        "Haradhan Banerjee"
       ],
       "album": "Romantic Duet Riaz Shabnur",
       "year_metadata": 2025,
@@ -267,19 +323,36 @@
       "audio_url": "https://aac.saavncdn.com/588/59ccc0892d6a9b2e1a8a0de15ca262ab_48.mp4"
     },
     {
-      "id": "aEs6FxqJ",
-      "title": "Haire Beduin Mon",
+      "id": "CFoDrxip",
+      "title": "Shono Go Ruposhi Konna Gonna Go",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Samina Chowdhury",
+        "Emon Saha",
+        "A K Sohel",
+        "Liton"
+      ],
+      "album": "Banglar Bou",
+      "year_metadata": 2023,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/322/822fb905d68e77f78bdc85ba1563ceaf_48.mp4"
+    },
+    {
+      "id": "nxNf6C3Z",
+      "title": "Lal Golaper Phul",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Nazrul Islam Babu"
+        "Munshi Wadud"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/ccc6a439ff5d58d36da23b703ce15d1c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/4af8a9aa908bbdc8ed5a1da4b5e53edf_48.mp4"
     },
     {
       "id": "ENMuZTAF",
@@ -346,27 +419,42 @@
       "audio_url": "https://aac.saavncdn.com/588/6f9155c91aaca3a4e9867114e349487e_48.mp4"
     },
     {
-      "id": "r3RxA4Zr",
-      "title": "Hajar Moner Kache",
+      "id": "mkN2vvnI",
+      "title": "Bangladesher Damal Chele",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "M. A. Shoeb"
+      ],
+      "album": "Abahani",
+      "year_metadata": 2023,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/279/13cfa45044527c969870f006ec1ed020_48.mp4"
+    },
+    {
+      "id": "ij8BS598",
+      "title": "Keno Bhalobasha Hariye Jai",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Nazrul Islam Babu"
+        "Shamsul Alam"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/5aa7e5edf7a972c91f07eda1de6be04e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/0c119efc10ce1767b1f0bda733c4a304_48.mp4"
     },
     {
-      "id": "GTMfgvUo",
-      "title": "Bajare Jachai Kore Dekhini To Daam",
+      "id": "inmA6bWd",
+      "title": "Akash Chuyeche Matike, Pt. 2 (Film Hits of Kanak Chapa)",
       "artist": "Kanak Chapa",
       "actual_artists": [
         "Kanak Chapa",
         "Ahmed Imtiaz Bulbul",
+        "Alauddin Ali",
         "Shukla Bhattacharya Ghosh",
         "Mohammad Rafiquzzaman"
       ],
@@ -374,7 +462,7 @@
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/765/37deefa206537514bf19774f958240d4_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/344/1aafabafb51b0cfdb3dd9d47b6a21f30_48.mp4"
     },
     {
       "id": "0rCaw0bh",
@@ -391,85 +479,6 @@
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
       "audio_url": "https://aac.saavncdn.com/642/13c6a4d3c2950acff8c277b8cb666b90_48.mp4"
-    },
-    {
-      "id": "ARMRTNd-",
-      "title": "Boom Boom Boomba (From \"Dujane\")",
-      "artist": "Runa Laila",
-      "actual_artists": [
-        "Runa Laila",
-        "Bappi Lahiri",
-        "Bibhuti Mukherjee",
-        "Joy Sengupta",
-        "Mithu Mukherjee",
-        "Pradeep Kumar",
-        "Haradhan Banerjee"
-      ],
-      "album": "Sera Bangla Gaan - Bappi Lahiri",
-      "year_metadata": 2020,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/331/bd35964ebdc6ba32ddf4b35e07fc2f14_48.mp4"
-    },
-    {
-      "id": "WshCQumI",
-      "title": "O Amar Bangla Ma Tor",
-      "artist": "Sabina Yasmin",
-      "actual_artists": [
-        "Sabina Yasmin",
-        "Ahmed Imtiaz"
-      ],
-      "album": "Diamond Collection Of Sabina Yasmin",
-      "year_metadata": 2022,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/484/4a0ebaa2f6971200c76564b728ee571d_48.mp4"
-    },
-    {
-      "id": "nxNf6C3Z",
-      "title": "Lal Golaper Phul",
-      "artist": "Subir Nandi",
-      "actual_artists": [
-        "Subir Nandi",
-        "Sheikh Sadi Khan",
-        "Munshi Wadud"
-      ],
-      "album": "Best Hits of Subir Nandi",
-      "year_metadata": 2008,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/4af8a9aa908bbdc8ed5a1da4b5e53edf_48.mp4"
-    },
-    {
-      "id": "xCJENxBT",
-      "title": "Amar Hridoy Ekta Ayna Version1 (Original Motion Picture Soundtrack)",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Andrew Kishore",
-        "Kanak Chapa",
-        "Ahmed Imtiaz Bulbul"
-      ],
-      "album": "Phool Nebo Na Ashru Nebo (Original Motion Picture Soundtrack)",
-      "year_metadata": 2023,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/810/d70077fd08277418f4adaa98cec2503c_48.mp4"
-    },
-    {
-      "id": "neA_vw7C",
-      "title": "Maa Mago Maa",
-      "artist": "Manna Dey",
-      "actual_artists": [
-        "Manna Dey",
-        "Mrinal Bandhyapadhya",
-        "Arati Mukhopadhyay",
-        "Gouri Prasanna Majumdar"
-      ],
-      "album": "Bangla Amar Maa",
-      "year_metadata": 2018,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/950/bf04343f51c7c4993bb0c353478f9586_48.mp4"
     }
   ],
   "audit": {
@@ -485,13 +494,14 @@
       "duplicate": 4
     },
     "Andrew Kishore": {
-      "total": 40,
+      "total": 67,
+      "duplicate": 9,
+      "accepted": 18,
       "artist_mismatch": 40
     },
     "Subir Nandi": {
       "total": 40,
-      "accepted": 39,
-      "artist_mismatch": 1
+      "accepted": 40
     },
     "Kanak Chapa": {
       "total": 40,
@@ -500,12 +510,11 @@
     },
     "Manna Dey": {
       "total": 80,
-      "accepted": 34,
-      "not_bengali": 46
+      "accepted": 35,
+      "not_bengali": 45
     }
   },
   "fetch_errors": {
-    "Andrew Kishore Bangla songs": "RuntimeError",
     "Subir Nandi Bangla songs": "RuntimeError",
     "Kanak Chapa Bangla songs": "RuntimeError"
   },
