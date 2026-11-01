@@ -31,9 +31,13 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Sadhana Sargam",
+        "Aditya Yadav",
         "Sameer",
-        "Bhumi Pednekar"
+        "Salman Khan",
+        "Bhagyashree",
+        "Mohnish Behl",
+        "Alok Nath",
+        "Reema Lagoo"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -50,7 +54,6 @@
         "Sonu Nigam",
         "Jatin Pandit",
         "Lalit Pandit",
-        "Anand Bakshi",
         "Kareena Kapoor Khan",
         "Amitabh Bachchan",
         "Jaya Bachchan",
@@ -109,6 +112,8 @@
         "Anuradha Paudwal",
         "Nadeem",
         "Shravan",
+        "S Jitu",
+        "Soujannya Rath",
         "Sameer"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
@@ -159,6 +164,7 @@
       "actual_artists": [
         "Arijit Singh",
         "Amit Trivedi",
+        "Neeti Mohan",
         "Swanand Kirkire",
         "Katrina Kaif",
         "Aditya Roy Kapur",
@@ -177,11 +183,18 @@
       "actual_artists": [
         "Kumar Sanu",
         "Viju Shah",
+        "Hariharan",
+        "Alka Yagnik",
+        "Kavita Krishnamurthy",
+        "Anuradha Paudwal",
+        "Udit Narayan",
         "Anand Bakshi",
-        "Akshay Kumar",
-        "Raveena Tandon",
-        "Naseeruddin Shah",
-        "Sadashiv Amrapurkar"
+        "Karisma Kapoor",
+        "Mohnish Behl",
+        "Sonali Bendre",
+        "Tabu",
+        "Salman Khan",
+        "Saif Ali Khan"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -253,7 +266,10 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Anwar Sagar"
+        "Kavita Krishnamurthy",
+        "Anwar Sagar",
+        "Ayub Khan",
+        "Roshni Jaffrey"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -268,11 +284,7 @@
       "actual_artists": [
         "Sonu Nigam",
         "Anu Malik",
-        "Sameer",
-        "Shah Rukh Khan",
-        "Preity Zinta",
-        "Saif Ali Khan",
-        "Jaya Bachchan"
+        "Sameer"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -303,6 +315,10 @@
       "actual_artists": [
         "Pritam",
         "Arijit Singh",
+        "Jordan Sandhu",
+        "Dilpreet Dhillon",
+        "Guntaj Dandiwal",
+        "Amrit Maan",
         "Amitabh Bhattacharya",
         "Fatima Sana Shaikh",
         "Suhani Bhatnagar",
@@ -325,7 +341,11 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Sameer"
+        "Sadhana Sargam",
+        "Nitin Mukesh",
+        "Sameer",
+        "Rakesh Roshan",
+        "Rekha"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -389,7 +409,6 @@
       "actual_artists": [
         "Kumar Sanu",
         "Viju Shah",
-        "Kavita Krishnamurthy",
         "Anand Bakshi"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
@@ -423,10 +442,7 @@
         "Sachin Gupta",
         "Anil Biswas",
         "Deepak Pandit",
-        "Brijraj Singh Lakkha",
-        "Prem Dhawan",
-        "Farah",
-        "Govinda"
+        "Prem Dhawan"
       ],
       "album": "Sad Lofi Hits",
       "year_metadata": 2022,
@@ -442,7 +458,6 @@
         "Amaal Mallik",
         "Arijit Singh",
         "Kunaal Vermaa",
-        "Mitraz",
         "Tamannaah Bhatia"
       ],
       "album": "Romantic Sad Songs",
@@ -477,9 +492,10 @@
         "Lata Mangeshkar",
         "Sonu Nigam",
         "Anand Bakshi",
+        "Kareena Kapoor Khan",
         "Hrithik Roshan",
         "Rani Mukerji",
-        "Kareena Kapoor Khan"
+        "Uday Chopra"
       ],
       "album": "Tears In Love - 10 Sad Songs",
       "year_metadata": 2015,
@@ -512,8 +528,7 @@
         "Kunaal Vermaa",
         "Amaal Mallik",
         "Arijit Singh",
-        "Samidh Mukherjee",
-        "Indraadip Das Gupta",
+        "Inder Pandori",
         "Tamannaah Bhatia"
       ],
       "album": "Late Night Bollywood Sad Songs",
@@ -547,8 +562,8 @@
     },
     "Kumar Sanu": {
       "total": 80,
-      "accepted": 16,
-      "mood_unverified": 64
+      "accepted": 17,
+      "mood_unverified": 63
     },
     "Sonu Nigam": {
       "total": 80,
