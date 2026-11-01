@@ -12,11 +12,11 @@
       "actual_artists": [
         "Talat Aziz",
         "Jagjit Singh",
+        "Diana Shaz",
         "Saeed Shaheedi",
-        "Sonam Kapoor",
-        "Ratna Pathak",
-        "Kirron Kher",
-        "DJ Sunny Singh UK"
+        "Akshay Kumar",
+        "Kareena Kapoor Khan",
+        "Priyanka Chopra"
       ],
       "album": "Jagjit Singh Presents Talat Aziz",
       "year_metadata": 2008,
@@ -76,9 +76,9 @@
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
+        "Arig Music",
         "Sudarshan Faakir",
-        "Hrithik Roshan",
-        "Ameesha Patel"
+        "Karthi"
       ],
       "album": "Ghazal Ka Safar, Vol. 3 (The Journey of The Legends)",
       "year_metadata": 2017,
@@ -93,10 +93,7 @@
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "S. Rakesh",
-        "Nandana Sen",
-        "Vivek Oberoi",
-        "Aruna Shields"
+        "S. Rakesh"
       ],
       "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
       "year_metadata": 2024,
@@ -110,76 +107,13 @@
       "artist": "Ghulam Ali",
       "actual_artists": [
         "Ghulam Ali",
-        "Ahmed Faraz",
-        "Tanuja",
-        "Om Puri",
-        "Rekha",
-        "Raj Babbar",
-        "Amjad Khan",
-        "Reena Roy",
-        "Shatrughan Sinha",
-        "Tanuja Mukherjee"
+        "Ahmed Faraz"
       ],
       "album": "With Love, Pt. 1 (Live)",
       "year_metadata": 2023,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/987/a2b0825eff00cce27f7918da1c06aa01_48.mp4"
-    },
-    {
-      "id": "C7rwozsx",
-      "title": "Ek Sitam Aur Meri Jaan Abhi Baaqi Hai",
-      "artist": "Talat Aziz",
-      "actual_artists": [
-        "Talat Aziz",
-        "Nisar Bazmi",
-        "Masroor Anwar"
-      ],
-      "album": "Shaam E Ghazal Talat Aziz",
-      "year_metadata": 2009,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/380/29d745e9c6f3119a302f3219a5506df8_48.mp4"
-    },
-    {
-      "id": "dv2aE6Cg",
-      "title": "Hazaron Khwahishen Aisi",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Mirza Ghalib",
-        "Diya Mirza",
-        "Saif Ali Khan",
-        "Vidya Balan",
-        "Reema Sen",
-        "Sanjay Dutt"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/de759c2c2075632d081af3f2821ad80d_48.mp4"
-    },
-    {
-      "id": "sIJC4oDB",
-      "title": "Chandi Jaisa Rang (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "Kanchan Yadav KY",
-        "Qateel Shifai",
-        "Mumtaz Rashid",
-        "Govinda",
-        "Tabu",
-        "Karisma Kapoor",
-        "Shwetha Menon"
-      ],
-      "album": "Chandi Jaisa Rang (Ghazal Lofi)",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/979/0d448af1e4f3966188409b68815bbdb1_48.mp4"
     },
     {
       "id": "zLMUZrOQ",
@@ -195,6 +129,63 @@
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/445/6068e621061593cd708e2402b7f756ce_48.mp4"
+    },
+    {
+      "id": "dv2aE6Cg",
+      "title": "Hazaron Khwahishen Aisi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Prishika Solanki",
+        "Mirza Ghalib",
+        "Ranveer Singh",
+        "Alia Bhatt"
+      ],
+      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/357/de759c2c2075632d081af3f2821ad80d_48.mp4"
+    },
+    {
+      "id": "sIJC4oDB",
+      "title": "Chandi Jaisa Rang (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "Mukesh",
+        "Qateel Shifai",
+        "Mumtaz Rashid",
+        "Manmohan",
+        "Gulshan Bawra",
+        "Dulari",
+        "Rajendra Nath",
+        "Bharat Bhushan Pant",
+        "Kamini Kaushal",
+        "Aparna Sen",
+        "Jeetendra"
+      ],
+      "album": "Chandi Jaisa Rang (Ghazal Lofi)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/979/0d448af1e4f3966188409b68815bbdb1_48.mp4"
+    },
+    {
+      "id": "C7rwozsx",
+      "title": "Ek Sitam Aur Meri Jaan Abhi Baaqi Hai",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Nisar Bazmi",
+        "Masroor Anwar"
+      ],
+      "album": "Shaam E Ghazal Talat Aziz",
+      "year_metadata": 2009,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/380/29d745e9c6f3119a302f3219a5506df8_48.mp4"
     },
     {
       "id": "ShcQXPu1",
@@ -245,15 +236,8 @@
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Chitra Singh",
-        "Arpit Bala",
         "Jagjit Singh",
-        "Sudarshan Faakir",
-        "Shashi Kapoor",
-        "Sharmila Tagore",
-        "Rajendranath Rahbar",
-        "Azra Riaz",
-        "Nirupa Roy",
-        "Madan Puri"
+        "Sudarshan Faakir"
       ],
       "album": "Ghazal Ka Safar, Vol. 3 (The Journey of The Legends)",
       "year_metadata": 2017,
@@ -262,69 +246,13 @@
       "audio_url": "https://aac.saavncdn.com/226/d44382490dfb671447867ef67a25df1c_48.mp4"
     },
     {
-      "id": "v-Fm37cm",
-      "title": "Sharab Cheez Hi Aisi (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "Sardar Anjum"
-      ],
-      "album": "Sharab Cheez Hi Aisi (Ghazal Lofi)",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/099/5abbfe2bacde76868965c55de4f2a34d_48.mp4"
-    },
-    {
-      "id": "d3WYddi7",
-      "title": "Phir Chiddi Raat (From \"Bazaar\")",
-      "artist": "Talat Aziz",
-      "actual_artists": [
-        "Lata Mangeshkar",
-        "Talat Aziz",
-        "Khayyam",
-        "Makhdoom Mohiuddin",
-        "Naseeruddin Shah",
-        "Smita Patil",
-        "Farooq Sheikh",
-        "Supriya Pathak"
-      ],
-      "album": "Darbar- E-Ghazal",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/461/3476ec45ab7b5fdeb653f090b2557430_48.mp4"
-    },
-    {
-      "id": "F-PGUOx3",
-      "title": "Kabhi To Khul Ke Baras",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Chitra Singh",
-        "Prem Warbartoni",
-        "Deepti Naval",
-        "Farooque Sheikh"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
-    },
-    {
       "id": "fNUG2JAh",
       "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "S. Rakesh",
-        "Sahher Bambba",
-        "Lakshya",
-        "Bobby Deol",
-        "Raghav Juyal"
+        "S. Rakesh"
       ],
       "album": "Pankaj Udhas Lofi Songs",
       "year_metadata": 2024,
@@ -347,30 +275,23 @@
       "audio_url": "https://aac.saavncdn.com/236/fbae12a9df4735fb03a68e2e9a9339a4_48.mp4"
     },
     {
-      "id": "J1h1elUG",
-      "title": "Uski Hasrat Hai Jise Dil Se Mita",
+      "id": "F-PGUOx3",
+      "title": "Kabhi To Khul Ke Baras",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
         "Chitra Singh",
-        "Bali Sharma",
-        "Vampire",
-        "Bali Sharma &amp; Vampire",
-        "Ameer Meenai",
-        "Mirza Ghalib",
-        "Shammi Kapoor",
-        "Sharmila Tagore",
-        "Pranoop Kumar",
-        "Nazir Hussain",
-        "Padma Devi",
-        "Dhumal",
-        "Tun Tun"
+        "Prem Warbartoni",
+        "Prithviraj Sukumaran",
+        "Tovino Thomas",
+        "Sudev Nair",
+        "Priya Anand"
       ],
-      "album": "Ghazal Ka Safar",
-      "year_metadata": 1997,
-      "language_metadata": "urdu",
+      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/417/e5ee329e74682b2098f8f978769be13f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
     },
     {
       "id": "YRA-fq6M",
@@ -379,12 +300,11 @@
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "Indraadip Das Gupta",
+        "Ujjwal Dua",
         "Qateel Shifai",
         "Mumtaz Rashid",
-        "Emraan Hashmi",
-        "Esha Gupta",
-        "Randeep Hooda"
+        "Divya Rana",
+        "Raaj Kiran"
       ],
       "album": "Pankaj Udhas Lofi Songs",
       "year_metadata": 2024,
@@ -398,11 +318,7 @@
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Jigar Moradabadi",
-        "Naseeruddin Shah",
-        "Smita Patil",
-        "Farooq Sheikh",
-        "Supriya Pathak"
+        "Jigar Moradabadi"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
@@ -411,19 +327,20 @@
       "audio_url": "https://aac.saavncdn.com/236/7522364a4966aff2a15545c26e2eec0f_48.mp4"
     },
     {
-      "id": "1KcLu15n",
-      "title": "Manzil Na De Charagh Na De",
+      "id": "J1h1elUG",
+      "title": "Uski Hasrat Hai Jise Dil Se Mita",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
         "Chitra Singh",
-        "Rana Sahri"
+        "Ameer Meenai",
+        "Mirza Ghalib"
       ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
+      "album": "Ghazal Ka Safar",
+      "year_metadata": 1997,
+      "language_metadata": "urdu",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/04c9dc20ae14a8d557b4ee001e3e0f6f_sar_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/417/e5ee329e74682b2098f8f978769be13f_48.mp4"
     },
     {
       "id": "MTfotXeN",
@@ -432,8 +349,7 @@
       "actual_artists": [
         "Pankaj Udhas",
         "Suman Sudip",
-        "Somanshu",
-        "Nikhita Gandhi",
+        "Sachin Gupta",
         "Unknown"
       ],
       "album": "Mulaqaat",
@@ -448,17 +364,64 @@
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Daagh Dehlvi()",
-        "Naseeruddin Shah",
-        "Smita Patil",
-        "Farooq Sheikh",
-        "Supriya Pathak"
+        "Daagh Dehlvi()"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
       "audio_url": "https://aac.saavncdn.com/236/c978b797b0019b074de0773b68cdfd32_48.mp4"
+    },
+    {
+      "id": "1KcLu15n",
+      "title": "Manzil Na De Charagh Na De",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Chitra Singh",
+        "Rana Sahri",
+        "Kulbhushan Kharbanda",
+        "Shabana Azmi",
+        "Rajkiran",
+        "Smita Patil",
+        "Rohini Hattangadi"
+      ],
+      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/357/04c9dc20ae14a8d557b4ee001e3e0f6f_sar_48.mp4"
+    },
+    {
+      "id": "Rfzmoec5",
+      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sadhana Sargam",
+        "Viju Shah",
+        "Sachin Gupta",
+        "Indeevar"
+      ],
+      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
+    },
+    {
+      "id": "7oV1z3Cl",
+      "title": "Kahin Chand Rahon Mein",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Dr. Bashir Badr"
+      ],
+      "album": "Ghazal Ka Safar",
+      "year_metadata": 1997,
+      "language_metadata": "urdu",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/417/bf4c34981d152d11c204065abbd55040_48.mp4"
     },
     {
       "id": "XWJQqD5f",
@@ -480,38 +443,39 @@
       "audio_url": "https://aac.saavncdn.com/318/bf810fc62091943d5b8bbc366cc51ffc_48.mp4"
     },
     {
-      "id": "Rfzmoec5",
-      "title": "Na Kajare Ki Dhar (From \"Mohra\")",
+      "id": "GrsMZIc_",
+      "title": "Sharab Cheez Hi Aisi (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
-        "Sadhana Sargam",
-        "Viju Shah",
-        "Indeevar"
+        "Sachin Gupta",
+        "Sardar Anjum"
       ],
-      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
-      "year_metadata": 2016,
+      "album": "Pankaj Udhas Lofi Songs",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/654/cb3129e815ee15f1e5b7652a47de05ec_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/270/71063eaf63c73062f5257281ca06b053_48.mp4"
     },
     {
-      "id": "7oV1z3Cl",
-      "title": "Kahin Chand Rahon Mein",
+      "id": "d3WYddi7",
+      "title": "Phir Chiddi Raat (From \"Bazaar\")",
       "artist": "Talat Aziz",
       "actual_artists": [
+        "Lata Mangeshkar",
         "Talat Aziz",
-        "Dr. Bashir Badr",
+        "Khayyam",
+        "Makhdoom Mohiuddin",
         "Naseeruddin Shah",
         "Smita Patil",
         "Farooq Sheikh",
         "Supriya Pathak"
       ],
-      "album": "Ghazal Ka Safar",
-      "year_metadata": 1997,
-      "language_metadata": "urdu",
+      "album": "Darbar- E-Ghazal",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/417/bf4c34981d152d11c204065abbd55040_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/461/3476ec45ab7b5fdeb653f090b2557430_48.mp4"
     },
     {
       "id": "sUZbMUIL",

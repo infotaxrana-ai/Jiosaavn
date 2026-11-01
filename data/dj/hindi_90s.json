@@ -119,19 +119,21 @@
       "audio_url": "https://aac.saavncdn.com/041/c9c7533375a46d285bc156a2212fdbb5_48.mp4"
     },
     {
-      "id": "r_Bx8bxm",
-      "title": "Dilbar Dilbar (Remix)",
+      "id": "9cCPZgWV",
+      "title": "Dilbar Dilbar",
       "artist": "Alka Yagnik",
       "actual_artists": [
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer"
+        "Sameer",
+        "Sushmita Sen",
+        "Sanjay Kapoor"
       ],
-      "album": "Dilbar Remix",
+      "album": "Sirf Tum",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/738/9f2d4a5d72bda591ac10c5818feb88f9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_48.mp4"
     },
     {
       "id": "sDwJtVrZ",
@@ -158,13 +160,8 @@
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
-        "Nakash Aziz",
-        "Neha Kakkar",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Devin Star Tailes",
-        "Srabanti",
-        "Sayantika"
+        "Sameer"
       ],
       "album": "Dilbar Remix",
       "year_metadata": 1999,
@@ -191,21 +188,19 @@
       "audio_url": "https://aac.saavncdn.com/921/4ae1cf697e2bd260fc86f18a21edab96_48.mp4"
     },
     {
-      "id": "9cCPZgWV",
-      "title": "Dilbar Dilbar",
+      "id": "r_Bx8bxm",
+      "title": "Dilbar Dilbar (Remix)",
       "artist": "Alka Yagnik",
       "actual_artists": [
         "Alka Yagnik",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sushmita Sen",
-        "Sanjay Kapoor"
+        "Sameer"
       ],
-      "album": "Sirf Tum",
+      "album": "Dilbar Remix",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/318/e9df3d6347f65bae53b368c2202a5a5c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/738/9f2d4a5d72bda591ac10c5818feb88f9_48.mp4"
     },
     {
       "id": "cdSCkggE",
@@ -214,6 +209,7 @@
       "actual_artists": [
         "Anand-Milind",
         "Anuradha Paudwal",
+        "Shilpi Raj",
         "Salahuddin Pervez",
         "Saeed Jaffrey",
         "Sushma Seth"
@@ -353,24 +349,19 @@
       "audio_url": "https://aac.saavncdn.com/361/485b4597858dfabd17ee1d9a92ef2de8_48.mp4"
     },
     {
-      "id": "mF7h5vXe",
+      "id": "QKw297SY",
       "title": "Om Jai Jagdish Hare",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
         "Anuradha Paudwal",
-        "Medha Vidyabhushan",
         "Arun Paudwal",
-        "Traditional",
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela"
+        "Traditional"
       ],
-      "album": "Aarti Vol-6",
+      "album": "Ram Ratan Dhan Payo",
       "year_metadata": 1993,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/680/b7e13e1684beb8eb8ee65436e39a3caa_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/478/92e5615e35f80d06cb93130414007f4f_48.mp4"
     },
     {
       "id": "RSrFVHos",
@@ -416,7 +407,17 @@
         "Alka Yagnik",
         "Shankar Mahadevan",
         "Anu Malik",
-        "Rahat Indoree"
+        "Lata Mangeshkar",
+        "Kumar Sanu",
+        "Rahat Indoree",
+        "Anupam Kher",
+        "Naseeruddin Shah",
+        "Kumud Mishra",
+        "Adil Hussain",
+        "Pooja Chopra",
+        "Rakul Preet",
+        "Manoj Bajpayee",
+        "Sidharth Malhotra"
       ],
       "album": "Ghatak",
       "year_metadata": 1996,
@@ -425,7 +426,7 @@
       "audio_url": "https://aac.saavncdn.com/768/fa78bc298c3ebfe54a4b8df5778ccc8f_48.mp4"
     },
     {
-      "id": "QKw297SY",
+      "id": "mF7h5vXe",
       "title": "Om Jai Jagdish Hare",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
@@ -433,11 +434,11 @@
         "Arun Paudwal",
         "Traditional"
       ],
-      "album": "Ram Ratan Dhan Payo",
+      "album": "Aarti Vol-6",
       "year_metadata": 1993,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/478/92e5615e35f80d06cb93130414007f4f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/680/b7e13e1684beb8eb8ee65436e39a3caa_48.mp4"
     },
     {
       "id": "YdmgPtZ3",
@@ -465,6 +466,7 @@
       "actual_artists": [
         "Udit Narayan",
         "Shiv-Hari",
+        "Alka Yagnik",
         "Anand Bakshi",
         "Shah Rukh Khan",
         "Juhi Chawla"
@@ -494,24 +496,21 @@
       "audio_url": "https://aac.saavncdn.com/142/7162980d93d61c2c94f8d39d76275219_48.mp4"
     },
     {
-      "id": "15U4tdVP",
-      "title": "Haath Jod Ke Khadee Hoon Maiyya",
+      "id": "kIJUXH6C",
+      "title": "Bahut Pyar Karte Hai (Female Version)",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
-        "Sonu Nigam",
-        "Suresh Wadkar",
         "Anuradha Paudwal",
-        "Surender Kohli",
-        "Saiyad Ali",
-        "Naqsh Lyallpuri",
-        "Bharat Acharya",
-        "Gopal Sharma"
+        "Nadeem-Shravan",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
       ],
-      "album": "Jai Maa Vaishno Devi",
-      "year_metadata": 1999,
+      "album": "Saajan",
+      "year_metadata": 1991,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/745/cfc86c98cd6508ae6d4f9791e9a98ac9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/461/c5ed61a158568f4f302d2342233b56ef_48.mp4"
     },
     {
       "id": "JD_f27bq",
@@ -556,8 +555,8 @@
     },
     "Udit Narayan": {
       "total": 80,
-      "accepted": 71,
-      "duplicate": 8,
+      "accepted": 70,
+      "duplicate": 9,
       "not_hindi": 1
     },
     "Alka Yagnik": {
@@ -567,9 +566,9 @@
     },
     "Anuradha Paudwal": {
       "total": 80,
-      "duplicate": 41,
+      "duplicate": 42,
       "accepted": 36,
-      "not_hindi": 3
+      "not_hindi": 2
     },
     "Abhijeet Bhattacharya": {
       "total": 40,

@@ -31,7 +31,11 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Rani Malik"
+        "Arijit Singh",
+        "Palak Muchhal",
+        "Rani Malik",
+        "Akshay Kumar",
+        "Shilpa Shetty"
       ],
       "album": "East Aur West Anu Is the Best",
       "year_metadata": 2021,
@@ -78,13 +82,8 @@
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
-        "Nakash Aziz",
-        "Neha Kakkar",
         "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Devin Star Tailes",
-        "Srabanti",
-        "Sayantika"
+        "Sameer"
       ],
       "album": "Dilbar Remix",
       "year_metadata": 1999,
@@ -118,7 +117,9 @@
         "Sameer",
         "Super Cassettes Industries Private Limited",
         "Kumar Sanu",
-        "Alka Yagnik"
+        "Alka Yagnik",
+        "Sanjay Kapoor",
+        "Priya Gill"
       ],
       "album": "Bollywood Classic Hits",
       "year_metadata": 2026,
@@ -170,7 +171,10 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Sameer"
+        "S. P. Balasubrahmanyam",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
       ],
       "album": "90's Heart Warming Songs !!",
       "year_metadata": 2018,
@@ -187,10 +191,7 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Udit Narayan",
-        "Sameer",
-        "Akshay Kumar",
-        "Divya Khosla"
+        "Sameer"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -207,10 +208,7 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "S. P. Balasubrahmanyam",
-        "Sameer",
-        "Madhuri Dixit",
-        "Sanjay Dutt"
+        "Sameer"
       ],
       "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
       "year_metadata": 2021,
@@ -228,7 +226,10 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Sameer"
+        "Sameer",
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
       ],
       "album": "Sunil Shetty - 12 Superhit Songs",
       "year_metadata": 2017,
@@ -245,7 +246,10 @@
         "Alka Yagnik",
         "Kumar Sanu",
         "Nadeem-Shravan",
-        "Sameer"
+        "Sameer",
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
       ],
       "album": "Director Special Dharmesh Darshan Hits",
       "year_metadata": 2021,
@@ -298,23 +302,6 @@
       "audio_url": "https://aac.saavncdn.com/393/ca22592f47d0dbafe0b900f59215ae77_48.mp4"
     },
     {
-      "id": "5qQwHnAc",
-      "title": "Shaam Bhi Khoob Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Udit Narayan",
-        "Alka Yagnik",
-        "Sanjeev-Darshan",
-        "Sameer"
-      ],
-      "album": "Karz: The Burden Of Truth",
-      "year_metadata": 2002,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/995/7d16f2a00f678a52fc13bea59a26ae0d_48.mp4"
-    },
-    {
       "id": "vpFB1LS5",
       "title": "Dheere Dheere Se Meri Zindagi Mein Aana (From \"Aashiqui\")",
       "artist": "Kumar Sanu",
@@ -323,7 +310,6 @@
         "Super Cassettes Industries Private Limited",
         "Anuradha Paudwal",
         "Kumar Sanu",
-        "Alka Yagnik",
         "Anu Aggarwal"
       ],
       "album": "Bollywood Classic Hits",
@@ -349,6 +335,23 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/088/4f7393c087c15f563b88632dae29bb0c_48.mp4"
+    },
+    {
+      "id": "5qQwHnAc",
+      "title": "Shaam Bhi Khoob Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Sanjeev-Darshan",
+        "Sameer"
+      ],
+      "album": "Karz: The Burden Of Truth",
+      "year_metadata": 2002,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/995/7d16f2a00f678a52fc13bea59a26ae0d_48.mp4"
     },
     {
       "id": "_u70kQ8Y",
@@ -423,6 +426,100 @@
       "audio_url": "https://aac.saavncdn.com/416/400150427d8e792c9bcdd4f0ab8e8796_48.mp4"
     },
     {
+      "id": "cCGI71BZ",
+      "title": "Baazigar O Baazigar (From \"Baazigar\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Nawab Arzoo",
+        "Saif Ali Khan",
+        "Shilpa Shetty",
+        "Somy Ali"
+      ],
+      "album": "Bollywood Moments",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/765/996b5fc3048892d54d89f35a41773628_48.mp4"
+    },
+    {
+      "id": "p6hZMN9C",
+      "title": "Baazigar O Baazigar (From \"Baazigar\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Ruba Khan",
+        "Anu Malik",
+        "Masha Ali",
+        "Nawab Arzoo",
+        "Upendra",
+        "Prabhu Deva",
+        "Priyanka Upendra"
+      ],
+      "album": "King Khan Forever",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/997/2d8d4a3db8068e0fc1a525d18e6457ba_48.mp4"
+    },
+    {
+      "id": "Mxmf57ES",
+      "title": "Baazigar O Baazigar (From \"Baazigar\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Nawab Arzoo"
+      ],
+      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/586/2b3ef9901b0f342d9fa34f2ff08cca64_48.mp4"
+    },
+    {
+      "id": "UVfWcea6",
+      "title": "Baazigar O Baazigar (From \"Baazigar\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Nawab Arzoo",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Shilpa Shetty"
+      ],
+      "album": "Dil Se Yaadon Tak",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/325/e345495dd55d480038e1474284a5a22b_48.mp4"
+    },
+    {
+      "id": "YdmgPtZ3",
+      "title": "Baazigar O Baazigar",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Nawab Arzoo",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Shilpa Shetty"
+      ],
+      "album": "Baazigar",
+      "year_metadata": 1993,
+      "language_metadata": "hindi",
+      "evidence": "artist_exact_match",
+      "audio_url": "https://aac.saavncdn.com/409/b05d8a94d4347e8093228d9f1fca3f07_48.mp4"
+    },
+    {
       "id": "xUTQkP-F",
       "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
       "artist": "Kumar Sanu",
@@ -430,13 +527,10 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Nadeem-Shravan",
-        "Masoom Sharma",
-        "Swara Verma",
+        "Rakesh Mishra",
         "Sameer",
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela"
+        "Meenakshi Seshadri",
+        "Govinda"
       ],
       "album": "Bollywood Queens",
       "year_metadata": 2016,
@@ -461,96 +555,6 @@
       "language_metadata": "hindi",
       "evidence": "artist_exact_match",
       "audio_url": "https://aac.saavncdn.com/073/aa8ba4fedf93426e34f84c47d0806655_48.mp4"
-    },
-    {
-      "id": "T6UdZ9mW",
-      "title": "Woh Ladki Bahut Yaad Aati-Duet (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem",
-        "Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
-      ],
-      "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
-      "year_metadata": 2021,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/412/a607fc0769678724013331f19233fe75_48.mp4"
-    },
-    {
-      "id": "nrFGr_If",
-      "title": "Woh Ladki Bahut Yaad Aati (From \"Qayamat\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
-      ],
-      "album": "Bollywood Star - Ajay Devgn",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/116/9de10a9bc35bd137c2b84aa1155088bc_48.mp4"
-    },
-    {
-      "id": "dCdTzA4W",
-      "title": "Woh Ladki Bahut Yaad Aati",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Neha Dhupia"
-      ],
-      "album": "Heart Touching Love Songs",
-      "year_metadata": 2021,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/700/8d298f4159308bf1cf80bb7770360159_48.mp4"
-    },
-    {
-      "id": "cCGI71BZ",
-      "title": "Baazigar O Baazigar (From \"Baazigar\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Nawab Arzoo",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Shilpa Shetty"
-      ],
-      "album": "Bollywood Moments",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/765/996b5fc3048892d54d89f35a41773628_48.mp4"
-    },
-    {
-      "id": "p6hZMN9C",
-      "title": "Baazigar O Baazigar (From \"Baazigar\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Nawab Arzoo"
-      ],
-      "album": "King Khan Forever",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "artist_exact_match",
-      "audio_url": "https://aac.saavncdn.com/997/2d8d4a3db8068e0fc1a525d18e6457ba_48.mp4"
     }
   ],
   "audit": {

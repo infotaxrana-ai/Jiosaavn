@@ -31,10 +31,7 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Udit Narayan",
-        "Sameer",
-        "Akshay Kumar",
-        "Divya Khosla"
+        "Sameer"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -50,7 +47,9 @@
         "Udit Narayan",
         "Alka Yagnik",
         "Sanjeev-Darshan",
-        "Sameer"
+        "Sameer",
+        "Akshay Kumar",
+        "Kareena Kapoor Khan"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -87,7 +86,6 @@
         "Alka Yagnik",
         "Mohd Aziz",
         "Nadeem-Shravan",
-        "Mohammed Aziz",
         "Sameer",
         "Govinda"
       ],
@@ -105,7 +103,9 @@
         "Sonu Nigam",
         "Kavita Krishnamurthy",
         "A. R. Rahman",
-        "Gulzar"
+        "Gulzar",
+        "Shah Rukh Khan",
+        "Manisha Koirala"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -147,9 +147,9 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
+        "Satinder Sartaaj",
         "Hasrat Jaipuri",
-        "Saif Ali Khan",
-        "Raageshwari"
+        "Kangana Ranaut"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -182,8 +182,10 @@
       "actual_artists": [
         "Kumaar",
         "Shreya Ghoshal",
-        "Harshit Saxena",
-        "Darshan Rathod",
+        "Ginny Diwan",
+        "Romy",
+        "Anand Bhaskar",
+        "Diljit Dosanjh",
         "Shraddha Kapoor",
         "Arjun Kapoor"
       ],
@@ -202,11 +204,10 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Shreya Ghoshal",
-        "Shaan",
         "Sameer",
-        "Dia Mirza",
-        "Emraan Hashmi"
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -220,12 +221,14 @@
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
-        "Kaprila",
         "Nadeem-Shravan",
-        "Dino James",
         "Sameer",
-        "Krishna",
-        "Nandita Swetha"
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor Khan",
+        "Boman Irani",
+        "Omi Vaidya"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -259,8 +262,9 @@
         "Nadeem",
         "Shravan",
         "Sameer",
-        "Rishi Kapoor",
-        "Divya Bharti"
+        "Nakul Kapoor",
+        "Kim Sharma",
+        "Dalip Tahil"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -275,23 +279,10 @@
       "actual_artists": [
         "Udit Narayan",
         "Himesh Reshammiya",
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Abhijeet",
-        "Sapna Awasthi",
-        "Vinod Rathod",
-        "Lata Mangeshkar",
-        "Nitin Mukesh",
-        "A.R. Rahman",
+        "Raghav",
         "Sudhakar Sharma",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Shilpa Shetty",
-        "Twinkle Khanna",
-        "Raveena Tandon",
-        "Juhi Chawla",
-        "Nagma",
-        "Malaika Arora"
+        "Salman Khan",
+        "Bhumika Chawla"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -307,7 +298,6 @@
         "Ajay Gogavale",
         "Shreya Ghoshal",
         "Ajay Atul",
-        "Darshan Rathod",
         "Amitabh Bhattacharya",
         "Ishaan Khatter",
         "Janhvi Kapoor"
@@ -326,11 +316,8 @@
         "Anuradha Paudwal",
         "Alka Yagnik",
         "Kavita Krishnamurthy",
-        "Nargis Fakhri",
         "Laxmikant - Pyarelal",
-        "Harsh Bhatt",
-        "Vishal-Akash (Dhaneliya Brothers)",
-        "Amrit Verma",
+        "Mukesh",
         "Hasan Kamal",
         "Amrita Singh",
         "Dharmendra"
@@ -367,6 +354,9 @@
         "Arijit Singh",
         "Harshdeep Kaur",
         "Kaushik-Aakash-Guddu (KAG) for JAM8",
+        "KK",
+        "Pritam",
+        "Sayeed Quadri",
         "Amitabh Bhattacharya",
         "Nawazuddin Siddiqui",
         "Shah Rukh Khan",
@@ -386,7 +376,9 @@
         "Kumar Sanu",
         "Sadhna Sargam",
         "Nadeem-Shravan",
-        "Sameer"
+        "Sameer",
+        "Rishi Kapoor",
+        "Divya Bharti"
       ],
       "album": "Tere Bina Dil - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -437,9 +429,12 @@
       "actual_artists": [
         "Alka Yagnik",
         "Sanjeev-Darshan",
+        "M. M. Keeravani",
+        "Sumangali",
         "Sameer",
-        "Akshay Kumar",
-        "Kareena Kapoor Khan"
+        "Bhumika Chawla",
+        "Ravi Teja",
+        "Bhoomika"
       ],
       "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -471,7 +466,9 @@
       "artist": "Arijit Singh",
       "actual_artists": [
         "Arijit Singh",
-        "Mithoon"
+        "Mithoon",
+        "Aditya Roy Kapur",
+        "Shraddha Kapoor"
       ],
       "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
       "year_metadata": 2025,
@@ -488,10 +485,7 @@
         "Alka Yagnik",
         "P. Sunanda",
         "Nadeem-Shravan",
-        "Udit Narayan",
-        "Sameer",
-        "Salman Khan",
-        "Karisma Kapoor"
+        "Sameer"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -583,9 +577,9 @@
     "Udit Narayan": {
       "total": 80,
       "accepted": 41,
-      "duplicate": 7,
+      "duplicate": 8,
       "language_mismatch": 1,
-      "mood_unverified": 31
+      "mood_unverified": 30
     },
     "Shreya Ghoshal": {
       "total": 80,

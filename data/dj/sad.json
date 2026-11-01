@@ -31,13 +31,12 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Aditya Yadav",
         "Sameer",
-        "Salman Khan",
-        "Bhagyashree",
-        "Mohnish Behl",
-        "Alok Nath",
-        "Reema Lagoo"
+        "Rishi Kapoor",
+        "Divya Bharti",
+        "Shah Rukh Khan",
+        "Sushma Seth",
+        "Alok Nath"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -75,8 +74,9 @@
         "Jagjit Singh",
         "Nikhil-Vinay",
         "Faaiz Anwar",
-        "Sandali Sinha",
-        "Priyanshu Chatterjee"
+        "Naseeruddin Shah",
+        "Amol Palekar",
+        "Sarika"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -112,9 +112,10 @@
         "Anuradha Paudwal",
         "Nadeem",
         "Shravan",
-        "S Jitu",
-        "Soujannya Rath",
-        "Sameer"
+        "Sadhana Sargam",
+        "Sameer",
+        "Jitendra Joshi",
+        "Urmila Kanetkar Kothare"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -164,7 +165,6 @@
       "actual_artists": [
         "Arijit Singh",
         "Amit Trivedi",
-        "Neeti Mohan",
         "Swanand Kirkire",
         "Katrina Kaif",
         "Aditya Roy Kapur",
@@ -183,18 +183,11 @@
       "actual_artists": [
         "Kumar Sanu",
         "Viju Shah",
-        "Hariharan",
-        "Alka Yagnik",
-        "Kavita Krishnamurthy",
-        "Anuradha Paudwal",
-        "Udit Narayan",
         "Anand Bakshi",
-        "Karisma Kapoor",
-        "Mohnish Behl",
-        "Sonali Bendre",
-        "Tabu",
-        "Salman Khan",
-        "Saif Ali Khan"
+        "Akshay Kumar",
+        "Raveena Tandon",
+        "Naseeruddin Shah",
+        "Sadashiv Amrapurkar"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -210,8 +203,7 @@
         "Sonu Nigam",
         "Sapna Awasthi",
         "Bali Brahmbhatt",
-        "Kartik Awasthi",
-        "Madhuri Dixit"
+        "Kartik Awasthi"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -266,10 +258,7 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Kavita Krishnamurthy",
-        "Anwar Sagar",
-        "Ayub Khan",
-        "Roshni Jaffrey"
+        "Anwar Sagar"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -315,10 +304,6 @@
       "actual_artists": [
         "Pritam",
         "Arijit Singh",
-        "Jordan Sandhu",
-        "Dilpreet Dhillon",
-        "Guntaj Dandiwal",
-        "Amrit Maan",
         "Amitabh Bhattacharya",
         "Fatima Sana Shaikh",
         "Suhani Bhatnagar",
@@ -341,11 +326,7 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Sadhana Sargam",
-        "Nitin Mukesh",
-        "Sameer",
-        "Rakesh Roshan",
-        "Rekha"
+        "Sameer"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -376,7 +357,8 @@
       "actual_artists": [
         "Jagjit Singh",
         "Sachin Gupta",
-        "Kaifi Azmi"
+        "Kaifi Azmi",
+        "Kajol"
       ],
       "album": "Sad Lofi Hits",
       "year_metadata": 2022,
@@ -392,6 +374,7 @@
         "Vishal Mishra",
         "Arijit Singh",
         "Raj Shekar",
+        "Rude Boy",
         "Raj Shekhar",
         "Sidharth Malhotra",
         "Parineeti Chopra"
@@ -424,8 +407,7 @@
       "actual_artists": [
         "Sonu Nigam",
         "Shankar-Ehsaan-Loy",
-        "Javed Akhtar",
-        "Akshay Kumar"
+        "Javed Akhtar"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -442,7 +424,8 @@
         "Sachin Gupta",
         "Anil Biswas",
         "Deepak Pandit",
-        "Prem Dhawan"
+        "Prem Dhawan",
+        "Kajol"
       ],
       "album": "Sad Lofi Hits",
       "year_metadata": 2022,
@@ -458,6 +441,7 @@
         "Amaal Mallik",
         "Arijit Singh",
         "Kunaal Vermaa",
+        "Mitraz",
         "Tamannaah Bhatia"
       ],
       "album": "Romantic Sad Songs",
@@ -475,7 +459,14 @@
         "Kavita Krishanmurthy",
         "Shyam",
         "Surender",
-        "Gauhar Kanpuri"
+        "Kavita Krishnamurthy",
+        "Gauhar Kanpuri",
+        "Jackie Shroff",
+        "Nana Patekar",
+        "Manisha Koirala",
+        "Ravi Behl",
+        "Divya Dutta",
+        "Alok Nath"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -492,10 +483,14 @@
         "Lata Mangeshkar",
         "Sonu Nigam",
         "Anand Bakshi",
-        "Kareena Kapoor Khan",
-        "Hrithik Roshan",
-        "Rani Mukerji",
-        "Uday Chopra"
+        "Akshay Kumar",
+        "Katrina Kaif",
+        "Bipasha Basu",
+        "Anil Kapoor",
+        "Mahesh Thakur",
+        "Bhagyashree",
+        "Delnaaz Paul",
+        "Manoj Joshi"
       ],
       "album": "Tears In Love - 10 Sad Songs",
       "year_metadata": 2015,
@@ -512,7 +507,8 @@
         "Sachin Gupta",
         "Nitish R Kumar",
         "Jagjit Singh",
-        "Mirza Ghalib"
+        "Mirza Ghalib",
+        "Kajol"
       ],
       "album": "Sad Lofi Mix Tape Hindi",
       "year_metadata": 2022,
@@ -528,7 +524,7 @@
         "Kunaal Vermaa",
         "Amaal Mallik",
         "Arijit Singh",
-        "Inder Pandori",
+        "Mitraz",
         "Tamannaah Bhatia"
       ],
       "album": "Late Night Bollywood Sad Songs",
@@ -567,8 +563,8 @@
     },
     "Sonu Nigam": {
       "total": 80,
-      "mood_unverified": 63,
-      "accepted": 12,
+      "mood_unverified": 64,
+      "accepted": 11,
       "language_mismatch": 3,
       "duplicate": 2
     },
