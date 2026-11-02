@@ -12,6 +12,9 @@
       "actual_artists": [
         "Arijit Singh",
         "Amit Trivedi",
+        "Vishal &amp; Shekhar",
+        "Suraj Jagan",
+        "Mahalakshmi Iyer",
         "Amitabh Bhattacharya",
         "Sushant Singh Rajput",
         "Sushant Singh",
@@ -31,12 +34,10 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
+        "Udit Narayan",
         "Sameer",
-        "Rishi Kapoor",
-        "Divya Bharti",
-        "Shah Rukh Khan",
-        "Sushma Seth",
-        "Alok Nath"
+        "Aamir Khan",
+        "Karisma Kapoor"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -53,6 +54,10 @@
         "Sonu Nigam",
         "Jatin Pandit",
         "Lalit Pandit",
+        "Lata Mangeshkar",
+        "Udit Narayan",
+        "Gurdas Maan",
+        "Javed Akhtar",
         "Kareena Kapoor Khan",
         "Amitabh Bachchan",
         "Jaya Bachchan",
@@ -74,9 +79,7 @@
         "Jagjit Singh",
         "Nikhil-Vinay",
         "Faaiz Anwar",
-        "Naseeruddin Shah",
-        "Amol Palekar",
-        "Sarika"
+        "B Praak"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -124,20 +127,20 @@
       "audio_url": "https://aac.saavncdn.com/330/a21f58a30dd14b27009f892d65294e33_48.mp4"
     },
     {
-      "id": "mSIIA_RX",
-      "title": "Achha Sila Diya Toone Mere Pyar Ka (From \"Bewafa Sanam\")",
+      "id": "e1bRhT0B",
+      "title": "Sab Kuchh Bhula Diya (From \"Hum Tumhare Hain Sanam\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
-        "Nikhil-Vinay",
-        "Yogesh",
-        "Krishan Kumar Dua"
+        "Sapna Awasthi",
+        "Bali Brahmbhatt",
+        "Kartik Awasthi"
       ],
-      "album": "90'S Best Sad Songs",
-      "year_metadata": 2023,
+      "album": "2000'S Super Hit Sad Songs",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/422/ced9005177fce802c573c6d1ec22cc42_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/702/07bbc9e15d5190329304a55baab97de1_48.mp4"
     },
     {
       "id": "hEUlW7FA",
@@ -183,11 +186,7 @@
       "actual_artists": [
         "Kumar Sanu",
         "Viju Shah",
-        "Anand Bakshi",
-        "Akshay Kumar",
-        "Raveena Tandon",
-        "Naseeruddin Shah",
-        "Sadashiv Amrapurkar"
+        "Anand Bakshi"
       ],
       "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
       "year_metadata": 2019,
@@ -196,20 +195,20 @@
       "audio_url": "https://aac.saavncdn.com/013/628b3cbb610635da0ce09531fddf9292_48.mp4"
     },
     {
-      "id": "e1bRhT0B",
-      "title": "Sab Kuchh Bhula Diya (From \"Hum Tumhare Hain Sanam\")",
+      "id": "mSIIA_RX",
+      "title": "Achha Sila Diya Toone Mere Pyar Ka (From \"Bewafa Sanam\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
-        "Sapna Awasthi",
-        "Bali Brahmbhatt",
-        "Kartik Awasthi"
+        "Nikhil-Vinay",
+        "Yogesh",
+        "Krishan Kumar Dua"
       ],
-      "album": "2000'S Super Hit Sad Songs",
-      "year_metadata": 2024,
+      "album": "90'S Best Sad Songs",
+      "year_metadata": 2023,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/702/07bbc9e15d5190329304a55baab97de1_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/422/ced9005177fce802c573c6d1ec22cc42_48.mp4"
     },
     {
       "id": "VtVid79Q",
@@ -267,19 +266,20 @@
       "audio_url": "https://aac.saavncdn.com/330/e05b99c26f5ad737438b64ae363bbf96_48.mp4"
     },
     {
-      "id": "qz73d9m_",
-      "title": "Bhula Denge Tumko Sanam (From \"Humko Deewana Kar Gaye\")",
+      "id": "Kg8OWJqV",
+      "title": "Bhula Denge Tumko Sanam",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
         "Anu Malik",
-        "Sameer"
+        "Sameer",
+        "Akshay Kumar"
       ],
-      "album": "2000'S Super Hit Sad Songs",
-      "year_metadata": 2024,
+      "album": "Akki The Hit Machine - Sad",
+      "year_metadata": 2015,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/702/e42b3294959b3e19dd690f170e372920_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/355/a52aef1c5a456db64c3d3dd8fcb7f266_48.mp4"
     },
     {
       "id": "Z0Q8cuY-",
@@ -304,6 +304,10 @@
       "actual_artists": [
         "Pritam",
         "Arijit Singh",
+        "Jordan Sandhu",
+        "Dilpreet Dhillon",
+        "Guntaj Dandiwal",
+        "Amrit Maan",
         "Amitabh Bhattacharya",
         "Fatima Sana Shaikh",
         "Suhani Bhatnagar",
@@ -335,20 +339,19 @@
       "audio_url": "https://aac.saavncdn.com/330/54a08ea933c2a5753c45c5a7e30bbc76_48.mp4"
     },
     {
-      "id": "Kg8OWJqV",
-      "title": "Bhula Denge Tumko Sanam",
+      "id": "qz73d9m_",
+      "title": "Bhula Denge Tumko Sanam (From \"Humko Deewana Kar Gaye\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
         "Anu Malik",
-        "Sameer",
-        "Akshay Kumar"
+        "Sameer"
       ],
-      "album": "Akki The Hit Machine - Sad",
-      "year_metadata": 2015,
+      "album": "2000'S Super Hit Sad Songs",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/355/a52aef1c5a456db64c3d3dd8fcb7f266_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/702/e42b3294959b3e19dd690f170e372920_48.mp4"
     },
     {
       "id": "Z2l16pVv",
@@ -357,8 +360,7 @@
       "actual_artists": [
         "Jagjit Singh",
         "Sachin Gupta",
-        "Kaifi Azmi",
-        "Kajol"
+        "Kaifi Azmi"
       ],
       "album": "Sad Lofi Hits",
       "year_metadata": 2022,
@@ -374,7 +376,7 @@
         "Vishal Mishra",
         "Arijit Singh",
         "Raj Shekar",
-        "Rude Boy",
+        "Shashwat Singh",
         "Raj Shekhar",
         "Sidharth Malhotra",
         "Parineeti Chopra"
@@ -407,7 +409,8 @@
       "actual_artists": [
         "Sonu Nigam",
         "Shankar-Ehsaan-Loy",
-        "Javed Akhtar"
+        "Javed Akhtar",
+        "Aamir Khan"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
@@ -441,7 +444,7 @@
         "Amaal Mallik",
         "Arijit Singh",
         "Kunaal Vermaa",
-        "Mitraz",
+        "K. S. Chithra",
         "Tamannaah Bhatia"
       ],
       "album": "Romantic Sad Songs",
@@ -459,14 +462,7 @@
         "Kavita Krishanmurthy",
         "Shyam",
         "Surender",
-        "Kavita Krishnamurthy",
-        "Gauhar Kanpuri",
-        "Jackie Shroff",
-        "Nana Patekar",
-        "Manisha Koirala",
-        "Ravi Behl",
-        "Divya Dutta",
-        "Alok Nath"
+        "Gauhar Kanpuri"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -483,14 +479,9 @@
         "Lata Mangeshkar",
         "Sonu Nigam",
         "Anand Bakshi",
-        "Akshay Kumar",
-        "Katrina Kaif",
-        "Bipasha Basu",
-        "Anil Kapoor",
-        "Mahesh Thakur",
-        "Bhagyashree",
-        "Delnaaz Paul",
-        "Manoj Joshi"
+        "Hrithik Roshan",
+        "Rani Mukerji",
+        "Kareena Kapoor Khan"
       ],
       "album": "Tears In Love - 10 Sad Songs",
       "year_metadata": 2015,
@@ -541,7 +532,14 @@
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Sameer"
+        "Sameer",
+        "Aishwarya Rai Bachchan",
+        "Akshaye Khanna",
+        "Aishwarya Rai",
+        "Suman Ranganathan",
+        "Kader Khan",
+        "Himani Shivpuri",
+        "Rajesh Khanna"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
@@ -563,8 +561,8 @@
     },
     "Sonu Nigam": {
       "total": 80,
-      "mood_unverified": 64,
-      "accepted": 11,
+      "mood_unverified": 63,
+      "accepted": 12,
       "language_mismatch": 3,
       "duplicate": 2
     },
