@@ -6,21 +6,21 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "DVG8mEm1",
+      "id": "ZAwUB9Jy",
       "title": "Apna Bana Le",
       "artist": "Arijit Singh",
       "actual_artists": [
+        "Amitabh Bhattacharya",
         "Sachin-Jigar",
         "Arijit Singh",
-        "Amitabh Bhattacharya",
         "Varun Dhawan",
         "Kriti Sanon"
       ],
-      "album": "Bollywood Top Romantic Hits",
+      "album": "Romantic Classics Hits",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/390/f8dd350d88c08640255fef8ac779b42d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/238/5583fbab6328b12f467f01ee335e496d_48.mp4"
     },
     {
       "id": "unmhSdBz",
@@ -86,10 +86,6 @@
         "Alka Yagnik",
         "Mohd Aziz",
         "Nadeem-Shravan",
-        "Sanjay Leela Bhansali",
-        "Shreya Ghoshal",
-        "Osman Mir",
-        "Siddharth-Garima",
         "Sameer",
         "Govinda"
       ],
@@ -107,9 +103,11 @@
         "Sonu Nigam",
         "Kavita Krishnamurthy",
         "A. R. Rahman",
+        "Deepa",
+        "Usha",
         "Gulzar",
-        "Shah Rukh Khan",
-        "Manisha Koirala"
+        "Mahesh Babu",
+        "Amrita Rao"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -118,21 +116,22 @@
       "audio_url": "https://aac.saavncdn.com/115/d70116abf1a24c645a922667d85fa05f_48.mp4"
     },
     {
-      "id": "ZAwUB9Jy",
+      "id": "DVG8mEm1",
       "title": "Apna Bana Le",
       "artist": "Arijit Singh",
       "actual_artists": [
-        "Amitabh Bhattacharya",
         "Sachin-Jigar",
         "Arijit Singh",
+        "Amitabh Bhattacharya",
+        "Mithoon",
         "Varun Dhawan",
         "Kriti Sanon"
       ],
-      "album": "Romantic Classics Hits",
+      "album": "Bollywood Top Romantic Hits",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/238/5583fbab6328b12f467f01ee335e496d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/390/f8dd350d88c08640255fef8ac779b42d_48.mp4"
     },
     {
       "id": "UOiMywDy",
@@ -142,10 +141,9 @@
         "Kumar Sanu",
         "Alka Yagnik",
         "Anu Malik",
-        "Nishma",
         "Hasrat Jaipuri",
-        "Rishi Kapoor",
-        "Divya Bharti"
+        "Saif Ali Khan",
+        "Raageshwari"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -196,14 +194,14 @@
       "actual_artists": [
         "Sonu Nigam",
         "Alka Yagnik",
-        "Azhar Hajini",
-        "Kavita Agarwal",
         "Nadeem",
         "Shravan",
-        "Piyush Kashyap",
+        "Udit Narayan",
+        "Kumar Sanu",
         "Sameer",
-        "Aamir Khan",
-        "Manisha Koirala"
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -217,14 +215,12 @@
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
+        "Kaprila",
         "Nadeem-Shravan",
+        "Dino James",
         "Sameer",
-        "Aamir Khan",
-        "R. Madhavan",
-        "Sharman Joshi",
-        "Kareena Kapoor Khan",
-        "Boman Irani",
-        "Omi Vaidya"
+        "Krishna",
+        "Nandita Swetha"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -250,9 +246,7 @@
         "Amitabh Bhattacharya",
         "Varun Grover",
         "Manoj Muntashir",
-        "Shelle",
-        "Varun Dhawan",
-        "Kriti Sanon"
+        "Shelle"
       ],
       "album": "Romantic Mashup 2026 by DJ Star & DJ Alex Mumbai",
       "year_metadata": 2026,
@@ -285,9 +279,10 @@
       "actual_artists": [
         "Udit Narayan",
         "Himesh Reshammiya",
-        "Alka Yagnik",
         "Sudhakar Sharma",
-        "Bhumika Chawla"
+        "Bobby Deol",
+        "Akshaye Khanna",
+        "Ameesha Patel"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -334,8 +329,8 @@
       "audio_url": "https://aac.saavncdn.com/184/b7ed351b3741306fdf3110785871ce14_48.mp4"
     },
     {
-      "id": "N9t3iKfe",
-      "title": "Aisa Deewana (From \"Dil Maange More\")",
+      "id": "mfhYC6bn",
+      "title": "Aisa Deewana",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
@@ -345,11 +340,11 @@
         "Shahid Kapoor",
         "Soha Ali Khan"
       ],
-      "album": "Himesh Reshammiya Romantic Hit Songs",
-      "year_metadata": 2025,
+      "album": "Romantic Songs Of Sonu Nigam",
+      "year_metadata": 2015,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/711/57e2bcb30dae3b0a2e246001b91a2dc0_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/341/fca1b5db8dee0cc098a24ca23b279f3e_48.mp4"
     },
     {
       "id": "oqSP8nSu",
@@ -359,9 +354,6 @@
         "Arijit Singh",
         "Harshdeep Kaur",
         "Kaushik-Aakash-Guddu (KAG) for JAM8",
-        "KK",
-        "Pritam",
-        "Sayeed Quadri",
         "Amitabh Bhattacharya",
         "Nawazuddin Siddiqui",
         "Shah Rukh Khan",
@@ -381,7 +373,9 @@
         "Kumar Sanu",
         "Sadhna Sargam",
         "Nadeem-Shravan",
-        "Sameer"
+        "Sameer",
+        "Rishi Kapoor",
+        "Divya Bharti"
       ],
       "album": "Tere Bina Dil - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -398,9 +392,7 @@
         "Alka Yagnik",
         "Nadeem",
         "Shravan",
-        "Sameer",
-        "Ajay Devgn",
-        "Raveena Tandon"
+        "Sameer"
       ],
       "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -434,7 +426,10 @@
       "actual_artists": [
         "Alka Yagnik",
         "Sanjeev-Darshan",
-        "Sameer"
+        "Tilok Chohan",
+        "Sameer",
+        "Akshay Kumar",
+        "Kareena Kapoor Khan"
       ],
       "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
       "year_metadata": 2016,
@@ -443,8 +438,8 @@
       "audio_url": "https://aac.saavncdn.com/466/18e7cd14f5f68c5d08a2178e6ed3dfe6_48.mp4"
     },
     {
-      "id": "mfhYC6bn",
-      "title": "Aisa Deewana",
+      "id": "N9t3iKfe",
+      "title": "Aisa Deewana (From \"Dil Maange More\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
@@ -454,11 +449,11 @@
         "Shahid Kapoor",
         "Soha Ali Khan"
       ],
-      "album": "Romantic Songs Of Sonu Nigam",
-      "year_metadata": 2015,
+      "album": "Himesh Reshammiya Romantic Hit Songs",
+      "year_metadata": 2025,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/341/fca1b5db8dee0cc098a24ca23b279f3e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/711/57e2bcb30dae3b0a2e246001b91a2dc0_48.mp4"
     },
     {
       "id": "Bt07_OpM",
@@ -467,8 +462,8 @@
       "actual_artists": [
         "Arijit Singh",
         "Mithoon",
-        "Aditya Roy Kapur",
-        "Shraddha Kapoor"
+        "Sai Smriti",
+        "Satinder Sartaaj"
       ],
       "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
       "year_metadata": 2025,
@@ -485,7 +480,11 @@
         "Alka Yagnik",
         "P. Sunanda",
         "Nadeem-Shravan",
-        "Sameer"
+        "Anuradha Paudwal",
+        "Sameer",
+        "Ajay Devgn",
+        "Ayesha Jhulka",
+        "Karisma Kapoor"
       ],
       "album": "21 Ishq List - Bollywood Romantic Songs",
       "year_metadata": 2017,
@@ -544,64 +543,65 @@
       "audio_url": "https://aac.saavncdn.com/732/1c7228a088c1ecfeb1e8e5575fc132aa_48.mp4"
     },
     {
-      "id": "0603uQ6o",
-      "title": "Aisa Deewana (From \"Dil Maange More\")",
+      "id": "aazZ2JoK",
+      "title": "Kuchh Kasme (From \"Aankhen\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
         "Alka Yagnik",
-        "Himesh Reshammiya",
-        "Sameer",
+        "Jatin-Lalit",
+        "Praveen Bhardwaj",
         "Shahid Kapoor",
         "Soha Ali Khan"
       ],
-      "album": "Valentine's Special - Evergreen Romantic Bollywood Songs",
-      "year_metadata": 2024,
+      "album": "Bollywood Romantic Duet",
+      "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/759/9fec6153e1bfc18ba82a1c539cf4dd9e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/823/fea073591519c6b6f4951185bfbac39c_48.mp4"
     }
   ],
   "audit": {
     "Arijit Singh": {
       "total": 80,
-      "accepted": 43,
-      "mood_unverified": 34,
+      "accepted": 44,
+      "mood_unverified": 32,
+      "language_mismatch": 1,
       "duplicate": 3
     },
     "Kumar Sanu": {
       "total": 80,
       "accepted": 41,
-      "mood_unverified": 37,
-      "duplicate": 2
+      "mood_unverified": 38,
+      "duplicate": 1
     },
     "Udit Narayan": {
       "total": 80,
-      "accepted": 41,
-      "duplicate": 7,
-      "language_mismatch": 1,
+      "accepted": 38,
+      "duplicate": 9,
+      "language_mismatch": 2,
       "mood_unverified": 31
     },
     "Shreya Ghoshal": {
       "total": 80,
-      "accepted": 32,
-      "duplicate": 6,
-      "language_mismatch": 9,
-      "artist_mismatch": 2,
-      "mood_unverified": 31
+      "accepted": 33,
+      "duplicate": 5,
+      "language_mismatch": 8,
+      "artist_mismatch": 1,
+      "mood_unverified": 33
     },
     "Alka Yagnik": {
       "total": 80,
-      "duplicate": 56,
-      "accepted": 13,
-      "mood_unverified": 11
+      "duplicate": 52,
+      "accepted": 14,
+      "mood_unverified": 14
     },
     "Sonu Nigam": {
       "total": 80,
-      "duplicate": 13,
-      "language_mismatch": 8,
-      "accepted": 26,
-      "mood_unverified": 33
+      "duplicate": 14,
+      "language_mismatch": 9,
+      "accepted": 22,
+      "mood_unverified": 35
     }
   },
   "fetch_errors": {},
