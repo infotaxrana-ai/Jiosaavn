@@ -1,10 +1,9 @@
-
 name: Publish Xiaozhi DJ Playlists
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 */6 * * *"
+    - cron: "23 * * * *"  # Every hour at minute 23 UTC; Actions may be delayed
 
 permissions:
   contents: write
@@ -17,88 +16,66 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 25
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Build six DJ playlists
+      - name: Regression tests (all existing modes + hourly refresh)
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p data/dj
-
           python -m unittest -q \
             test_step2.py \
             test_step3.py \
-            test_dj_six_modes.py
+            test_dj_six_modes.py \
+            test_hourly_dj_refresh.py
 
-          python dj_six_modes.py \
-            --mode artist_nonstop \
-            --artist "Kumar Sanu" \
-            --limit 30 \
-            --output data/dj/artist_nonstop.json
-
-          for mode in hindi_90s romantic sad ghazal bangla_classic
-          do
-            python dj_six_modes.py \
-              --mode "$mode" \
-              --limit 30 \
-              --output "data/dj/${mode}.json"
-          done
-
-      - name: Validate published playlists
-        shell: bash
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          modes = [
-              "artist_nonstop",
-              "hindi_90s",
-              "romantic",
-              "sad",
-              "ghazal",
-              "bangla_classic",
-          ]
-
-          for mode in modes:
-              p = Path(f"data/dj/{mode}.json")
-              data = json.loads(p.read_text(encoding="utf-8"))
-              songs = data.get("songs", [])
-
-              if not songs:
-                  raise SystemExit(f"BLOCKED: {mode} empty")
-
-              for song in songs:
-                  if not (
-                      song.get("title")
-                      and song.get("artist")
-                      and str(song.get("audio_url", "")).startswith("https://")
-                  ):
-                      raise SystemExit(f"BLOCKED: invalid {mode} track")
-
-              print(f"PASS {mode}: {len(songs)} songs")
-          PY
-
-      - name: Publish playlist JSON files
+      - name: Fetch broad candidate pool and publish NEW songs to six DJ JSON files
         shell: bash
         run: |
           set -euo pipefail
+          python hourly_dj_refresh.py \
+            --config music_config.json \
+            --output-dir data/dj \
+            --history data/dj/.hourly_history.json \
+            --candidate-limit 150 \
+            --per-query 70 \
+            --min-new 1
 
+      - name: Validate legacy JSON contract
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from hourly_dj_refresh import MODES, unique_songs
+          for mode in MODES:
+              p = Path('data/dj') / f'{mode}.json'
+              obj = json.loads(p.read_text(encoding='utf-8'))
+              songs = obj.get('songs')
+              if obj.get('mode') != mode or not isinstance(songs, list):
+                  raise SystemExit(f'INVALID MODE: {mode}')
+              if obj.get('playlist_count') != len(songs) or len(songs) != 30:
+                  raise SystemExit(f'INVALID COUNT: {mode}')
+              if len(unique_songs(songs)) != len(songs):
+                  raise SystemExit(f'INVALID/DUPLICATE SONG: {mode}')
+              print(f'PASS {mode}: {len(songs)} tracks; first={songs[0]["title"]}')
+          PY
+
+      - name: Publish only when at least one actual song changes
+        shell: bash
+        run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
-
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/dj/
-
           if git diff --cached --quiet; then
-            echo "NO CHANGES"
+            echo "NO NEW TRACKS: previous live JSON preserved"
           else
-            git commit -m "chore: refresh six DJ playlists"
-            git push
+            git commit -m "chore: refresh DJ tracks with hourly novelty-first sync"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
