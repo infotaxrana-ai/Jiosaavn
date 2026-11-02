@@ -1,3 +1,4 @@
+
 name: Publish Xiaozhi DJ Playlists
 
 on:
@@ -61,7 +62,18 @@ jobs:
               if obj.get('playlist_count') != len(songs) or len(songs) != 30:
                   raise SystemExit(f'INVALID COUNT: {mode}')
               if len(unique_songs(songs)) != len(songs):
-                  raise SystemExit(f'INVALID/DUPLICATE SONG: {mode}')
+                  # Do not block valid new playlists because an OLD playlist
+                  # was deliberately preserved on an insufficient API result.
+                  # Only unchanged committed legacy data may use this exception.
+                  import subprocess
+                  committed = subprocess.run(
+                      ['git', 'show', f'HEAD:{p.as_posix()}'],
+                      capture_output=True, check=False)
+                  if committed.returncode != 0 or committed.stdout != p.read_bytes():
+                      raise SystemExit(f'INVALID/DUPLICATE NEW SONG: {mode}')
+                  print(f'LEGACY WARNING {mode}: unchanged old playlist has duplicates; '
+                        'preserved until enough unique candidates are available')
+                  continue
               print(f'PASS {mode}: {len(songs)} tracks; first={songs[0]["title"]}')
           PY
 
