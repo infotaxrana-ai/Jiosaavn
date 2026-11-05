@@ -6,365 +6,27 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "1vtQcLVx",
-      "title": "Jibana Ta Sukha Dukha Gita",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Krushnachandra Sabath",
-        "Anuradha Paudwal",
-        "Panchanan Nayak",
-        "Rakhee Gulzar",
-        "Roopali",
-        "Papiya De Adhikari",
-        "Tapas Paul"
-      ],
-      "album": "Kumar Sanu Sad Romantic Songs",
-      "year_metadata": 2025,
-      "language_metadata": "odia",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/217/2727bfca3cd18454bb382da938dd4e94_48.mp4"
-    },
-    {
-      "id": "BX2gL15U",
-      "title": "Tanhaiyan - Lofi",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Sachin Gupta",
-        "Sonu Nigam",
-        "Nadeem-Shravan",
-        "Karan B. Krupa",
-        "Sameer",
-        "Santosh Balaraj",
-        "Mayuri Kyatari"
-      ],
-      "album": "Sad Hindi Lofi",
-      "year_metadata": 2023,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/989/5d4ae02eb7d7ca73a007898f30ef055b_48.mp4"
-    },
-    {
-      "id": "UmXQXrQl",
-      "title": "Koi Fariyaad (From \"Tum Bin\")",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Nikhil-Vinay",
-        "Faaiz Anwar",
-        "Naseeruddin Shah",
-        "Amol Palekar",
-        "Sarika"
-      ],
-      "album": "2000'S Super Hit Sad Songs",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/702/9563cf8a53296ae01c1cac9deb2aeb1f_48.mp4"
-    },
-    {
-      "id": "KDCM-z1-",
-      "title": "Zaroorat Se Zyada",
+      "id": "btnhhyLA",
+      "title": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\")",
       "artist": "Arijit Singh",
       "actual_artists": [
-        "Amaal Mallik",
+        "Pritam",
         "Arijit Singh",
-        "Kunaal Vermaa",
-        "Mitraz",
-        "Tamannaah Bhatia"
-      ],
-      "album": "Romantic Sad Songs",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/076/e2034640716fb6052149ab775c0304c1_48.mp4"
-    },
-    {
-      "id": "Cwy3D747",
-      "title": "Samjhawan (From \"Humpty Sharma Ki Dulhania\")",
-      "artist": "Arijit Singh",
-      "actual_artists": [
-        "Jawad Ahmad",
-        "Sharib Toshi",
-        "Arijit Singh",
-        "Shreya Ghoshal",
-        "Indraadip Das Gupta",
-        "Subha Ka Muzik",
-        "Shaarib Sabri",
-        "Toshi Sabri",
-        "Kumaar",
-        "Ahmad Anees",
-        "Varun Dhawan",
-        "Alia Bhatt"
+        "Pritam &amp; Arijit Singh",
+        "Amitabh Bhattacharya",
+        "Ranbir Kapoor",
+        "Anushka Sharma",
+        "Aishwarya Rai Bachchan"
       ],
       "album": "Arijit Singh Top Sad Love Hits",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/702/556bfee5cfb97e6fad0572930a44d5fa_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/702/a49ed2d2d75fe61a71bade064e1f86d8_48.mp4"
     },
     {
-      "id": "f8AOXuXx",
-      "title": "Pitah Se Hai Naam Tera",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Sonu Nigam",
-        "Meet Bros Anjjan",
-        "Sanjay Misra",
-        "Kumaar",
-        "Akshay Kumar"
-      ],
-      "album": "Akki The Hit Machine - Sad",
-      "year_metadata": 2015,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/355/32d69c2b56dfe95f4087913a39afce22_48.mp4"
-    },
-    {
-      "id": "gsHzfDcE",
-      "title": "Kabhi Khushi Kabhie Gham (Sad Version -1)",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Jatin-Lalit",
-        "Sonu Nigam",
-        "Jatin Pandit",
-        "Lalit Pandit",
-        "Anil Pandey",
-        "Kareena Kapoor Khan",
-        "Amitabh Bachchan",
-        "Jaya Bachchan",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Hrithik Roshan"
-      ],
-      "album": "Kabhi Khushi Kabhie Gham",
-      "year_metadata": 2001,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/778/5db7fd1028a8326785dc3837cc710d2c_48.mp4"
-    },
-    {
-      "id": "sRyOdaw7",
-      "title": "Aankh Hai Bhari Bhari (Male Version) (Jhankar Beats)",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Nadeem",
-        "Shravan",
-        "Sadhana Sargam",
-        "Sameer"
-      ],
-      "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/54a08ea933c2a5753c45c5a7e30bbc76_48.mp4"
-    },
-    {
-      "id": "YT_xrUmc",
-      "title": "Tu Pyar Hai Kisi Aur Ka (From \"Dil Hai Ke Manta Nahin\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Kumar Sanu",
-        "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sonu Nigam",
-        "Mohammed Aziz",
-        "Alka Yagnik",
-        "Udit Narayan"
-      ],
-      "album": "90'S Best Sad Songs",
-      "year_metadata": 2023,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/422/32ba0c720446bfbc9db250c9208c4f8a_48.mp4"
-    },
-    {
-      "id": "E3By4eG2",
-      "title": "Naina",
-      "artist": "Arijit Singh",
-      "actual_artists": [
-        "Pritam",
-        "Arijit Singh",
-        "Amitabh Bhattacharya",
-        "Fatima Sana Shaikh",
-        "Suhani Bhatnagar",
-        "Sanya Malhotra",
-        "Aamir Khan",
-        "Zaira Wasim",
-        "Sakshi Tanwar"
-      ],
-      "album": "Late Night Bollywood Sad Songs",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/051/5e6bbe3e33b410a63ab1528cdc3db3dc_48.mp4"
-    },
-    {
-      "id": "DMa9ZQeu",
-      "title": "Ankh Hai Bhari Bhari (Male Version) (From \"Tum Se Achcha Kaun Hai\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Nadeem-Shravan",
-        "Anuradha Paudwal",
-        "Sameer",
-        "Rakhee Gulzar",
-        "Roopali",
-        "Papiya De Adhikari",
-        "Tapas Paul"
-      ],
-      "album": "Dard-e-Dil - Bollywood Sad Songs",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/217/696fd4175ac2698575528fe59c8d6903_48.mp4"
-    },
-    {
-      "id": "lSKprNBG",
-      "title": "Mile Tum Se Bichhad Ke Hum (Jhankar Beats)",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Kavita Krishanmurthy",
-        "Alka Yagnik",
-        "Nadeem",
-        "Shravan",
-        "Sadhana Sargam",
-        "Anwar Sagar"
-      ],
-      "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/e05b99c26f5ad737438b64ae363bbf96_48.mp4"
-    },
-    {
-      "id": "mSIIA_RX",
-      "title": "Achha Sila Diya Toone Mere Pyar Ka (From \"Bewafa Sanam\")",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Sonu Nigam",
-        "Nikhil-Vinay",
-        "Yogesh",
-        "Krishan Kumar Dua"
-      ],
-      "album": "90'S Best Sad Songs",
-      "year_metadata": 2023,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/422/ced9005177fce802c573c6d1ec22cc42_48.mp4"
-    },
-    {
-      "id": "Y2W4hH-7",
-      "title": "Yeh Fitoor Mera",
-      "artist": "Arijit Singh",
-      "actual_artists": [
-        "Arijit Singh",
-        "Amit Trivedi",
-        "Swanand Kirkire",
-        "Katrina Kaif",
-        "Aditya Roy Kapur",
-        "Tabu"
-      ],
-      "album": "Romantic Sad Songs",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/076/10bcf02c3e67d1075cc4cf00c17f34b2_48.mp4"
-    },
-    {
-      "id": "potQmsdZ",
-      "title": "Misri Title Song ((Sad Version))",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Niren Bhatt",
-        "Sonu Nigam",
-        "Parth Bharat Thakkar",
-        "Mahalakshmi Iyer",
-        "Akshay Kumar"
-      ],
-      "album": "Misri Title Song ((Sad Version))",
-      "year_metadata": 2025,
-      "language_metadata": "gujarati",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/230/ab1d8cd908d8bba4effff5918f210e30_48.mp4"
-    },
-    {
-      "id": "cF7Z7rH4",
-      "title": "Tu Jahaan",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Vishal &amp; Shekhar",
-        "Sonu Nigam",
-        "Mahalakshmi Iyer",
-        "Jaideep Sahni",
-        "Akshay Kumar"
-      ],
-      "album": "Tears In Love - 10 Sad Songs",
-      "year_metadata": 2015,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/135/366de777cce2313e933e4c192f4bd400_48.mp4"
-    },
-    {
-      "id": "u1qeSNOn",
-      "title": "Der Se Hua (Duet) (Jhankar Beats)",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem",
-        "Shravan",
-        "Sameer"
-      ],
-      "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/bef7c907b479ce66152cfe98133c65ab_48.mp4"
-    },
-    {
-      "id": "hEUlW7FA",
-      "title": "Tum Itna Jo Muskura Rahe Ho (From \"Arth\")",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Kaifi Azmi",
-        "Shabana Azmi",
-        "Kulbhushan Kharbanda",
-        "Smita Patil",
-        "Rajkiran",
-        "Rohini"
-      ],
-      "album": "Retro Evergreen Sad Song",
-      "year_metadata": 2019,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/313/efce45012823918c26959fe6a0dc5bb7_48.mp4"
-    },
-    {
-      "id": "OvigJTSX",
-      "title": "Kaash Kahin Aisa Hota (Jhankar Beats)",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Viju Shah",
-        "Pankaj Udhas",
-        "Anand Bakshi",
-        "Suniel Shetty",
-        "Poonam Jhawer"
-      ],
-      "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/1ade669f9b2b1a56cc4a09fb9982c423_48.mp4"
-    },
-    {
-      "id": "Kg8OWJqV",
-      "title": "Bhula Denge Tumko Sanam",
+      "id": "qz73d9m_",
+      "title": "Bhula Denge Tumko Sanam (From \"Humko Deewana Kar Gaye\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
@@ -372,196 +34,545 @@
         "Sameer",
         "Akshay Kumar"
       ],
-      "album": "Akki The Hit Machine - Sad",
+      "album": "2000'S Super Hit Sad Songs",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/702/e42b3294959b3e19dd690f170e372920_48.mp4"
+    },
+    {
+      "id": "8BDqAh_I",
+      "title": "Bandeya (From \"Dil Juunglee\") (From \"Dil Juunglee\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Sharib Toshi",
+        "Arijit Singh",
+        "Samidh Mukherjee",
+        "Indraadip Das Gupta",
+        "Shaarib Sabri",
+        "Toshi Sabri",
+        "Dr. Devendra Kafir",
+        "Taapsee Pannu",
+        "Saqib Saleem"
+      ],
+      "album": "Arijit Singh Top Sad Love Hits",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/702/6d3396dff5330343d26c4fda13d7e386_48.mp4"
+    },
+    {
+      "id": "vRZvNsHT",
+      "title": "Khamoshiyan (From \"Khamoshiyan\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Rashmi-Virag",
+        "Jeet Gannguli",
+        "Arijit Singh",
+        "Ali Fazal",
+        "Sapna Pabbi",
+        "Gurmeet Choudhary"
+      ],
+      "album": "Arijit Singh - King of Sad Hits",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/082/b1f63b1a8934a75e1f0313d5284b2f5e_48.mp4"
+    },
+    {
+      "id": "3z3Le_cO",
+      "title": "Tere Dard Se - Tujh Pe Karke - Kaise Kahu",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Pankaj Udhas",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Govinda"
+      ],
+      "album": "Bollywood Sad Mashups",
       "year_metadata": 2015,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/355/a52aef1c5a456db64c3d3dd8fcb7f266_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/787/7387816d652837c9ad7ba5ab25253fcb_48.mp4"
     },
     {
-      "id": "tSukTRgL",
-      "title": "Tere Dard Se Dil (From \"Deewana- Hindi\")",
-      "artist": "Kumar Sanu",
+      "id": "INj-75Ql",
+      "title": "Phir Kuch Ek Dil Ko Beqarari Hai - Lofi",
+      "artist": "Jagjit Singh",
       "actual_artists": [
-        "Kumar Sanu",
-        "Nadeem",
-        "Shravan",
-        "Sameer",
-        "Hemang Shah"
+        "Jagjit Singh",
+        "Sachin Gupta",
+        "Nitish R Kumar",
+        "Mirza Ghalib"
       ],
-      "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
-      "year_metadata": 2019,
-      "language_metadata": "hindi",
+      "album": "Sad Lofi Mix Tape Hindi",
+      "year_metadata": 2022,
+      "language_metadata": "urdu",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/013/9e6d7742047fef851fd84edf0236a2cb_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/146/cff2844e8afe21cdc52a7edb2a38fa68_48.mp4"
     },
     {
-      "id": "lKLUenZp",
-      "title": "Tere Dard Se Dil (Jhankar Beats)",
+      "id": "czDvUzAn",
+      "title": "Koi Kya Pehchaane (Jhankar Beats)",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Nadeem",
         "Shravan",
-        "Asha Bhosle",
-        "Sameer",
-        "Rishi Kapoor",
-        "Raveena Tandon"
+        "Sameer"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/60bee8155b9311bfbd260644ee860628_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/330/6cab92315c00ab0597c08bd580fab8f6_48.mp4"
     },
     {
-      "id": "VtVid79Q",
-      "title": "Tum Itna Jo Muskura (From \"Arth\")",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Kaifi Azmi",
-        "Shabana Azmi",
-        "Rajkiran"
-      ],
-      "album": "Hamari Adhuri Kahani Sad Songs",
-      "year_metadata": 2015,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/388/90418ecbf89cfa787fe2c78318a3f3d4_48.mp4"
-    },
-    {
-      "id": "qrFwpsDl",
-      "title": "Mera Pyar Tera Pyar (From \"Jalebi\")",
+      "id": "V5WQXxoE",
+      "title": "Hawayein (From \"Jab Harry Met Sejal\")",
       "artist": "Arijit Singh",
       "actual_artists": [
-        "Jeet Gannguli",
+        "Pritam",
         "Arijit Singh",
-        "Lata Mangeshkar",
-        "Rashmi-Virag",
-        "Varun Mitra",
-        "Rhea Chakraborty"
+        "DJ Shilpi Sharma",
+        "Irshad Kamil",
+        "Shah Rukh Khan",
+        "Anushka Sharma"
+      ],
+      "album": "Arijit Singh Top Sad Love Hits",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/702/d64f4d5afce7f5bd1f0053a2057629e7_48.mp4"
+    },
+    {
+      "id": "Qv6nJgTL",
+      "title": "Mareez - E - Ishq (From \"Zid\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Sharib Toshi",
+        "Arijit Singh",
+        "Samidh Mukherjee",
+        "Indraadip Das Gupta",
+        "Shaarib Sabri",
+        "Toshi Sabri",
+        "Shakeel Azmi",
+        "Mannara Chopra",
+        "Karanvir Sharma",
+        "Shraddha Das"
       ],
       "album": "Arijit Singh - Sad Love Songs",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/245/be79245f0cbd7242a468e25be1d50f96_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/245/a10bdd947f2a4a0fefa5a4588344712a_48.mp4"
     },
     {
-      "id": "GMOnq2Nn",
-      "title": "Jaan Nisaar (Arijit)",
+      "id": "7D5KBUlI",
+      "title": "Dil Hi To Hai - Lofi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Chitra Singh",
+        "Sachin Gupta",
+        "Nitish R Kumar",
+        "Jagjit Singh",
+        "Mirza Ghalib"
+      ],
+      "album": "Sad Lofi Mix Tape Hindi",
+      "year_metadata": 2022,
+      "language_metadata": "urdu",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/146/6f26969257b5f8bb14e01c4349c7d178_48.mp4"
+    },
+    {
+      "id": "GWuF3_e6",
+      "title": "Saanson Ko (From \"Zid\")",
       "artist": "Arijit Singh",
       "actual_artists": [
+        "Sharib Toshi",
         "Arijit Singh",
-        "Amit Trivedi",
-        "Amitabh Bhattacharya",
-        "Sushant Singh Rajput",
-        "Sushant Singh",
-        "Sara Ali Khan"
+        "Indraadip Das Gupta",
+        "Subha Ka Muzik",
+        "Shaarib Sabri",
+        "Toshi Sabri",
+        "Shakeel Azmi",
+        "Mannara Chopra",
+        "Karanvir Sharma",
+        "Shraddha Das"
       ],
-      "album": "Late Night Bollywood Sad Songs",
+      "album": "Arijit Singh - Sad Love Songs",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/245/336d17f9629c1ae15e3ac2a8188d66e1_48.mp4"
+    },
+    {
+      "id": "LHVudqRg",
+      "title": "Sab Kuch Bhula Diya",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Bali Brahmbhatt",
+        "Sonu Nigam",
+        "Sapana Awasthi",
+        "Kartik Awasthi",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Madhuri Dixit"
+      ],
+      "album": "Sad Movements, Vol. 1",
+      "year_metadata": 2014,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/123/e3b4f46cc5f50a9edbc8c8c28fb64125_48.mp4"
+    },
+    {
+      "id": "yUn4mVED",
+      "title": "Dil-E-Nadan Tujhe - Lofi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Chitra Singh",
+        "Jagjit Singh",
+        "Sachin Gupta",
+        "Nitish R Kumar",
+        "Mirza Ghalib"
+      ],
+      "album": "Sad Lofi Mix Tape Hindi",
+      "year_metadata": 2022,
+      "language_metadata": "urdu",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/146/512fb4d0c490dd6a3ec3abc61c83b15a_48.mp4"
+    },
+    {
+      "id": "wlZqUqC2",
+      "title": "Muskurane (Romantic)",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Jeet Gannguli",
+        "Arijit Singh",
+        "Rashmi-Virag",
+        "Rajkummar Rao",
+        "Patralekhaa"
+      ],
+      "album": "Emraan Hashmi Sad Love Hits",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/051/d54987deab90c792c7e09a18fd9375c8_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/732/1639e30ad182af5cabcd44f451abd5d1_48.mp4"
     },
     {
-      "id": "NiYH647n",
-      "title": "Jaane Dil Mein",
-      "artist": "Sonu Nigam",
+      "id": "p2qo-sl0",
+      "title": "Pal (From \"Jalebi\")",
+      "artist": "Arijit Singh",
       "actual_artists": [
-        "Rahul Sharma",
-        "Lata Mangeshkar",
-        "Sonu Nigam",
-        "Anand Bakshi",
-        "Hrithik Roshan",
-        "Rani Mukerji",
-        "Kareena Kapoor Khan"
+        "Kunaal Vermaa",
+        "Prashant Ingole",
+        "Javed-Mohsin",
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Javed Khan",
+        "Mohsin Shaikh",
+        "DJ Amit B",
+        "Varun Mitra",
+        "Rhea Chakraborty"
       ],
-      "album": "Tears In Love - 10 Sad Songs",
-      "year_metadata": 2015,
+      "album": "Arijit Singh - King of Sad Hits",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/135/12b1059c66f2b20aab5ed91d99f8090f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/082/39237e6252a643b005e1e0d53a1517b9_48.mp4"
     },
     {
-      "id": "e1bRhT0B",
-      "title": "Sab Kuchh Bhula Diya (From \"Hum Tumhare Hain Sanam\")",
+      "id": "YajGr2Wx",
+      "title": "Tanhayee (From \"Dil Chahta Hai\")",
       "artist": "Sonu Nigam",
       "actual_artists": [
         "Sonu Nigam",
-        "Sapna Awasthi",
-        "Bali Brahmbhatt",
-        "Kartik Awasthi",
-        "Madhuri Dixit"
+        "Shankar-Ehsaan-Loy",
+        "Javed Akhtar",
+        "Aamir Khan"
       ],
       "album": "2000'S Super Hit Sad Songs",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/702/07bbc9e15d5190329304a55baab97de1_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/702/884909e5983d800719a3851e9952d41b_48.mp4"
     },
     {
-      "id": "OLKUDvSp",
-      "title": "O Yaara Kaisi Hai Teri Bewafai (Duet) (Jhankar Beats)",
+      "id": "8t_avgF1",
+      "title": "Kaash Tum Mujhse Ek Baar (Jhankar Beats)",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
-        "Kavita Krishanmurthy",
-        "Shyam",
-        "Surender",
-        "Kavita Krishnamurthy",
-        "Gauhar Kanpuri",
-        "Jackie Shroff",
-        "Nana Patekar",
-        "Manisha Koirala",
-        "Ravi Behl",
-        "Divya Dutta",
-        "Alok Nath"
+        "Nadeem",
+        "Shravan",
+        "Sameer"
       ],
       "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
       "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/330/d6fa1c75c29fe8b50db4f7fed8f369e4_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/330/7ddfe597a43b27bfea463500a4e37211_48.mp4"
     },
     {
-      "id": "Z0Q8cuY-",
-      "title": "Chithi Na Koi Sandesh (From \"Dushman\")",
+      "id": "uiXuUNqf",
+      "title": "Woh Kagaz Ki Kashti P1 (From \"Aaj\")",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Uttam Singh",
-        "Anand Bakshi",
-        "Kajol"
+        "Chitra Singh",
+        "Sudarshan Faakir",
+        "Kumar Gaurav",
+        "Smita Patil"
       ],
       "album": "Hamari Adhuri Kahani Sad Songs",
       "year_metadata": 2015,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/388/de3667bb9e7e1b314379c04910dbd79b_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/388/ca6ac756221803c8cd8d1b46a63d15a1_48.mp4"
     },
     {
-      "id": "HPN03xbB",
-      "title": "Kalank (Title Track)",
+      "id": "Gx-_afqb",
+      "title": "Ki Honda Pyaar (Arijit Singh Version)",
       "artist": "Arijit Singh",
       "actual_artists": [
-        "Pritam",
+        "Vishal Mishra",
         "Arijit Singh",
-        "Amitabh Bhattacharya",
-        "Alia Bhatt",
-        "Madhuri Dixit",
-        "Sonakshi Sinha",
-        "Varun Dhawan",
-        "Aditya Roy Kapur",
-        "Sanjay Dutt"
+        "Raj Shekar",
+        "Lil Nas X",
+        "YoungBoy Never Broke Again",
+        "Lil Nas X &amp; YoungBoy Never Broke Again",
+        "Raj Shekhar",
+        "Sidharth Malhotra",
+        "Parineeti Chopra"
       ],
       "album": "Late Night Bollywood Sad Songs",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/051/1d3204c1e6b1355391ed7725651b36c5_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/051/d4995a2190ff221ee45bbba0679304c4_48.mp4"
+    },
+    {
+      "id": "cbXXL02b",
+      "title": "Shayad (From \"Love Aaj Kal\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Indraadip Das Gupta",
+        "Subha Ka Muzik",
+        "Irshad Kamil",
+        "Sara Ali Khan",
+        "Kartik Aaryan"
+      ],
+      "album": "Arijit Singh - King of Sad Hits",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/082/1c54ca7a90477a8d1a235e7c0f6e45ae_48.mp4"
+    },
+    {
+      "id": "8vV1C3ex",
+      "title": "Jeeye To Jeeye Kaise (Jhankar Beats)",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "S P Balasubramaniam",
+        "Anuradha Paudwal",
+        "Nadeem",
+        "Shravan",
+        "Sameer"
+      ],
+      "album": "90's Bollywood Sad Songs (With Jhankar Beats)",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/330/a21f58a30dd14b27009f892d65294e33_48.mp4"
+    },
+    {
+      "id": "-iMfgcPp",
+      "title": "Kitne Ahsan Kiye Tumne Humpe (From \"Prem Geet\")",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Asha Bhosle",
+        "Jagjit Singh",
+        "Indeevar",
+        "Kajol"
+      ],
+      "album": "Bollywood Sad Songs",
+      "year_metadata": 2023,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/510/86156e64627a24c99f045ac13807bb19_48.mp4"
+    },
+    {
+      "id": "BQM1aEom",
+      "title": "Woh Firaaq Aur Woh Visal Kahan - Lofi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Sachin Gupta",
+        "Nitish R Kumar",
+        "Mirza Ghalib"
+      ],
+      "album": "Sad Lofi Mix Tape Hindi",
+      "year_metadata": 2022,
+      "language_metadata": "urdu",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/146/4665a2e844fe4c0530e895122d88db72_48.mp4"
+    },
+    {
+      "id": "3lvaH3q_",
+      "title": "Jab Koi Baat Bigad Jaye (From \"Jurm\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Sadhana Sargam",
+        "Rajesh Roshan",
+        "Indeevar",
+        "Vinod Khanna",
+        "Meenakshi Seshadri",
+        "Shafi Inamdar"
+      ],
+      "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
+      "year_metadata": 2019,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/013/43e089befb853b3807d0fafae3d27123_48.mp4"
+    },
+    {
+      "id": "tWhBP0Ec",
+      "title": "Soniyo",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Raju Singh",
+        "Sonu Nigam",
+        "Shreya Ghoshal",
+        "Kangana Ranaut",
+        "Emraan Hashmi",
+        "Adhyayan Suman"
+      ],
+      "album": "Emraan Hashmi Sad Love Hits",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/732/9c21b90c15d611277c79efd66b3d2d51_48.mp4"
+    },
+    {
+      "id": "Z2l16pVv",
+      "title": "Jhuki Jhuki Si Nazarr - Lofi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Sachin Gupta",
+        "Kaifi Azmi"
+      ],
+      "album": "Sad Lofi Hits",
+      "year_metadata": 2022,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/311/0bcbc50bcc9ffcbd05b69dc6242ca5fb_48.mp4"
+    },
+    {
+      "id": "5gwNp22o",
+      "title": "Tadapnaa Judaa Judaa",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Irshad Kamil",
+        "Ram Sampath",
+        "Arijit Singh",
+        "Indraadip Das Gupta",
+        "Parampara Tandon",
+        "Vishal",
+        "Shekhar",
+        "KK",
+        "Shaan",
+        "Tulsi Kumar",
+        "Mika Singh",
+        "Meet Bros",
+        "Jubin Nautiyal",
+        "Dhvani Bhanushali",
+        "Nitin Mukesh",
+        "Guru Randhawa",
+        "Armaan Malik",
+        "B Praak",
+        "Mehul Vyas",
+        "Adarsh Shinde",
+        "Yo Yo Honey Singh",
+        "Romy",
+        "Bombay Rockers",
+        "Neha Kakkar",
+        "Tanishk Bagchi",
+        "A.R. Rahman",
+        "Pritam",
+        "Amaal Mallik",
+        "Sachet-Parampara",
+        "Tony Kakkar",
+        "Mithoon",
+        "Lijo George",
+        "Dj Chetas",
+        "Badshah",
+        "Vishal &amp; Shekhar",
+        "Laxmikant - Pyarelal",
+        "Viju Shah",
+        "Sachin-Jigar",
+        "Vee"
+      ],
+      "album": "Sad Bollywood Playlist",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/068/4ad873b650967fe5908366d5533221d0_48.mp4"
+    },
+    {
+      "id": "PH5tSEbI",
+      "title": "Kaash Kahin Aisa Hota (From \"Mohra\")",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Viju Shah",
+        "Anand Bakshi"
+      ],
+      "album": "Dil Ro Raha Hai - Bollywood Sad Songs",
+      "year_metadata": 2019,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/013/628b3cbb610635da0ce09531fddf9292_48.mp4"
+    },
+    {
+      "id": "HM2S3kF2",
+      "title": "Do Pal",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Madan Mohan",
+        "Lata Mangeshkar",
+        "Sonu Nigam",
+        "Javed Akhtar",
+        "Shah Rukh Khan",
+        "Preity Zinta"
+      ],
+      "album": "Tears In Love - 10 Sad Songs",
+      "year_metadata": 2015,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/135/cc9c3a8fb99e2ee36b2cd0c3163690c0_48.mp4"
+    },
+    {
+      "id": "KDhXANMt",
+      "title": "Naksh Fariyaaadi Hai Kiski - Lofi",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Jagjit Singh",
+        "Sachin Gupta",
+        "Nitish R Kumar",
+        "Mirza Ghalib"
+      ],
+      "album": "Sad Lofi Mix Tape Hindi",
+      "year_metadata": 2022,
+      "language_metadata": "urdu",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/146/2eeb35bef614f04a70991867997aeb21_48.mp4"
     }
   ],
   "audit": {
@@ -572,24 +583,23 @@
     },
     "Kumar Sanu": {
       "total": 80,
-      "accepted": 17,
-      "mood_unverified": 63
+      "accepted": 19,
+      "mood_unverified": 61
     },
     "Sonu Nigam": {
       "total": 80,
-      "mood_unverified": 64,
-      "accepted": 11,
-      "language_mismatch": 3,
-      "duplicate": 2
+      "mood_unverified": 68,
+      "accepted": 9,
+      "duplicate": 3
     },
     "Atif Aslam": {
-      "total": 5,
-      "mood_unverified": 1,
-      "artist_mismatch": 4
+      "total": 26,
+      "artist_mismatch": 24,
+      "mood_unverified": 2
     },
     "Jagjit Singh": {
-      "total": 65,
-      "mood_unverified": 50,
+      "total": 74,
+      "mood_unverified": 59,
       "accepted": 14,
       "language_mismatch": 1
     }
