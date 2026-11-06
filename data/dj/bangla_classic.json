@@ -6,45 +6,152 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "10-HWbnz",
-      "title": "Lal Neel Sabujeri Mela - LOFI",
-      "artist": "Manna Dey",
-      "actual_artists": [
-        "Pratik Gadre",
-        "Manna Dey",
-        "Nachiketa Ghosh",
-        "Gauriprasanna Mazumder",
-        "Mehmood"
-      ],
-      "album": "Nachiketa Ghosh Bangla Lofi Hits",
-      "year_metadata": 2023,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/064/508769be5a3b418a69cf4e7de5bd95e7_48.mp4"
-    },
-    {
-      "id": "gB8k0yGD",
-      "title": "Februarer Gaan",
+      "id": "lXknuSgl",
+      "title": "Kon Deshete Thako, Pt. 2 (Churiwala)",
       "artist": "Subir Nandi",
       "actual_artists": [
+        "Abida Sultana",
         "Subir Nandi",
-        "Nandi-Films",
-        "Basu",
-        "Humayun Ahmed",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
+        "Emon Saha",
+        "Gazi Mazharul Anwar"
       ],
-      "album": "Februarer Gaan",
-      "year_metadata": 2018,
+      "album": "Churiwala",
+      "year_metadata": 2025,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/170/caaf95eac5b3b28cbf910f949f03ecdc_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/895/017ddf4c8d812d19bfbd8aeb09b08496_48.mp4"
+    },
+    {
+      "id": "UiGRhPRn",
+      "title": "Aay Hay Hawa Chuye Jay Part 4",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Andrew Kishore",
+        "Shawkat Ali Emon",
+        "Ahmed Imtiaz Bulbul",
+        "Sabina Yasmin",
+        "Moniruzzaman Monir",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Soinik",
+      "year_metadata": 2025,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/557/0c19d954569df956d6dbfccb923ce90e_48.mp4"
+    },
+    {
+      "id": "_Sq57aqt",
+      "title": "Chiro Okkhoy Tumi Bangladesh",
+      "artist": "Sabina Yasmin",
+      "actual_artists": [
+        "Sabina Yasmin",
+        "Ajit Roy",
+        "Naim Gouhor",
+        "Mithun Chakraborty",
+        "Rozina",
+        "Utpal Dutta"
+      ],
+      "album": "Chiro Okkhoy Tumi Bangladesh",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/923/f1b7d52020cc612bf543fd89b7bc7cb4_48.mp4"
+    },
+    {
+      "id": "7s4NEUWO",
+      "title": "Onek Sadhonar Pore Ami, Pt. 1 (Film Hits of Kanak Chapa)",
+      "artist": "Kanak Chapa",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Ahmed Imtiaz Bulbul",
+        "Shukla Bhattacharya Ghosh",
+        "Shabnur",
+        "Shakil Khan"
+      ],
+      "album": "Film Hits of Kanak Chapa",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/344/b940f3e4a825a5191c6ab5f01a348c4c_48.mp4"
+    },
+    {
+      "id": "VHBjC_jj",
+      "title": "Dadire Dadire",
+      "artist": "Sabina Yasmin",
+      "actual_artists": [
+        "Ahmed Imtiaz Bulbul",
+        "Sabina Yasmin",
+        "Abida Sultana",
+        "Raqibul Hasan RaNa",
+        "Mohammad Rafiquzzaman",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Bodhu",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/922/9c83fc9acedcffa358b587b8f6e191d5_48.mp4"
+    },
+    {
+      "id": "W8b5aooL",
+      "title": "Aay Hay Hawa Chuye Jay Part 2",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Andrew Kishore",
+        "Shawkat Ali Emon",
+        "Ahmed Imtiaz Bulbul",
+        "Sabina Yasmin",
+        "Moniruzzaman Monir",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Soinik",
+      "year_metadata": 2025,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/557/db67d8a0a9ace189b365863b3bd83299_48.mp4"
+    },
+    {
+      "id": "-4KA0mCK",
+      "title": "Sonibar Robibar Sombare (Original Motion Picture Soundtrack)",
+      "artist": "Runa Laila",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Runa Laila",
+        "Alam Khan",
+        "Moniruzzaman Monir",
+        "Jitendra Kumar",
+        "Ritika Badiani"
+      ],
+      "album": "Banglar Bodhu (Original Motion Picture Soundtrack)",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/227/c3e0b54e28921e17720bcd35dee5301a_48.mp4"
+    },
+    {
+      "id": "a4Hq1kr-",
+      "title": "Banglar Bodhu For Tiktok 02",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Alam Khan",
+        "Moniruzzaman Monir"
+      ],
+      "album": "Banglar Bodhu For Tiktok",
+      "year_metadata": 2024,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/104/a299512fa512ed405a7bcd25565f84e4_48.mp4"
     },
     {
       "id": "Dgtuhgyp",
       "title": "Ekdin Tomake Na Dekhle (Remix Dj Bangla)",
-      "artist": "Kanak Chapa",
+      "artist": "Andrew Kishore",
       "actual_artists": [
         "Andrew Kishore",
         "Kanak Chapa",
@@ -57,15 +164,27 @@
       "audio_url": "https://aac.saavncdn.com/559/de7d3ff5e02deaa5f4625d85a416c293_48.mp4"
     },
     {
-      "id": "mkq_NKAN",
-      "title": "Akash Chuyeche Matike, Pt. 3 (Film Hits of Kanak Chapa)",
+      "id": "mkN2vvnI",
+      "title": "Bangladesher Damal Chele",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "M. A. Shoeb"
+      ],
+      "album": "Abahani",
+      "year_metadata": 2023,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/279/13cfa45044527c969870f006ec1ed020_48.mp4"
+    },
+    {
+      "id": "EbHasHGO",
+      "title": "Chotto Ekta Jibon Niye, Pt. 2 (Film Hits of Kanak Chapa)",
       "artist": "Kanak Chapa",
       "actual_artists": [
         "Kanak Chapa",
         "Ahmed Imtiaz Bulbul",
-        "Alauddin Ali",
         "Shukla Bhattacharya Ghosh",
-        "Mohammad Rafiquzzaman",
         "Shabnur",
         "Shakil Khan"
       ],
@@ -73,80 +192,35 @@
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/344/ac5ea0e69f691a1f7660098e51304cee_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/344/33e626c28659b8f35566c02157809d7c_48.mp4"
     },
     {
-      "id": "jEwYnbL0",
-      "title": "Boom Boom Boomba",
+      "id": "ccdhP1ns",
+      "title": "Bondhu Tin Din Tor Barite Gelam - Remix",
       "artist": "Runa Laila",
       "actual_artists": [
         "Runa Laila",
-        "Bappi Lahiri",
-        "Bibhuti Mukherjee",
-        "Joy Sengupta",
-        "Mithu Mukherjee",
-        "Pradeep Kumar",
-        "Haradhan Banerjee"
+        "Rion Music",
+        "Ravi Teja",
+        "Srikanth",
+        "Sonali Bendre",
+        "Alauddin Ali",
+        "Sreenidhi",
+        "Nayana Nair",
+        "Kaala Bhairava",
+        "Gazi Mazharul Anwar",
+        "Roshann Meka",
+        "Sreeleela"
       ],
-      "album": "Dujane",
-      "year_metadata": 1984,
+      "album": "Bangla Party Mix",
+      "year_metadata": 2023,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/019/1f998b586bbef2f8399868e3b624d25d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/412/5bdf537aea3a02fc6a2d729917d6f473_48.mp4"
     },
     {
-      "id": "UiGRhPRn",
-      "title": "Aay Hay Hawa Chuye Jay Part 4",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Kanak Chapa",
-        "Andrew Kishore",
-        "Shawkat Ali Emon",
-        "Moniruzzaman Monir"
-      ],
-      "album": "Banglar Soinik",
-      "year_metadata": 2025,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/557/0c19d954569df956d6dbfccb923ce90e_48.mp4"
-    },
-    {
-      "id": "8UR7axyP",
-      "title": "Chotto Ekta Jibon Niye, Pt. 3 (Film Hits of Kanak Chapa)",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Kanak Chapa",
-        "Ahmed Imtiaz Bulbul",
-        "Shukla Bhattacharya Ghosh",
-        "Shabnur",
-        "Shakil Khan"
-      ],
-      "album": "Film Hits of Kanak Chapa",
-      "year_metadata": 2026,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/344/8711d02d66f7d99b91e93c7b924438b2_48.mp4"
-    },
-    {
-      "id": "fTVoopHb",
-      "title": "Onek Sadhonar Pore Ami, Pt. 2 (Film Hits of Kanak Chapa)",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Kanak Chapa",
-        "Ahmed Imtiaz Bulbul",
-        "Shukla Bhattacharya Ghosh",
-        "Shabnur",
-        "Shakil Khan"
-      ],
-      "album": "Film Hits of Kanak Chapa",
-      "year_metadata": 2026,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/344/623709b4ebd0793c2fff6561c0264860_48.mp4"
-    },
-    {
-      "id": "SRxJSRql",
-      "title": "Rannaghare Ma Radhchey",
+      "id": "vx1zL3uR",
+      "title": "Pratima Boley Dakte",
       "artist": "Sabina Yasmin",
       "actual_artists": [
         "Sabina Yasmin",
@@ -156,365 +230,321 @@
       "year_metadata": 2019,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/588/64b291f7f065d326561c04eca56bb252_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/588/debffabeb09cf61f68e44788267ece15_48.mp4"
     },
     {
-      "id": "AkLFcGxP",
-      "title": "Kon Deshete Thako, Pt. 1 (Churiwala)",
+      "id": "hDsYY23n",
+      "title": "Buk Chin Chin (Remix Dj Bangla)",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Doly Sayantoni",
+        "Andrew Kishore",
+        "Ali Akram Shuvo",
+        "Kabir Bakul"
+      ],
+      "album": "Buk Chin Chin (Remix Dj Bangla)",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/178/d65bb132851f78690a08649b3fc9aaf2_48.mp4"
+    },
+    {
+      "id": "vP_mVn2G",
+      "title": "Jaan Bole Deke (Original Motion Picture Soundtrack)",
+      "artist": "Sabina Yasmin",
+      "actual_artists": [
+        "Rafiqul Alam",
+        "Sabina Yasmin",
+        "Raqibul Hasan RaNa",
+        "Alauddin Ali",
+        "Ahmed Imtiaz Bulbul",
+        "Abida Sultana",
+        "Mohammad Rafiquzzaman",
+        "Mukul Choudhary",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Ma (Original Motion Picture Soundtrack)",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/576/9a09585cca375aca58481d6efc7120db_48.mp4"
+    },
+    {
+      "id": "xPZDd5nM",
+      "title": "Amar E Duti Chokh",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
-        "Abida Sultana",
-        "Emon Saha",
-        "Gazi Mazharul Anwar"
+        "Sheikh Sadi Khan",
+        "Jahidul Haque"
       ],
-      "album": "Churiwala",
+      "album": "Best Hits of Subir Nandi",
+      "year_metadata": 2008,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/055/7e2005392faa6054d1215a262286f699_48.mp4"
+    },
+    {
+      "id": "r6yc-FJ7",
+      "title": "Jibon Jotodin Thakbe (Original Motion Picture Soundtrack)",
+      "artist": "Sabina Yasmin",
+      "actual_artists": [
+        "Syed Abdul Hadi",
+        "Sabina Yasmin",
+        "Raqibul Hasan RaNa",
+        "Alauddin Ali",
+        "Ahmed Imtiaz Bulbul",
+        "Abida Sultana",
+        "Mohammad Rafiquzzaman",
+        "Mukul Choudhary",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Ma (Original Motion Picture Soundtrack)",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/576/440380b46c36d642bc1bbad866e0b46d_48.mp4"
+    },
+    {
+      "id": "OCPDx3IV",
+      "title": "Shir Shir Kore Sara (From \"Kosom Banglar Mati\")",
+      "artist": "Runa Laila",
+      "actual_artists": [
+        "Runa Laila",
+        "Alauddin Ali",
+        "Moniruzzaman Monir"
+      ],
+      "album": "Shir Shir Kore Sara (From \"Kosom Banglar Mati\")",
       "year_metadata": 2025,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/895/75185770be6a6c221e0332c19815bbc6_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/651/162f0fff84c205629eab364fe2a53b23_48.mp4"
     },
     {
-      "id": "dxtykQls",
-      "title": "Kosom Banglar Mati (Original Motion Picture Soundtrack)",
-      "artist": "Runa Laila",
+      "id": "atPL0EPd",
+      "title": "Kichu Kichu Manushe Jibone, Pt. 3 (Film Hits of Kanak Chapa)",
+      "artist": "Kanak Chapa",
       "actual_artists": [
-        "Runa Laila",
-        "Sabina Yasmin",
-        "Alauddin Ali",
-        "Moniruzzaman Monir"
-      ],
-      "album": "Kosom Banglar Mati (Original Motion Picture Soundtrack)",
-      "year_metadata": 2000,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/036/a490c5f67d8af88c98a02795840375aa_48.mp4"
-    },
-    {
-      "id": "WD843WuC",
-      "title": "O Rongila (Version, 2)",
-      "artist": "Sabina Yasmin",
-      "actual_artists": [
+        "Kanak Chapa",
         "Ahmed Imtiaz Bulbul",
-        "Sabina Yasmin",
-        "Andrew Kishore",
-        "Mohammad Rafiquzzaman",
-        "Tapas Paul",
-        "Nayana Das"
-      ],
-      "album": "Banglar Bodhu",
-      "year_metadata": 2022,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/922/3c0868c47acdbcfb1092b4092c84630a_48.mp4"
-    },
-    {
-      "id": "UuXRcQAm",
-      "title": "Amay Duniya Theke (Original Motion Picture Soundtrack)",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Andrew Kishore",
-        "Kanak Chapa",
-        "Ahmed Imtiaz Bulbul"
-      ],
-      "album": "Amay Duniya Theke",
-      "year_metadata": 2023,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/367/16f52697364a3d693ec8535a55478bd0_48.mp4"
-    },
-    {
-      "id": "FXYZkyBO",
-      "title": "Hridayer Gaan Shikhe To Gaay Go Sabai",
-      "artist": "Manna Dey",
-      "actual_artists": [
-        "Manna Dey",
-        "Ratu Mukherjee",
-        "Pulak Banerjee",
-        "Mehmood"
-      ],
-      "album": "Bishwa Jude Bangla Gaan",
-      "year_metadata": 2020,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/411/449628f367a93ce413e5a5775cc2cf67_48.mp4"
-    },
-    {
-      "id": "6LTVwxVw",
-      "title": "Kon Deshe te Thako Nagor",
-      "artist": "Subir Nandi",
-      "actual_artists": [
-        "Abida Sultana",
-        "Subir Nandi",
-        "Emon Saha",
-        "Gazi Mazharul Anwar"
-      ],
-      "album": "Churiwala (Original Motion Picture Soundtrack)",
-      "year_metadata": 2024,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/354/c84d5a6050532b7d06620d1e5449bc7d_48.mp4"
-    },
-    {
-      "id": "tffMDsvr",
-      "title": "Je Kotha",
-      "artist": "Subir Nandi",
-      "actual_artists": [
-        "Ontora",
-        "Subir Nandi",
-        "Nandi-Films",
-        "Basu Dev ghosh",
-        "Yamim Shamim",
-        "Firdous Ahmed",
-        "Soumitra Chatterjee",
-        "Shubhendu Chatterjee"
-      ],
-      "album": "Sokuntola",
-      "year_metadata": 2012,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/742/a739f9c98d6ee1d0a053a61bb58730d6_48.mp4"
-    },
-    {
-      "id": "uyDRi-CF",
-      "title": "Jholomolo Rupete (Original Motion Picture Soundtrack)",
-      "artist": "Runa Laila",
-      "actual_artists": [
-        "Runa Laila",
-        "Khan Asifur Rahman Agun",
-        "Sabina Yasmin",
         "Alauddin Ali",
-        "Anupam Dutta",
-        "Moutusi Islam",
-        "Moniruzzaman Monir"
+        "Shukla Bhattacharya Ghosh",
+        "Shabnur",
+        "Shakil Khan"
       ],
-      "album": "Kosom Banglar Mati (Original Motion Picture Soundtrack)",
-      "year_metadata": 2000,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/036/e4c93555cc94ecd407f368f78627eeb5_48.mp4"
-    },
-    {
-      "id": "pl2IhAYT",
-      "title": "Ekta Kothai Jane Amar Mon",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Monir Khan",
-        "Kanak Chapa",
-        "Alauddin Ali",
-        "Mohammad Rafiquzzaman"
-      ],
-      "album": "Ekta Kothai Jane Amar Mon",
+      "album": "Film Hits of Kanak Chapa",
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/501/5b16d182a4279f92c714b9c65c974f77_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/344/8614616f1c5bed9877a62d0f8aa7bb7a_48.mp4"
     },
     {
-      "id": "GjTrLnol",
-      "title": "Prem Ache Tai",
-      "artist": "Subir Nandi",
+      "id": "uoEEtD_c",
+      "title": "Aay Hay Hawa Chuye Jay Part 1",
+      "artist": "Andrew Kishore",
       "actual_artists": [
-        "Subir Nandi",
-        "Sheikh Sadi Khan",
-        "Mahfuzur Rahman Mahfuz"
-      ],
-      "album": "Best Hits of Subir Nandi",
-      "year_metadata": 2008,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/0012bee2d13b44bee375a3501932bd2c_48.mp4"
-    },
-    {
-      "id": "0lCX_Jbc",
-      "title": "Chaade Kolongko Ache",
-      "artist": "Subir Nandi",
-      "actual_artists": [
-        "Subir Nandi",
-        "Sheikh Sadi Khan",
-        "Nazrul Islam Babu"
-      ],
-      "album": "Best Hits of Subir Nandi",
-      "year_metadata": 2008,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/590a9afac43636012ea4c2b405da999d_48.mp4"
-    },
-    {
-      "id": "SP4pZrFJ",
-      "title": "Moner Moto",
-      "artist": "Runa Laila",
-      "actual_artists": [
-        "Ahmed Imtiaz Bulbul",
-        "Runa Laila",
-        "Mohammad Rafiquzzaman",
-        "Tapas Paul",
-        "Nayana Das"
-      ],
-      "album": "Banglar Bodhu",
-      "year_metadata": 2022,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/922/2c930972b95aaa4f4ac642469c081da8_48.mp4"
-    },
-    {
-      "id": "JkpX8NQp",
-      "title": "Tomay Dekhle Mone Hoy",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Andrew Kishor",
         "Kanak Chapa",
-        "Ahmed Imtiaz Bulbul"
-      ],
-      "album": "Tomay Dekhle Mone Hoy",
-      "year_metadata": 2026,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/720/401479d1bd362b5c47da9177104c3018_48.mp4"
-    },
-    {
-      "id": "aEs6FxqJ",
-      "title": "Haire Beduin Mon",
-      "artist": "Subir Nandi",
-      "actual_artists": [
-        "Subir Nandi",
-        "Sheikh Sadi Khan",
-        "Nazrul Islam Babu"
-      ],
-      "album": "Best Hits of Subir Nandi",
-      "year_metadata": 2008,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/ccc6a439ff5d58d36da23b703ce15d1c_48.mp4"
-    },
-    {
-      "id": "Ujd2pnRy",
-      "title": "Na Na Na Aaj Raate Aar - LOFI",
-      "artist": "Manna Dey",
-      "actual_artists": [
-        "Pratik Gadre",
-        "Manna Dey",
-        "Nachiketa Ghosh",
-        "Gauriprasanna Mazumder",
-        "Mehmood"
-      ],
-      "album": "Nachiketa Ghosh Bangla Lofi Hits",
-      "year_metadata": 2023,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/064/215b2d185529f7c823d820ded3a71119_48.mp4"
-    },
-    {
-      "id": "AVHV1Mhn",
-      "title": "Kutkuti Maiya (Remix Dj Bangla)",
-      "artist": "Runa Laila",
-      "actual_artists": [
-        "Runa Laila",
         "Andrew Kishore",
-        "Ahmed Imtiaz Bulbul",
-        "Arnob",
-        "Adit Rahman"
-      ],
-      "album": "Kutkuti Maiya (Remix Dj Bangla)",
-      "year_metadata": 2026,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/034/14860b09f07fe83bb8e9fa9ba1f2e397_48.mp4"
-    },
-    {
-      "id": "ght9vp0U",
-      "title": "Tomar Preme Ei Jibon Part 2",
-      "artist": "Kanak Chapa",
-      "actual_artists": [
-        "Kanak Chapa",
-        "Kumar Bishwajit",
         "Shawkat Ali Emon",
-        "Moniruzzaman Monir"
+        "Ahmed Imtiaz Bulbul",
+        "Sabina Yasmin",
+        "Moniruzzaman Monir",
+        "Tapas Paul",
+        "Nayana Das"
       ],
       "album": "Banglar Soinik",
       "year_metadata": 2025,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/557/6efb81fc5ed7d82ee8351f0a6a037734_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/557/b57266c240570dd8c1378c20ff8a9974_48.mp4"
     },
     {
-      "id": "koBXgt6k",
-      "title": "Bangladeshi Gayer Chashi",
-      "artist": "Runa Laila",
+      "id": "XxuY8-0s",
+      "title": "Tumi Mor Jiboner Bhabona, Pt. 1 (Film Hits of Kanak Chapa)",
+      "artist": "Kanak Chapa",
       "actual_artists": [
-        "Runa Laila",
-        "Andrew Kishor",
-        "Sabina Yasmin",
-        "Robindronath Ray",
-        "Fokir Alamgir",
-        "Khurshid Alam",
-        "Mina Borua",
-        "Kuti Monsur"
-      ],
-      "album": "Poribar Porikolpona",
-      "year_metadata": 2024,
-      "language_metadata": "bengali",
-      "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/559/807e8da0ea6b0f4b0dfcf9409167489b_48.mp4"
-    },
-    {
-      "id": "v4oDbpSg",
-      "title": "Ore O Dushto Pani (Remix Dj Bangla)",
-      "artist": "Runa Laila",
-      "actual_artists": [
-        "Runa Laila",
+        "Kanak Chapa",
         "Ahmed Imtiaz Bulbul",
-        "Arnob",
-        "Adit Rahman"
+        "Alauddin Ali",
+        "Shukla Bhattacharya Ghosh",
+        "Kabir Bakul",
+        "Shabnur",
+        "Shakil Khan"
       ],
-      "album": "Ore O Dushto Pani (Remix Dj Bangla)",
+      "album": "Film Hits of Kanak Chapa",
       "year_metadata": 2026,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/136/7e494ed5a1541d6bc102878e8a8c06c7_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/344/575a83105fbbc345116a5530d7261914_48.mp4"
     },
     {
-      "id": "KQcWyYcD",
-      "title": "Beder Meye Josna",
-      "artist": "Runa Laila",
+      "id": "0o1wCI-6",
+      "title": "Banglar Bodhu For Tiktok 03",
+      "artist": "Andrew Kishore",
       "actual_artists": [
-        "Runa Laila",
         "Andrew Kishore",
-        "Abu Taher",
-        "Tojamel Haque Bakul",
-        "Chiranjeet",
-        "Anju Ghosh",
-        "Abhishek Chatterjee",
-        "Saifuddin",
-        "Anamika Saha"
+        "Alam Khan",
+        "Moniruzzaman Monir"
       ],
-      "album": "Beder Meye Josna",
-      "year_metadata": 1990,
+      "album": "Banglar Bodhu For Tiktok",
+      "year_metadata": 2024,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/199/ed7d046b751b4e27f8b409724cd385d9_sar_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/104/860343cdecaf714668bb3061998a621c_48.mp4"
     },
     {
-      "id": "5MVAzUHD",
-      "title": "Ami Alor Bhubone",
+      "id": "Gtq5o2Z-",
+      "title": "Tumi Amar Emony Ekjon, Pt. 4 (Film Hits of Kanak Chapa)",
+      "artist": "Kanak Chapa",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Ahmed Imtiaz Bulbul",
+        "Shukla Bhattacharya Ghosh",
+        "Shabnur",
+        "Shakil Khan"
+      ],
+      "album": "Film Hits of Kanak Chapa",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/344/7ccb3eeba3f78a7fa0f2bc6042b6db95_48.mp4"
+    },
+    {
+      "id": "dHYEkiJw",
+      "title": "Aay Hay Hawa Chuye Jay Part 3",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Andrew Kishore",
+        "Shawkat Ali Emon",
+        "Ahmed Imtiaz Bulbul",
+        "Shakila Zafar",
+        "Moniruzzaman Monir",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Soinik",
+      "year_metadata": 2025,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/557/196f3d5912661f0163dbaf02e7a0e892_48.mp4"
+    },
+    {
+      "id": "Q0WJCS01",
+      "title": "Oi Meyeti Keno Je (Original Motion Picture Soundtrack)",
+      "artist": "Andrew Kishore",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Alam Khan",
+        "Ahmed Imtiaz Bulbul",
+        "Shakila Zafar",
+        "Moniruzzaman Monir",
+        "Tapas Paul",
+        "Nayana Das"
+      ],
+      "album": "Banglar Bodhu (Original Motion Picture Soundtrack)",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/227/c0c0dd3f7fcc93659cdb24932853c7b7_48.mp4"
+    },
+    {
+      "id": "Jo4-0wzb",
+      "title": "Tomay Dekhle Mone Hoy, pt. 2 (Film hits of kanak chapa)",
+      "artist": "Kanak Chapa",
+      "actual_artists": [
+        "Kanak Chapa",
+        "Ahmed Imtiaz Bulbul",
+        "Shukla Bhattacharya Ghosh",
+        "Shabnur",
+        "Shakil Khan"
+      ],
+      "album": "Film Hits of Kanak Chapa",
+      "year_metadata": 2026,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/344/b4ba668e127162e914b713b37fa506b0_48.mp4"
+    },
+    {
+      "id": "v1Akzj60",
+      "title": "Amar Ma Hara Duita Maiya",
+      "artist": "Subir Nandi",
+      "actual_artists": [
+        "Subir Nandi",
+        "Kanak Chapa",
+        "Emon Saha",
+        "Abida Sultana",
+        "Shah Alam Sarkar",
+        "Firdous Ahmed",
+        "Soumitra Chatterjee",
+        "Shubhendu Chatterjee"
+      ],
+      "album": "Dojjal Shashuri (Orginal Motion Picture Soundtrack)",
+      "year_metadata": 2022,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/236/cad7085f03240343a6aa53010de9b292_48.mp4"
+    },
+    {
+      "id": "ij8BS598",
+      "title": "Keno Bhalobasha Hariye Jai",
       "artist": "Subir Nandi",
       "actual_artists": [
         "Subir Nandi",
         "Sheikh Sadi Khan",
-        "Md. Akhraruzzaman"
+        "Shamsul Alam"
       ],
       "album": "Best Hits of Subir Nandi",
       "year_metadata": 2008,
       "language_metadata": "bengali",
       "evidence": "bengali_metadata_and_artist",
-      "audio_url": "https://aac.saavncdn.com/055/53a19dea38e8da2330255790b85cfd58_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/055/0c119efc10ce1767b1f0bda733c4a304_48.mp4"
+    },
+    {
+      "id": "VeIka6-M",
+      "title": "Tumi Bangladeshe Eso",
+      "artist": "Sabina Yasmin",
+      "actual_artists": [
+        "Andrew Kishore",
+        "Sabina Yasmin",
+        "Mohammad Shahnewaz",
+        "Mosaddek Hossain Sadek",
+        "Mithun Chakraborty",
+        "Rozina",
+        "Utpal Dutta"
+      ],
+      "album": "Tumi Bangladeshe Eso",
+      "year_metadata": 2025,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/782/6089bbd3eebb057990daa6448fdfab02_48.mp4"
+    },
+    {
+      "id": "weq0dgDe",
+      "title": "Ami Misscall Dile Jobab Diyo",
+      "artist": "Runa Laila",
+      "actual_artists": [
+        "Runa Laila",
+        "Reshad",
+        "Moniruzzaman Monir",
+        "Arnob",
+        "Adit Rahman",
+        "Shawkat Ali Emon"
+      ],
+      "album": "Bangla Bhai",
+      "year_metadata": 2023,
+      "language_metadata": "bengali",
+      "evidence": "bengali_metadata_and_artist",
+      "audio_url": "https://aac.saavncdn.com/627/bcccb45f00ec765d54b09c7d7a3b29cc_48.mp4"
     }
   ],
   "audit": {
     "Runa Laila": {
       "total": 65,
-      "not_bengali": 19,
-      "accepted": 45,
+      "not_bengali": 14,
+      "accepted": 50,
       "duplicate": 1
     },
     "Sabina Yasmin": {
@@ -523,17 +553,19 @@
       "duplicate": 4
     },
     "Andrew Kishore": {
-      "total": 40,
+      "total": 67,
+      "duplicate": 9,
+      "accepted": 18,
       "artist_mismatch": 40
     },
     "Subir Nandi": {
       "total": 40,
-      "accepted": 39,
-      "artist_mismatch": 1
+      "accepted": 40
     },
     "Kanak Chapa": {
       "total": 51,
-      "accepted": 49,
+      "duplicate": 5,
+      "accepted": 44,
       "artist_mismatch": 2
     },
     "Manna Dey": {
@@ -543,7 +575,6 @@
     }
   },
   "fetch_errors": {
-    "Andrew Kishore Bangla songs": "RuntimeError",
     "Subir Nandi Bangla songs": "RuntimeError"
   },
   "limitations": [
