@@ -6,10 +6,126 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "0PlX4HWB",
-      "title": "Romantic Bollywood (Afro House Mix)",
+      "id": "GEsnTDrY",
+      "title": "First Date",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Sonu Nigam",
+        "Jonita Gandhi",
+        "Vinay Jaiswal",
+        "Ginny Diwan"
+      ],
+      "album": "Sonu Nigam - Romantic Melodies",
+      "year_metadata": 2020,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/602/4096b590317cc94fa3b0c6b50d3b5aeb_48.mp4"
+    },
+    {
+      "id": "ijpiDY1v",
+      "title": "Yaar Badal Na Jaana (From \"Talaash\")",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Sanjeev-Darshan",
+        "Ashar",
+        "Sandhu Kuldeep",
+        "Treff E",
+        "Sameer",
+        "Trisha",
+        "Prabhas"
+      ],
+      "album": "21 Ishq List - Bollywood Romantic Songs",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/357/d91cb7f3683be551bdd606822cf82705_48.mp4"
+    },
+    {
+      "id": "-oCns0dy",
+      "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Sonu Nigam",
+        "Alka Yagnik",
+        "Nadeem",
+        "Shravan",
+        "Sameer",
+        "Akshay Kumar",
+        "Shilpa Shetty",
+        "Suniel Shetty"
+      ],
+      "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/115/942ef884887b05c42c92110b95dc345f_48.mp4"
+    },
+    {
+      "id": "F1U1Kbhj",
+      "title": "Thare Vaste Re Dhola (From \"Batwara\")",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Anuradha Paudwal",
+        "Alka Yagnik",
+        "Kavita Krishnamurthy",
+        "Laxmikant - Pyarelal",
+        "Hasan Kamal",
+        "Amrita Singh",
+        "Dharmendra"
+      ],
+      "album": "Tere Bina Dil - Bollywood Romantic Songs",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/184/b7ed351b3741306fdf3110785871ce14_48.mp4"
+    },
+    {
+      "id": "XxHFXSaA",
+      "title": "Ek Nigah Mein - Jhankar Beats",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Alisha Chinai",
+        "Kumar Sanu",
+        "Anu Malik",
+        "Zafar Gorakhpuri",
+        "Ajay Devgn",
+        "Kajol"
+      ],
+      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/230/e852ca07aafc8df3137a9d3a4bc4836a_48.mp4"
+    },
+    {
+      "id": "LgKL4OBP",
+      "title": "Satarangi Re (From \"Dil Se\")",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Sonu Nigam",
+        "Kavita Krishnamurthy",
+        "A. R. Rahman",
+        "Gulzar"
+      ],
+      "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/115/d70116abf1a24c645a922667d85fa05f_48.mp4"
+    },
+    {
+      "id": "w9LqmBh7",
+      "title": "Ishq Bukhaar",
       "artist": "Shreya Ghoshal",
       "actual_artists": [
+        "Elnaaz Norouzi",
+        "Irshad Kamil",
+        "Tanishk Bagchi",
+        "Shreya Ghoshal",
+        "B Praak",
+        "Noziya Karomatullo",
         "Swaraj Komejwar",
         "Mohit Chauhan",
         "Antara Mitra",
@@ -17,190 +133,204 @@
         "Kavita Seth",
         "Kumar Sanu",
         "Alka Yagnik",
-        "Shreya Ghoshal",
         "Tochi Raina",
         "Kailash Kher",
         "Shaan",
         "KK",
         "Sayeed Quadri",
-        "Pritam",
-        "Amit Trivedi",
-        "Shankar Mahadevan",
-        "Ehsaan Noorani",
-        "Loy Mendonsa",
-        "Sachin Sanghvi",
-        "Jigar Saraiya",
-        "Jatin Pandit",
-        "Lalit Pandit",
-        "Naresh Kamath",
-        "Paresh Kamath",
-        "Vishal Dadlani",
-        "Shiraz",
-        "Samrat",
-        "Irshad Kamil",
-        "Amitabh Bhattacharya",
-        "Javed Akhtar",
-        "Sameer Anjaan",
-        "Priya Panchal",
-        "Kausar Munir",
-        "Raj Kaushal",
-        "Rajkummar Rao",
-        "Bhumi Pednekar"
+        "John Abraham",
+        "Neeru Bajwa",
+        "Manushi Chhillar"
       ],
-      "album": "Romantic Bollywood (Afro House Mix)",
-      "year_metadata": 2025,
+      "album": "Shreya Ghoshal Romantic Hits",
+      "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/164/a51fdf518eb978a9cd48bf83ede7c7d7_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/198/96da2303f183c6b2b9589158a4e6f95e_48.mp4"
     },
     {
-      "id": "DN01_iWw",
-      "title": "Jiya Pyar Maange Jiya (From \"Aasmaan Se Ooncha\")",
+      "id": "nBQ2QxgD",
+      "title": "Tu Jebe Hasidelu Tu Jebe Chahin Delu (From \"Suna Chadhei Mo Rupa Chadhei\")",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Ira Mohanty",
+        "Udit Narayan",
+        "Malaya Mishra",
+        "Alka Yagnik",
+        "Kumar Sanu",
+        "Arun Mantri",
+        "Aamir Khan"
+      ],
+      "album": "Valentines Day Romantic Film Songs",
+      "year_metadata": 2026,
+      "language_metadata": "odia",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/289/1144c21a5ae6874e8aff261fba847ce3_48.mp4"
+    },
+    {
+      "id": "-GYdH3iU",
+      "title": "Aap Ke Karib - Jhankar Beats",
       "artist": "Kumar Sanu",
       "actual_artists": [
+        "Sadhana Sargam",
         "Kumar Sanu",
-        "Sadhna Sargam",
-        "Rajesh Roshan",
-        "Indeevar"
+        "Nadeem-Shravan",
+        "Sameer",
+        "Varun Dhawan",
+        "Alia Bhatt",
+        "Madhuri Dixit"
       ],
-      "album": "Tere Bina Dil - Bollywood Romantic Songs",
-      "year_metadata": 2016,
+      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/184/4f04942aab017a880ee615712e7be280_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/230/3890efaf5aa8dc55ab76299a85537c94_48.mp4"
     },
     {
-      "id": "cIgNfWK6",
-      "title": "Yeh Hawaain (Bas Itna Sa Khwaab Hai / Soundtrack Version)",
+      "id": "aazZ2JoK",
+      "title": "Kuchh Kasme (From \"Aankhen\")",
       "artist": "Alka Yagnik",
       "actual_artists": [
+        "Sonu Nigam",
         "Alka Yagnik",
-        "Shaan",
-        "Aadesh Shrivastava",
-        "Goldie Behl",
-        "Shyam Raj"
+        "Jatin-Lalit",
+        "Udit Narayan",
+        "Praveen Bhardwaj",
+        "Aftab Shivdasani",
+        "Lisa Ray"
       ],
       "album": "Bollywood Romantic Duet",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/823/a38c37e16f63d7a3d7c1670483429a93_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/823/fea073591519c6b6f4951185bfbac39c_48.mp4"
     },
     {
-      "id": "qNxIs5LG",
-      "title": "Tumhe Chhede Hawa Chanchal (From \"Salaami\")",
+      "id": "unmhSdBz",
+      "title": "Mera Dil Bhi Kitna Pagal Hai (From \"Saajan\")",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Govinda",
-        "Karisma Kapoor",
-        "Tabbu"
+        "Nadeem",
+        "Shravan",
+        "Sameer"
       ],
-      "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
+      "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
       "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/466/99a1c0fbc6e23ebfb662b038ee277c96_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/115/6d7a8f63f4b542fdc690f1ddd0641e43_48.mp4"
     },
     {
-      "id": "oSuvfG5M",
-      "title": "Tainu Leke",
-      "artist": "Sonu Nigam",
+      "id": "r9ysCaWo",
+      "title": "Tune Zindagi Mein - Duet - Jhankar Beats",
+      "artist": "Udit Narayan",
       "actual_artists": [
-        "Sonu Nigam",
-        "Mahalakshmi Iyer",
-        "Shankar-Ehsaan-Loy",
-        "Sameer",
-        "Salman Khan",
-        "Priyanka Chopra"
+        "Alka Yagnik",
+        "Udit Narayan",
+        "Himesh Reshammiya",
+        "Sudhakar Sharma",
+        "Amitabh Bachchan",
+        "Parveen Babi",
+        "Shashi Kapoor",
+        "Hema Malini",
+        "Kader Khan",
+        "Lalita Pawar",
+        "Dr. Shreeram Lagoo",
+        "Mahmood"
       ],
-      "album": "Salaam-E-Ishq",
-      "year_metadata": 2007,
+      "album": "Evergreen Romantic Songs With Jhankar Beats",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/082/ea39e95bd41dca182cd3d7d1c833bfc0_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/732/a7737f8ccfd4a2f3d540fce18614261f_48.mp4"
     },
     {
-      "id": "el-OHP-P",
-      "title": "Tainu Khabar Nahi",
-      "artist": "Arijit Singh",
+      "id": "KP6ZZ_3l",
+      "title": "Aa Kahin Dur Chale (From \"Laawaris\")",
+      "artist": "Udit Narayan",
       "actual_artists": [
-        "Amitabh Bhattacharya",
-        "Sachin-Jigar",
-        "Arijit Singh",
-        "Mithoon",
-        "Ileana D'Cruz",
-        "Akshay Kumar"
+        "Udit Narayan",
+        "Alka Yagnik",
+        "E-40",
+        "Rajesh Roshan",
+        "Positive Affirmations",
+        "Javed Akhtar",
+        "Preet Harpal"
       ],
-      "album": "Romantic Classics Hits",
-      "year_metadata": 2026,
+      "album": "21 Ishq List - Bollywood Romantic Songs",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/238/83033b7ee4e73eefb77ef50b544d1481_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/357/a180a5902dda636fdff9580c883cd23a_48.mp4"
     },
     {
-      "id": "wlZqUqC2",
-      "title": "Muskurane (Romantic)",
-      "artist": "Arijit Singh",
-      "actual_artists": [
-        "Jeet Gannguli",
-        "Arijit Singh",
-        "Rashmi-Virag",
-        "Rajkummar Rao",
-        "Patralekhaa"
-      ],
-      "album": "Emraan Hashmi Sad Love Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/732/1639e30ad182af5cabcd44f451abd5d1_48.mp4"
-    },
-    {
-      "id": "BxNs59di",
-      "title": "Bas Ek Dhadak",
+      "id": "yjlvgDkn",
+      "title": "Zoobi Doobi",
       "artist": "Shreya Ghoshal",
       "actual_artists": [
-        "Rashmi-Virag",
-        "Javed-Mohsin",
-        "Jubin Nautiyal",
+        "Sonu Nigam",
         "Shreya Ghoshal",
-        "Badshah",
-        "Tripti Dimri",
-        "Avinash Tiwary"
+        "Shantanu Moitra",
+        "Darshan Rathod",
+        "Swanand Kirkire",
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor Khan",
+        "Boman Irani",
+        "Omi Vaidya"
       ],
-      "album": "Slow Romantic Hits",
+      "album": "Shreya Ghoshal Romantic Hits",
       "year_metadata": 2026,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/600/a4dcf47fdbf7fc8608e02d34801ce4d8_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/198/f562c8c0cf2937586404ca0e519ee958_48.mp4"
     },
     {
-      "id": "xJZBjDck",
-      "title": "Raabta (From \"Agent Vinod\")",
-      "artist": "Arijit Singh",
+      "id": "6RN2Q_28",
+      "title": "Paunji Tote Magibi Nahin",
+      "artist": "Udit Narayan",
       "actual_artists": [
-        "Arijit Singh",
-        "Pritam",
-        "Amitabh Bhattacharya"
+        "Udit Narayan",
+        "Ira Mohanty",
+        "Shantiraj Khosla",
+        "Basantraj Samal",
+        "Asha Sharma"
       ],
-      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "album": "Udit Narayan All Time Hits Romantic Duets",
       "year_metadata": 2025,
-      "language_metadata": "hindi",
+      "language_metadata": "odia",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/840/2be7053be63d9a4b6ea952eb972de3cb_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/801/a5dbf08595a814ec41d29625daecb5d8_48.mp4"
     },
     {
-      "id": "6kYmh97P",
-      "title": "Aisi Mili Nigahen (From \"Daraar\")",
+      "id": "4LastxVh",
+      "title": "Nila Akasha Tale",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Ira Mohanty",
+        "Udit Narayan",
+        "Malaya Mishra",
+        "Arun Mantri"
+      ],
+      "album": "Udit Narayan All Time Hits Romantic Duets",
+      "year_metadata": 2025,
+      "language_metadata": "odia",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/801/8bad91f88feb7bc5964d66d5fd3f0da2_48.mp4"
+    },
+    {
+      "id": "q7c3O0DR",
+      "title": "Dil Ne Yeh Kaha Hain Dil Se - Jhankar Beats",
       "artist": "Kumar Sanu",
       "actual_artists": [
-        "Kumar Sanu",
         "Alka Yagnik",
-        "Anu Malik",
-        "Rani Malik",
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Nadeem-Shravan",
+        "Sameer",
         "Sanjay Dutt",
         "Shah Rukh Khan",
         "Jeetendra",
@@ -210,104 +340,233 @@
         "Anita Raj",
         "Priya"
       ],
-      "album": "21 Ishq List - Bollywood Romantic Songs",
+      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
       "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/357/94f37f867525fe844346726462c19a5e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/230/60c4294feda57db1e7c2f24055259ac5_48.mp4"
     },
     {
-      "id": "hcK5kAK1",
-      "title": "Woh Ladki Bahut Yaad Aati - Duet - Jhankar Beats",
-      "artist": "Kumar Sanu",
+      "id": "V8qYAbsx",
+      "title": "Tu Cheez Badi Hain Mast Mast - Jhankar Beats",
+      "artist": "Udit Narayan",
       "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Sameer"
-      ],
-      "album": "Evergreen Romantic Songs With Jhankar Beats",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/732/0f2584ca8ab2b83f12ca6aaf6b63ea20_48.mp4"
-    },
-    {
-      "id": "flLlwxXv",
-      "title": "Main Tujhse Aise Milun - Jhankar Beats",
-      "artist": "Alka Yagnik",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Abhijeet",
-        "Nadeem-Shravan",
-        "Sameer"
+        "Kavita Krishnamurthy",
+        "Udit Narayan",
+        "Viju Shah",
+        "Anand Bakshi"
       ],
       "album": "90s Evergreen Romantic Songs With Jhankar Beats",
       "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/230/bd28c4262ffc7710bd29347845692259_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/230/8298725c3441a2a5d2c152948678729a_48.mp4"
     },
     {
-      "id": "1kC20X95",
-      "title": "Yaar Badal Na Jaana - Jhankar Beats",
-      "artist": "Udit Narayan",
+      "id": "6LwoideS",
+      "title": "Tu Pyar Hai Kisi Aur Ka",
+      "artist": "Sonu Nigam",
       "actual_artists": [
-        "Udit Narayan",
-        "Alka Yagnik",
-        "Sanjeev-Darshan",
+        "Anuradha Paudwal",
+        "Kumar Sanu",
+        "Super Cassettes Industries Private Limited",
         "Sameer",
-        "Akshay Kumar",
-        "Kareena Kapoor Khan"
+        "Sonu Nigam",
+        "Mohammed Aziz",
+        "Alka Yagnik",
+        "Udit Narayan"
       ],
-      "album": "Evergreen Romantic Songs With Jhankar Beats",
+      "album": "Romantic Hits Of 90's",
       "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/732/6bfb6d970cf2dd942fbcd5352253e085_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/113/f36c1e6b24985641ddaad97eb48b2280_48.mp4"
     },
     {
-      "id": "ioBetFS0",
-      "title": "Phir Mohabbat (From \"Murder 2\")",
+      "id": "8G3Vb1Qf",
+      "title": "Main Dhoondne Ko Zamaane Mein (From \"Heartless\")",
       "artist": "Arijit Singh",
       "actual_artists": [
-        "Mohammed Irfan",
         "Arijit Singh",
-        "Saim Bhat",
-        "Mithoon",
-        "Sayeed Quadri",
-        "Emraan Hashmi"
+        "Gaurav Dagaonkar",
+        "Arafat Mehmood"
       ],
       "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
       "year_metadata": 2025,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/840/dec427e239ad1d382269f46794d6d928_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/840/dc0c5b77596c0e9ec098874752b8eb64_48.mp4"
     },
     {
-      "id": "g3vtbp4h",
-      "title": "Khuda Ki Kasam (From \"Rang\")",
+      "id": "JBF6BHAu",
+      "title": "Aaj Phir (From \"Hate Story 2\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Arijit Singh",
+        "Samira  Koppikar",
+        "Arko",
+        "Laxmikant - Pyarelal",
+        "Aziz Qaisi"
+      ],
+      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "year_metadata": 2025,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/840/1c5a007b07a55b480703f978ba2fd79f_48.mp4"
+    },
+    {
+      "id": "7KUjoSUf",
+      "title": "Ijazat (From \"One Night Stand\")",
+      "artist": "Arijit Singh",
+      "actual_artists": [
+        "Meet Bros",
+        "Arijit Singh",
+        "Shabbir Ahmed"
+      ],
+      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "year_metadata": 2025,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/840/43af1ecfd0af87fb42750bd1631fc304_48.mp4"
+    },
+    {
+      "id": "NPCEmfxm",
+      "title": "Waada Raha Sanam - Duet - Jhankar Beats",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Abhijeet",
+        "Alka Yagnik",
+        "Jatin-Lalit",
+        "Anwar Sagar",
+        "Akshay Kumar",
+        "Ayesha Jhulka"
+      ],
+      "album": "Evergreen Romantic Songs With Jhankar Beats",
+      "year_metadata": 2017,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/732/e0b0e0d5d81db8d1a56d7741a39cf21c_48.mp4"
+    },
+    {
+      "id": "ScrWqBxr",
+      "title": "Ae Mere Humsafar (From \"Qayamat Se Qayamat Tak\")",
       "artist": "Udit Narayan",
       "actual_artists": [
-        "Udit Narayan",
-        "Shreya Ghoshal",
-        "Nadeem-Shravan",
         "Alka Yagnik",
+        "Udit Narayan",
+        "Anand-Milind",
+        "Majrooh Sultanpuri",
+        "Anuradha Paudwal",
         "Kumar Sanu",
-        "Sameer",
-        "Dileep",
-        "Kavya Madhavan",
-        "Rambha"
+        "Sonu Nigam",
+        "Mohammed Aziz"
       ],
-      "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
+      "album": "Romantic Khan's",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/054/8621da648f910c598a12a7751c0a8406_48.mp4"
+    },
+    {
+      "id": "sYuOtLsk",
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Nadeem-Shravan",
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Mangesh Sawant"
+      ],
+      "album": "Romantic Soft Instrumental",
       "year_metadata": 2016,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/466/52358798ad067cb0de4d5a6139d99a59_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/003/d3a1a7f089a0e389d469ae66e6fe7609_48.mp4"
     },
     {
-      "id": "ADCDIHHQ",
-      "title": "Humdard (From \"Ek Villain\")",
+      "id": "SCmSYfTZ",
+      "title": "Hazaar Baar",
+      "artist": "Shreya Ghoshal",
+      "actual_artists": [
+        "Irshad Kamil",
+        "Thaman S",
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Varun Dhawan",
+        "Keerthy Suresh"
+      ],
+      "album": "Shreya Ghoshal Romantic Hits",
+      "year_metadata": 2026,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/198/94832dbcfbe37362536e74695dd5f90c_48.mp4"
+    },
+    {
+      "id": "c-QEXHJa",
+      "title": "Naam Na Jana Pakhi (Female Version)",
+      "artist": "Shreya Ghoshal",
+      "actual_artists": [
+        "Shreya Ghoshal",
+        "Arafat Mohsin",
+        "Emon Chowdhury",
+        "Abanti Sithi",
+        "Tanjib Sarowar",
+        "Anindya Chattopadhyay",
+        "Chiranjeet",
+        "Moonmoon Sen",
+        "Satya Banerjee",
+        "Madhabi Mukherjee"
+      ],
+      "album": "Best Bengali Romantic Songs",
+      "year_metadata": 2025,
+      "language_metadata": "bengali",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/836/ebc349b0edba78cbad5816d9c8ee0b03_48.mp4"
+    },
+    {
+      "id": "qL9x2qLF",
+      "title": "Jeeta Tha Jiske Liye",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Nadeem-Shravan",
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Madan Mohan",
+        "Mangesh Sawant",
+        "Sanjay Dutt",
+        "Mahima Chaudhry",
+        "Mukesh Rishi",
+        "Shivaji Satam",
+        "Salil Ankola",
+        "Om Puri"
+      ],
+      "album": "Romantic Soft Instrumental",
+      "year_metadata": 2016,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/003/36ca97d365392727cfcb954b6f635c6f_48.mp4"
+    },
+    {
+      "id": "mfhYC6bn",
+      "title": "Aisa Deewana",
+      "artist": "Sonu Nigam",
+      "actual_artists": [
+        "Sonu Nigam",
+        "Alka Yagnik",
+        "Himesh Reshammiya",
+        "Sameer",
+        "Shahid Kapoor",
+        "Soha Ali Khan"
+      ],
+      "album": "Romantic Songs Of Sonu Nigam",
+      "year_metadata": 2015,
+      "language_metadata": "hindi",
+      "evidence": "mood_label",
+      "audio_url": "https://aac.saavncdn.com/341/fca1b5db8dee0cc098a24ca23b279f3e_48.mp4"
+    },
+    {
+      "id": "Bt07_OpM",
+      "title": "Tum Hi Ho (From \"Aashiqui 2\")",
       "artist": "Arijit Singh",
       "actual_artists": [
         "Arijit Singh",
@@ -317,279 +576,7 @@
       "year_metadata": 2025,
       "language_metadata": "hindi",
       "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/840/686838a9bbc5fab0994c37fa84ba4c6b_48.mp4"
-    },
-    {
-      "id": "g2jRISDK",
-      "title": "Choodi Baji Hai - Jhankar Beats",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Udit Narayan",
-        "Jatin-Lalit",
-        "Javed Akhtar",
-        "Dileep",
-        "Kavya Madhavan",
-        "Rambha"
-      ],
-      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/230/f1dfea9f00ba4f3a8ee5393eb9e4601b_48.mp4"
-    },
-    {
-      "id": "g-nQAG-p",
-      "title": "Chori Chori Maine Bhi To - Jhankar Beats",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kavita Krishnamurthy",
-        "Kumar Sanu",
-        "Bappi Lahiri",
-        "Anjaan"
-      ],
-      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/230/5dd6b5078bf1a8ca6b36d3ca49decd5f_48.mp4"
-    },
-    {
-      "id": "XCDU-_nR",
-      "title": "To Chehera Phula Pasara (From \"Mitare Mita\")",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Tapu Mishra",
-        "Udit Narayan",
-        "Prashant Padhi",
-        "Alka Yagnik",
-        "Basantraj Samal",
-        "Dileep",
-        "Kavya Madhavan",
-        "Rambha"
-      ],
-      "album": "Valentines Day Romantic Film Songs",
-      "year_metadata": 2026,
-      "language_metadata": "odia",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/289/b0ad5e33ccb3b85c4685195f66aea8e3_48.mp4"
-    },
-    {
-      "id": "giO8PWcc",
-      "title": "Aise Mili Nigahen - Jhankar Beats",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Kumar Sanu",
-        "MXRCI",
-        "Anu Malik",
-        "Rani Malik",
-        "Rajendra Nath",
-        "David Abraham Cheulkar",
-        "Rajendra Kumar",
-        "Saira Banu",
-        "Prem Chopra",
-        "Durga Khote",
-        "Rajendranath Rahbar",
-        "David"
-      ],
-      "album": "90s Evergreen Romantic Songs With Jhankar Beats",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/230/b3e4f1e5724c423681f94f75877f2e44_48.mp4"
-    },
-    {
-      "id": "M-gEz9jq",
-      "title": "Ghar More Pardesiya",
-      "artist": "Shreya Ghoshal",
-      "actual_artists": [
-        "Pritam",
-        "Shreya Ghoshal",
-        "Darshan Rathod",
-        "Amitabh Bhattacharya",
-        "Varun Dhawan",
-        "Alia Bhatt",
-        "Madhuri Dixit"
-      ],
-      "album": "Shreya Ghoshal Romantic Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/198/3b6e08199956d15ecf47cc85fcf5ee1f_48.mp4"
-    },
-    {
-      "id": "1WBzlkRl",
-      "title": "Hasrat Bhari Nazar",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Sonu Nigam",
-        "Anup Jalota",
-        "Harsh Brahmbhatt",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Anupam Kher",
-        "Amrish Puri",
-        "Farida Jalal",
-        "Satish Shah",
-        "Achala Sachdev",
-        "Mandira Bedi",
-        "Karan Johar"
-      ],
-      "album": "Sonu Nigam - Romantic Melodies",
-      "year_metadata": 2020,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/602/a7765a883a2b6e2f366cbe20267f3243_48.mp4"
-    },
-    {
-      "id": "0lqpdNYt",
-      "title": "Pehli Pehli Baar Mohabbat Ki Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Sanjay Kapoor",
-        "Priya Gill",
-        "Sushmita Sen"
-      ],
-      "album": "Kumar Sanu Romantic Songs",
-      "year_metadata": 2015,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/358/e408f0697403f538e90350a37268a8df_48.mp4"
-    },
-    {
-      "id": "4t-IM6b6",
-      "title": "Mere Haath Mein",
-      "artist": "Sonu Nigam",
-      "actual_artists": [
-        "Sonu Nigam",
-        "Sunidhi Chauhan",
-        "Aamir Khan",
-        "Kajol",
-        "Jatin-Lalit",
-        "Prasoon Joshi",
-        "Tabu"
-      ],
-      "album": "Romantic Khans",
-      "year_metadata": 2015,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/571/db87a8926cee3c7e138cc46de7c445e5_48.mp4"
-    },
-    {
-      "id": "s9Q46lD5",
-      "title": "Sochenge Tumhe Pyar (From \"Deewana\")",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Kritika Sobti",
-        "Nadeem",
-        "Shravan",
-        "Sanju Rathod",
-        "Sameer",
-        "Riya Arora"
-      ],
-      "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/115/15e2435779f7b6b282f700e923187621_48.mp4"
-    },
-    {
-      "id": "wSD2cFFo",
-      "title": "Jab Haal - E - Dil Tumse Kehne Ko - Jhankar Beats",
-      "artist": "Alka Yagnik",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Nadeem-Shravan",
-        "Surendra Saathi"
-      ],
-      "album": "Evergreen Romantic Songs With Jhankar Beats",
-      "year_metadata": 2017,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/732/80417a2ecada8476d024067de31a11c1_48.mp4"
-    },
-    {
-      "id": "umtIpNrO",
-      "title": "Journey Song",
-      "artist": "Shreya Ghoshal",
-      "actual_artists": [
-        "Anupam Roy",
-        "Shreya Ghoshal",
-        "Jisshu Sengupta",
-        "Moushumi Chatterjee",
-        "Deepika Padukone",
-        "Irrfan Khan",
-        "Amitabh Bachchan"
-      ],
-      "album": "Shreya Ghoshal Romantic Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/198/b5d20af9c89ddcf6932fa17b7e8c28b9_48.mp4"
-    },
-    {
-      "id": "oaf11YRY",
-      "title": "Kalank (Title Track)",
-      "artist": "Arijit Singh",
-      "actual_artists": [
-        "Pritam",
-        "Arijit Singh",
-        "Amitabh Bhattacharya",
-        "Alia Bhatt",
-        "Madhuri Dixit",
-        "Sonakshi Sinha",
-        "Varun Dhawan",
-        "Aditya Roy Kapur",
-        "Sanjay Dutt"
-      ],
-      "album": "Romantic Classics Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/238/66df5d322c25022c08f80bb825a74001_48.mp4"
-    },
-    {
-      "id": "bt19ULXS",
-      "title": "Bulbul Ne Bhi (From \"Aadmi Khilona Hai\")",
-      "artist": "Alka Yagnik",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Mohammed Aziz",
-        "Nadeem-Shravan",
-        "Altaf Raja",
-        "Neelam",
-        "Sameer",
-        "Govinda"
-      ],
-      "album": "Mujhe Tum Se Mohabbat Hai - Bollywood Romantic Songs",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/115/a218448bb18e12bc3bc23d9914465617_48.mp4"
-    },
-    {
-      "id": "D5dX0JJA",
-      "title": "Dil Le Gaya Pardesi (From \"Talaash\")",
-      "artist": "Alka Yagnik",
-      "actual_artists": [
-        "Alka Yagnik",
-        "Sanjeev-Darshan",
-        "Madan Mohan",
-        "Udit Narayan",
-        "Javed Akhtar",
-        "Sameer"
-      ],
-      "album": "Love U Forever n' Ever - Bollywood Romantic Songs",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "mood_label",
-      "audio_url": "https://aac.saavncdn.com/466/18e7cd14f5f68c5d08a2178e6ed3dfe6_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/840/c9e70fb62d66fa6e14f6b7cdbc56cc05_48.mp4"
     }
   ],
   "audit": {
@@ -608,30 +595,30 @@
     },
     "Udit Narayan": {
       "total": 80,
-      "accepted": 40,
+      "accepted": 39,
       "duplicate": 9,
       "language_mismatch": 2,
-      "mood_unverified": 29
+      "mood_unverified": 30
     },
     "Shreya Ghoshal": {
       "total": 80,
-      "accepted": 35,
-      "duplicate": 4,
-      "language_mismatch": 7,
+      "accepted": 36,
+      "duplicate": 5,
+      "language_mismatch": 8,
       "artist_mismatch": 1,
-      "mood_unverified": 33
+      "mood_unverified": 30
     },
     "Alka Yagnik": {
       "total": 80,
-      "duplicate": 58,
-      "accepted": 14,
+      "duplicate": 57,
+      "accepted": 15,
       "mood_unverified": 8
     },
     "Sonu Nigam": {
       "total": 80,
-      "duplicate": 11,
-      "language_mismatch": 9,
-      "accepted": 27,
+      "duplicate": 12,
+      "language_mismatch": 10,
+      "accepted": 25,
       "mood_unverified": 33
     }
   },
