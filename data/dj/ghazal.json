@@ -6,374 +6,312 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "hbCUYXmc",
-      "title": "Niklo Na Benaqab",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Mumtaz Rashid"
-      ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/67060f24069b59e65addef68dbad7d9e_48.mp4"
-    },
-    {
-      "id": "psx0QTHN",
-      "title": "Gum Soom Yeh Jahan Hai",
+      "id": "8LrHu8sU",
+      "title": "Zindagi Tujh Ko Jiya Hai",
       "artist": "Jagjit Singh",
       "actual_artists": [
-        "Jagjit Singh",
-        "K L Sehgal",
-        "B. K. Puri",
-        "Sanjay Dutt",
-        "Kajol",
-        "Ashutosh Rana",
-        "Jas Arora"
-      ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/7b8f06fea625c641a52ac8ceb1d09316_48.mp4"
-    },
-    {
-      "id": "e_Q2Jhrw",
-      "title": "Rukh Se Parda (Live)",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
         "Chitra Singh",
-        "Anwar Mirza Puri",
-        "Deepti Naval",
-        "Farooque Sheikh",
-        "Dilip Dhawan"
+        "Jagjit Singh",
+        "Sudarshan Faakir"
       ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
+      "album": "Ghazal Ka Safar, Vol. 3 (The Journey of The Legends)",
+      "year_metadata": 2017,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/c294e63e380b996b9ac8a092d134a96c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/226/d44382490dfb671447867ef67a25df1c_48.mp4"
     },
     {
-      "id": "GrsMZIc_",
-      "title": "Sharab Cheez Hi Aisi (Ghazal Lofi)",
+      "id": "agDKJO0R",
+      "title": "Ras Mein Dooba",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Firaq Gorakhpuri"
+      ],
+      "album": "Caravan - E - Ghazal",
+      "year_metadata": 2006,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/236/77db5b795c6db19fad0239b68300ba9e_48.mp4"
+    },
+    {
+      "id": "mpzw3T1q",
+      "title": "Dil Dhadakane Ka Sabab (Ghazal Lofi)",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
         "Sachin Gupta",
-        "Sardar Anjum"
+        "Nazir Kazmi",
+        "Govinda"
       ],
-      "album": "Pankaj Udhas Lofi Songs",
+      "album": "Dil Dhadakane Ka Sabab (Ghazal Lofi)",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/270/71063eaf63c73062f5257281ca06b053_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/708/bed3d79eb6f7baec1334fe410c041fd1_48.mp4"
     },
     {
-      "id": "1eB8NxfK",
-      "title": "Muskurakar Mila Karo Humse",
+      "id": "e3t1mKW0",
+      "title": "Yun To Guzar Raha Hai (Ghazal Lofi)",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Ibrahim Ashq",
-        "Sanjay Dutt",
-        "Kajol",
-        "Ashutosh Rana",
-        "Jas Arora"
+        "Sachin Gupta",
+        "Roy Venkatraman",
+        "Nida Fazli",
+        "Shabana Azmi",
+        "Kulbhushan Kharbanda",
+        "Smita Patil",
+        "Rajkiran",
+        "Rohini Hattangadi"
       ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
+      "album": "Jagjit Singh Lofi Songs",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/d303bb6c0c9bd91d465cb8ef397b3b5a_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/218/739c511ffbdd97dd3a7905948ede7ee1_48.mp4"
     },
     {
-      "id": "3UYVDS1y",
-      "title": "Tera Chehra Hai Aaeene Jaisa",
+      "id": "iGHerkXf",
+      "title": "Uski Baten To Phool Hon Jaise (Ghazal Lofi)",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Payam Saeedi"
+        "Sachin Gupta",
+        "Nawaz Deobandi",
+        "Shabana Azmi",
+        "Kulbhushan Kharbanda",
+        "Smita Patil",
+        "Rajkiran",
+        "Rohini Hattangadi"
       ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
+      "album": "Uski Baten To Phool Hon Jaise (Ghazal Lofi)",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/13d1f9cda72e6de98acd437e1cbda861_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/114/a4d8f19466f09ce1d49add9e1d2d7190_48.mp4"
     },
     {
-      "id": "zg9l6Jnl",
-      "title": "Tumhari Mohabbat Bahut (Album Version)",
+      "id": "I9bwLvHB",
+      "title": "Yeh Bahar Keh Rahi Hai",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
         "Peenaz Masani",
-        "Khayyam",
-        "Shahryar",
+        "Raghunath Seth",
         "Rekha",
         "Farouque Shaikh",
         "Nasiruddin Shah",
         "Raj Babbar"
       ],
-      "album": "Tu Saath Chal…Greatest Ghazal Duets",
+      "album": "Ghazal Classics, Vol. 2",
       "year_metadata": 2013,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/181/7f6f7bdd25b342735c149a5d6fcb5c8d_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/594/3748ecfba418c4c5ab26f391503471d7_48.mp4"
     },
     {
-      "id": "s0666XmY",
-      "title": "Gham Ka Khazana Tera Bhi Hai Mera Bhi",
-      "artist": "Jagjit Singh",
+      "id": "W7Xg8Kr1",
+      "title": "Ab Kya Ghazal Sunaoon",
+      "artist": "Talat Aziz",
       "actual_artists": [
+        "Talat Aziz",
         "Jagjit Singh",
-        "Lata Mangeshkar",
-        "Shahid Kabir"
+        "Saeed Shaheedi"
       ],
-      "album": "Sajda An Offering Of Ghazals",
-      "year_metadata": 1991,
+      "album": "Essential - Ghazals 2, Vol. 3",
+      "year_metadata": 2014,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/007/f7be273581d17e471ddfda32312a18cc_sar_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/281/1910672b4a2fe16fed6227712864656e_48.mp4"
     },
     {
-      "id": "V_dgwdEw",
-      "title": "Ghar Se Nikle The Hausala Karke (Album Version)",
+      "id": "WuXFK6nG",
+      "title": "Choom Kar Madh Bhari (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "Mumtaz Rashid",
+        "Govinda"
+      ],
+      "album": "Choom Kar Madh Bhari (Ghazal Lofi)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/647/246eab323a72c5485c9719e0330aab07_48.mp4"
+    },
+    {
+      "id": "PDEP-Uzm",
+      "title": "Yaad Aanewale (From \"Dhun\")",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Laxmikant - Pyarelal",
+        "Anand Bakshi",
+        "Sangeeta Bijlani",
+        "Anupam Kher",
+        "Pradeep Dixit"
+      ],
+      "album": "Mehfil-E-Ghazal - Talat Aziz",
+      "year_metadata": 2014,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/293/2eff740775633512055b32d91bb51fba_48.mp4"
+    },
+    {
+      "id": "JLRFsKPp",
+      "title": "Jab Samne Tum Aa Jate Ho",
       "artist": "Jagjit Singh",
       "actual_artists": [
+        "Asha Bhosle",
         "Jagjit Singh",
-        "Kuldeep Singh",
-        "Javed Akhtar",
-        "Sanjay Dutt",
-        "Kajol",
-        "Ashutosh Rana",
-        "Jas Arora"
+        "Aadesh Shrivastava",
+        "Sachin Gupta",
+        "Nida Fazli",
+        "Shabana Azmi",
+        "Kulbhushan Kharbanda",
+        "Smita Patil",
+        "Rajkiran",
+        "Rohini"
       ],
-      "album": "Top 10 Ghazal By Jagjit Singh",
+      "album": "Ghazal Classics, Vol. 2",
       "year_metadata": 2013,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/786/0aa5671212c4b382f87249267410da7f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/594/5539df03519281ebe5cd76bb2672f9ba_48.mp4"
     },
     {
-      "id": "2FHq2UBq",
-      "title": "Asar Usko",
+      "id": "YmGHG_wE",
+      "title": "Ab Yahan Koi Nahin Aayega (From \"Best Of Talat Aziz\")",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Momin Khan Momin()"
+        "Ahmed Rahi"
       ],
-      "album": "Caravan - E - Ghazal",
-      "year_metadata": 2006,
+      "album": "Mehfil-E-Ghazal - Talat Aziz",
+      "year_metadata": 2014,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/bfafd24034b74092aa01c8bcfd3583b9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/293/3142ce61cca7155c78be81be58f04e8f_48.mp4"
     },
     {
-      "id": "5TjQmwNY",
-      "title": "Khatir Se",
+      "id": "z5fIJU8g",
+      "title": "Rukhse Parda Hata Dijiye (From \"Best Of Talat Aziz\")",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Daagh Dehlvi()"
+        "Saeed Rahi"
       ],
-      "album": "Caravan - E - Ghazal",
-      "year_metadata": 2006,
+      "album": "Mehfil-E-Ghazal - Talat Aziz",
+      "year_metadata": 2014,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/c978b797b0019b074de0773b68cdfd32_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/293/70e43e87a62421d2a80a606a86d96d08_48.mp4"
     },
     {
-      "id": "jAOlP8L-",
-      "title": "Oh Saahiba (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "Lalit Sen"
-      ],
-      "album": "Oh Saahiba (Ghazal Lofi)",
-      "year_metadata": 2024,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/951/6f1171f20aaf4dc73d3fc718a56b9ff6_48.mp4"
-    },
-    {
-      "id": "dv2aE6Cg",
-      "title": "Hazaron Khwahishen Aisi",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Mirza Ghalib"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/de759c2c2075632d081af3f2821ad80d_48.mp4"
-    },
-    {
-      "id": "XWJQqD5f",
-      "title": "Tum Ko Dekha To Yeh Khayal Aaya (From \"Saath Saath\")",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Chitra Singh",
-        "Kuldeep Singh",
-        "Javed Akhtar",
-        "Deepti Naval",
-        "Farooq Sheikh",
-        "Dilip Dhawan"
-      ],
-      "album": "Dastaan-E-Ghazal",
-      "year_metadata": 2018,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/318/bf810fc62091943d5b8bbc366cc51ffc_48.mp4"
-    },
-    {
-      "id": "C7rwozsx",
-      "title": "Ek Sitam Aur Meri Jaan Abhi Baaqi Hai",
+      "id": "7oV1z3Cl",
+      "title": "Kahin Chand Rahon Mein",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Nisar Bazmi",
-        "Masroor Anwar"
+        "Dr. Bashir Badr"
       ],
-      "album": "Shaam E Ghazal Talat Aziz",
-      "year_metadata": 2009,
-      "language_metadata": "hindi",
+      "album": "Ghazal Ka Safar",
+      "year_metadata": 1997,
+      "language_metadata": "urdu",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/380/29d745e9c6f3119a302f3219a5506df8_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/417/bf4c34981d152d11c204065abbd55040_48.mp4"
     },
     {
-      "id": "MTfotXeN",
-      "title": "Ek Aisi Ghazal (Mulaqaat / Soundtrack Version)",
-      "artist": "Pankaj Udhas",
+      "id": "Eqkn4Xgt",
+      "title": "Phir Chiddi Raat",
+      "artist": "Talat Aziz",
       "actual_artists": [
-        "Pankaj Udhas",
-        "Suman Sudip",
-        "Sachin Gupta",
-        "Unknown"
-      ],
-      "album": "Mulaqaat",
-      "year_metadata": 2008,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/382/89cf31eeb14119f0c8918154fff5d8e2_48.mp4"
-    },
-    {
-      "id": "xqDDmrtf",
-      "title": "Tere Jalwe Ab Mujhe",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
+        "Khayyam",
         "Lata Mangeshkar",
-        "Saba Afghani",
-        "Deepti Naval",
+        "Talat Aziz",
+        "Makhdoom Mohiuddin",
+        "Naseeruddin Shah",
+        "Smita Patil",
         "Farooq Sheikh",
-        "Dilip Dhawan"
+        "Supriya Pathak"
       ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
+      "album": "Chupke Chupke Raat Din - Ghazal From Films",
+      "year_metadata": 2003,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/e15b289a682072d0755a499372dc355f_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/444/8c7dd7399089fd67d607f0333cea9629_48.mp4"
     },
     {
-      "id": "M9D0XW7x",
-      "title": "Dil Se",
+      "id": "Elp2JpK7",
+      "title": "Darbare Watan",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Mirza Ghalib()"
+        "Faiz Ahmed Faiz"
       ],
       "album": "Caravan - E - Ghazal",
       "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/236/aea14bce5de4a2d31dc2e7145fddb71a_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/95c0b71274a57dfea030e5736286b016_48.mp4"
     },
     {
-      "id": "txSccq3_",
-      "title": "Rukh Se Parda",
+      "id": "kpAGrc2A",
+      "title": "Shabnam Ke Ansoo Phool Par",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Anwar Mirzapuri"
+        "Bashir Badar",
+        "Ranbir Kapoor",
+        "Sonam Kapoor",
+        "Salman Khan",
+        "Rani Mukerji",
+        "Zohra Sehgal"
       ],
-      "album": "Geet Ghazal Collection",
-      "year_metadata": 2020,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/845/22ee77f556156d8ad8c99522fa4ea07d_48.mp4"
-    },
-    {
-      "id": "F-PGUOx3",
-      "title": "Kabhi To Khul Ke Baras",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Chitra Singh",
-        "Prem Warbartoni"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
+      "album": "Ghazal Ka Safar - Mehdi Hassan N Ghulam - Vol - 3.",
       "year_metadata": 1996,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/6694afe090d787e10c5d4a52ae516209_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/445/334b02c72304a108b764810104f130ec_48.mp4"
     },
     {
-      "id": "sIJC4oDB",
-      "title": "Chandi Jaisa Rang (Ghazal Lofi)",
-      "artist": "Pankaj Udhas",
+      "id": "4lLqvP-u",
+      "title": "Aawargi Hamari (From \"Yeh Nazdeekiyan\")",
+      "artist": "Talat Aziz",
       "actual_artists": [
-        "Pankaj Udhas",
-        "Sachin Gupta",
-        "Qateel Shifai",
-        "Mumtaz Rashid"
+        "Talat Aziz",
+        "Raghunath Seth",
+        "Vinod Pande",
+        "Marc Zuber",
+        "Shabana Azmi",
+        "Parveen Babi",
+        "Sunil Lahiri"
       ],
-      "album": "Chandi Jaisa Rang (Ghazal Lofi)",
-      "year_metadata": 2024,
+      "album": "Mehfil-E-Ghazal - Talat Aziz",
+      "year_metadata": 2014,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/979/0d448af1e4f3966188409b68815bbdb1_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/293/0d722cd30e62d86ac2246c15f92b55cf_48.mp4"
     },
     {
-      "id": "dxXncjPj",
-      "title": "Bahut Khoobsurat (Vadh / Soundtrack Version)",
-      "artist": "Jagjit Singh",
+      "id": "q0OlYMiv",
+      "title": "Jo Massaraton",
+      "artist": "Talat Aziz",
       "actual_artists": [
-        "Jagjit Singh",
-        "Vishal &amp; Shekhar",
-        "Nida Fazli"
+        "Talat Aziz",
+        "Jigar Moradabadi"
       ],
-      "album": "⁠⁠Best Ghazal Collection",
-      "year_metadata": 2026,
+      "album": "Caravan - E - Ghazal",
+      "year_metadata": 2006,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/747/1039964ec34e87be11bdb280c9c98922_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/236/7522364a4966aff2a15545c26e2eec0f_48.mp4"
     },
     {
-      "id": "1KcLu15n",
-      "title": "Manzil Na De Charagh Na De",
-      "artist": "Jagjit Singh",
-      "actual_artists": [
-        "Jagjit Singh",
-        "Chitra Singh",
-        "Rana Sahri"
-      ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/04c9dc20ae14a8d557b4ee001e3e0f6f_sar_48.mp4"
-    },
-    {
-      "id": "8XxiUkhv",
-      "title": "Tum Itna Jo Muskura Rahe Ho (From \"Arth\")",
+      "id": "cnmLJaUM",
+      "title": "Jhuki Jhuki Si Nazar (From \"Arth\")",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
@@ -388,114 +326,197 @@
       "year_metadata": 2018,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/318/5957039159b315c97b2435f754293cdf_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/318/f710b602fe7a51ee2e79a03586c545d4_48.mp4"
     },
     {
-      "id": "--zCRsrR",
-      "title": "Meri Tasveer Mein Rang Aur Kisika To Nahin",
+      "id": "zw2A7TrL",
+      "title": "Bahut Khoobsurat (Ghazal Lofi)",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Lata Mangeshkar",
-        "Muzaffar Warsi Emi Pak"
+        "Sachin Gupta",
+        "Vishal &amp; Shekhar",
+        "Nida Fazli",
+        "Shabana Azmi",
+        "Kulbhushan Kharbanda",
+        "Smita Patil",
+        "Rajkiran",
+        "Rohini"
       ],
-      "album": "The Inimitable Ghazal Composed By Jagjit Singh",
-      "year_metadata": 1996,
+      "album": "Bahut Khoobsurat (Ghazal Lofi)",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/357/8470508c5754d33b34f33a701f6727f6_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/006/affa5bce10836cd374973f081f632801_48.mp4"
     },
     {
-      "id": "FFLRxRBz",
-      "title": "Aaj Phir Tum Pe (From \"Dayavan\")",
+      "id": "gthBnlB8",
+      "title": "Woh Jo Ham Mein Tum Mein",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
-        "Anuradha Paudwal",
-        "Laxmikant - Pyarelal",
-        "Aziz Qaisi",
-        "Vinod Khanna",
-        "Feroz Khan",
-        "Madhuri Dixit",
-        "Aditya Pancholi",
-        "Amala Akkineni",
-        "Mangal Dhillon",
-        "Tinnu Anand"
+        "Khaiyaam",
+        "Lata Mangeshkar",
+        "Momin",
+        "Govinda"
+      ],
+      "album": "Khayyam Presents Guldasta E Ghazal",
+      "year_metadata": 1991,
+      "language_metadata": "urdu",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/943/88ad031b8d89bc37cd585ad3f998c1f8_48.mp4"
+    },
+    {
+      "id": "gie235tV",
+      "title": "Kahin Chand Rahon Mein (From \"Ghazal Ka Safar\")",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Talat Aziz",
+        "Bashir Badr"
+      ],
+      "album": "Mehfil-E-Ghazal - Talat Aziz",
+      "year_metadata": 2014,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/293/aabca93021d6b3d8d9a1fc71ff869a8a_48.mp4"
+    },
+    {
+      "id": "zLMUZrOQ",
+      "title": "Sataa Sataa Ke Hamen Ashk Baar Karti Hai",
+      "artist": "Talat Aziz",
+      "actual_artists": [
+        "Nazar Hussain",
+        "Talat Aziz",
+        "Wafa Roomani"
+      ],
+      "album": "Ghazal Ka Safar - Mehdi Hassan N Ghulam - Vol - 3.",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/445/6068e621061593cd708e2402b7f756ce_48.mp4"
+    },
+    {
+      "id": "rjTyEBIE",
+      "title": "Tum Ko Dekha To Yeh Khayal Aaya",
+      "artist": "Jagjit Singh",
+      "actual_artists": [
+        "Kuldeep Singh",
+        "Jagjit Singh",
+        "Chitra Singh",
+        "Javed Akhtar",
+        "Deepti Naval",
+        "Farooq Sheikh",
+        "Dilip Dhawan"
+      ],
+      "album": "Ghazal From Films 2 - Tum Ko Dekha To",
+      "year_metadata": 2002,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/444/54e0ed115d49d3abf2ad2939bdbd96a3_48.mp4"
+    },
+    {
+      "id": "yKupr6KC",
+      "title": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "S. Rakesh"
+      ],
+      "album": "Thodi Thodi Piya Karo (Ghazal Lofi)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/948/b085573a342f31e08c0d033c631d749b_48.mp4"
+    },
+    {
+      "id": "ZjfIOe5c",
+      "title": "Wo Ban Sanwar Kar Chale Hein Ghar Se (From \"Muskaan\")",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Zafar Gorakhpuri",
+        "Sanjay Dutt",
+        "Salman Khan",
+        "Madhuri Dixit"
       ],
       "album": "Ghazal - E - Ishq By Pankaj Udhas",
       "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/103/653438a5d0b30617844bc4468de7a273_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/103/b8b7a1ff9c2a418a6ebc0420cfa4f82e_48.mp4"
     },
     {
-      "id": "UnYhOiAR",
-      "title": "Chithi Na Koi Sandesh (From \"Dushman\")",
+      "id": "viHOxD0O",
+      "title": "Gum Soom Yeh Jahan Hai (Ghazal Lofi)",
       "artist": "Jagjit Singh",
       "actual_artists": [
         "Jagjit Singh",
-        "Uttam Singh",
-        "Anand Bakshi",
-        "Sanjay Dutt",
-        "Kajol",
-        "Ashutosh Rana",
-        "Jas Arora"
+        "Sachin Gupta",
+        "K L Sehgal",
+        "B. K. Puri",
+        "Shabana Azmi",
+        "Kulbhushan Kharbanda",
+        "Smita Patil",
+        "Rajkiran",
+        "Rohini Hattangadi"
       ],
-      "album": "Dastaan-E-Ghazal",
-      "year_metadata": 2018,
+      "album": "Jagjit Singh Lofi Songs",
+      "year_metadata": 2024,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/318/09cbd51e12d3000abed57d7a4948157e_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/218/519314cfbc556d966960116312f0ebf4_48.mp4"
     },
     {
-      "id": "SvNCh2fP",
-      "title": "Kaise Chhupaoon Raaz - E - Gham",
+      "id": "3OakCZwy",
+      "title": "Niklo Na Benaqab (Ghazal Lofi)",
+      "artist": "Pankaj Udhas",
+      "actual_artists": [
+        "Pankaj Udhas",
+        "Sachin Gupta",
+        "Mumtaz Rashid"
+      ],
+      "album": "Niklo Na Benaqab (Ghazal Lofi)",
+      "year_metadata": 2024,
+      "language_metadata": "hindi",
+      "evidence": "ghazal_label",
+      "audio_url": "https://aac.saavncdn.com/924/e8ef8cb60524066f756861fc307e5458_48.mp4"
+    },
+    {
+      "id": "EdS2rz4B",
+      "title": "Piya Baaj Pyala Piya Jaayena",
       "artist": "Talat Aziz",
       "actual_artists": [
         "Talat Aziz",
-        "Hasrat Mohani"
+        "Jagjit Kaur",
+        "Khaiyaam",
+        "Lata Mangeshkar",
+        "Quli Qutub Shah",
+        "Naseeruddin Shah",
+        "Smita Patil",
+        "Farooq Sheikh",
+        "Supriya Pathak"
       ],
-      "album": "Ghazal Ka Safar",
-      "year_metadata": 1997,
+      "album": "Khayyam Presents Guldasta E Ghazal",
+      "year_metadata": 1991,
       "language_metadata": "urdu",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/417/7d4dc33b6b97adda4646fd316ae548b2_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/943/49304af5865952778437a9c439a0c6d7_48.mp4"
     },
     {
-      "id": "Srxnn7C7",
-      "title": "Jeeye to Jeeye Kaise (From \"Saajan\")",
+      "id": "U28y9P2N",
+      "title": "Ahista",
       "artist": "Pankaj Udhas",
       "actual_artists": [
         "Pankaj Udhas",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Sanjay Dutt",
-        "Salman Khan",
-        "Madhuri Dixit"
+        "Sachin Gupta",
+        "Zafar Gorakhpuri"
       ],
-      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
-      "year_metadata": 2016,
+      "album": "Chandi Jaisa Rang…Greatest Ghazal Hits",
+      "year_metadata": 2013,
       "language_metadata": "hindi",
       "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/654/bef9c271c96b463f0899acbd9256c834_48.mp4"
-    },
-    {
-      "id": "KE959ryn",
-      "title": "Chhupana Bhi Nahin Aata (From \"Baazigar\")",
-      "artist": "Pankaj Udhas",
-      "actual_artists": [
-        "Pankaj Udhas",
-        "Anu Malik",
-        "Rani Malik",
-        "Sanjay Dutt",
-        "Salman Khan",
-        "Madhuri Dixit"
-      ],
-      "album": "Bollywood & Ghazal Collection of Pankaj Udhas",
-      "year_metadata": 2016,
-      "language_metadata": "hindi",
-      "evidence": "ghazal_label",
-      "audio_url": "https://aac.saavncdn.com/654/7664f668e219c1df5b57e24dfb0508f5_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/495/767d0e880259fdbc6b4c259f6bea2734_48.mp4"
     }
   ],
   "audit": {
@@ -507,21 +528,22 @@
     },
     "Pankaj Udhas": {
       "total": 80,
-      "accepted": 42,
+      "accepted": 41,
       "ghazal_genre_unverified": 36,
-      "duplicate": 2
+      "duplicate": 3
     },
     "Ghulam Ali": {
       "total": 80,
-      "artist_mismatch": 69,
-      "accepted": 1,
-      "ghazal_genre_unverified": 10
+      "artist_mismatch": 59,
+      "accepted": 2,
+      "ghazal_genre_unverified": 18,
+      "duplicate": 1
     },
     "Talat Aziz": {
       "total": 80,
-      "duplicate": 6,
-      "accepted": 37,
-      "ghazal_genre_unverified": 37
+      "duplicate": 3,
+      "accepted": 39,
+      "ghazal_genre_unverified": 38
     }
   },
   "fetch_errors": {},
