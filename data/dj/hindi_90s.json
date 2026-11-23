@@ -6,227 +6,198 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "dacKDGFE",
-      "title": "Jeeye To Jeeye Kaise (Duet Version)",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Kumar Sanu",
-        "S. P. Balasubrahmanyam",
-        "Anuradha Paudwal",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Madhuri Dixit",
-        "Sanjay Dutt",
-        "Salman Khan"
-      ],
-      "album": "Saajan",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/461/dd7406b496d1cd79d4271cfd7ecfc3c7_48.mp4"
-    },
-    {
-      "id": "5PP0lAdm",
-      "title": "Sirf Tum",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Super Cassettes Industries Private Limited",
-        "Sameer"
-      ],
-      "album": "Sirf Tum",
-      "year_metadata": 1999,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/318/7584b4f6d1c5317e3d511b3a0fd3bbcf_48.mp4"
-    },
-    {
-      "id": "u9JwjeYa",
-      "title": "Ae Ajnabi",
+      "id": "MzMUFL9_",
+      "title": "Mehndi Laga Ke Rakhna",
       "artist": "Udit Narayan",
       "actual_artists": [
+        "Lata Mangeshkar",
         "Udit Narayan",
-        "Mahalakshmi Iyer",
-        "A.R. Rahman",
-        "Gulzar",
+        "Jatin-Lalit",
+        "Anand Bakshi",
         "Shah Rukh Khan",
-        "Preeti Zinta",
-        "Manisha Koirala"
+        "Kajol",
+        "Anupam Kher",
+        "Amrish Puri",
+        "Farida Jalal",
+        "Satish Shah",
+        "Achala Sachdev",
+        "Mandira Bedi",
+        "Karan Johar"
       ],
-      "album": "Dil Se",
-      "year_metadata": 1998,
+      "album": "Dilwale Dulhania Le Jayenge",
+      "year_metadata": 1995,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/430/ffa2b39618aaac3c3e0c288f95fd4bce_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/588/2c084d513320441d55829c9e8d0fc418_sar_48.mp4"
     },
     {
-      "id": "crT1PUSg",
-      "title": "Kya Karte They Sajna (From \"Lal Dupatta Malmal Ka\")",
+      "id": "DtBi0uVE",
+      "title": "Ek Tere Hi Chehre Pe Pyar Aaya (From \"Pyar Pyar\")",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
-        "Majrooh Sultanpuri",
-        "Anand-Milind",
-        "Udit Narayan",
         "Anuradha Paudwal",
-        "Veverly Wheeler"
+        "Kumar Sanu",
+        "Nadeem-Shravan",
+        "Bappi Lahiri",
+        "Indeevar",
+        "Sameer Sameer",
+        "Ranveer Singh",
+        "R. Madhavan",
+        "Sanjay Dutt",
+        "Arjun Rampal"
       ],
-      "album": "Bollywood Classic Hits",
-      "year_metadata": 2026,
+      "album": "Bollywood Addicts",
+      "year_metadata": 2025,
       "language_metadata": "hindi",
       "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/066/c899fb3ab76b9c7773cba6f44077d080_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/596/f138717014995c45bc8113d930f30f60_48.mp4"
     },
     {
-      "id": "NTBW-riy",
-      "title": "Ek Ladki Ko Dekha",
+      "id": "Ni6noMmw",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Alka Yagnik",
+        "Arijit Singh",
+        "A.R. Rahman",
+        "Irshad Kamil",
+        "Ranbir Kapoor",
+        "Deepika Padukone",
+        "Javed Sheikh",
+        "Piyush Mishra",
+        "Sushma Seth"
+      ],
+      "album": "Tamasha",
+      "year_metadata": 2015,
+      "language_metadata": "hindi",
+      "evidence": "year_unknown_or_other_not_rejected",
+      "audio_url": "https://aac.saavncdn.com/994/2e6b47719cea3e7c9f971a3f1ddc9b0a_48.mp4"
+    },
+    {
+      "id": "EfAQjkux",
+      "title": "Ek Din Aap",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
-        "R.D. Burman",
+        "Alka Yagnik",
+        "Jatin-Lalit",
+        "Pritam",
+        "Arijit Singh",
+        "Antara Mitra",
         "Javed Akhtar",
-        "Anil Kapoor",
-        "Manisha Koirala",
-        "Jackie Shroff",
-        "Pran",
-        "Danny Denzongpa",
-        "Anupam Kher"
+        "Shah Rukh Khan",
+        "Juhi Chawla"
       ],
-      "album": "1942 A Love Story",
+      "album": "Yes Boss (Original Motion Picture Soundtrack)",
+      "year_metadata": 1999,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/569/9d1ba333ddc5e8c46daf4ecd01c2e7ce_48.mp4"
+    },
+    {
+      "id": "EOwkcCf1",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai (Remix)",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Super Cassettes Industries Private Limited",
+        "Sameer",
+        "Madhuri Dixit",
+        "Sanjay Dutt"
+      ],
+      "album": "Dilbar Remix",
+      "year_metadata": 1999,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/738/9f4bc87d2931c971407960a01b6a4a33_48.mp4"
+    },
+    {
+      "id": "BKhhSUC-",
+      "title": "Ho Gaya Hai Tujhko To Pyar Sajna",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Lata Mangeshkar",
+        "Udit Narayan",
+        "Jatin-Lalit",
+        "Anand Bakshi",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Anupam Kher",
+        "Amrish Puri",
+        "Farida Jalal",
+        "Satish Shah",
+        "Achala Sachdev",
+        "Mandira Bedi",
+        "Karan Johar"
+      ],
+      "album": "Dilwale Dulhania Le Jayenge",
+      "year_metadata": 1995,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/588/533543103f9877c9ee2bcf4d70669791_sar_48.mp4"
+    },
+    {
+      "id": "TC5PSqsJ",
+      "title": "Chura Ke Dil Mera",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Anu Malik",
+        "Rani Malik",
+        "Akshay Kumar",
+        "Shilpa Shetty"
+      ],
+      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
       "year_metadata": 1994,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/023/5e082236fd75dacf9d0107dc3a1e33d1_sar_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/474/fc90bd930001b9e5eb98ac005cce18ba_48.mp4"
     },
     {
-      "id": "l_0JGVQU",
-      "title": "Chehra Kya Dekhte Ho",
-      "artist": "Kumar Sanu",
+      "id": "Ff__yEV0",
+      "title": "Ab Tere Dil Mein To",
+      "artist": "Alka Yagnik",
       "actual_artists": [
-        "Asha Bhosle",
+        "Anu Malik",
         "Kumar Sanu",
-        "Nadeem-Shravan",
-        "Madan Pal",
-        "Ayub Khan",
-        "Roshni Jaffrey"
-      ],
-      "album": "Salaami (Original Motion Picture Soundtrack)",
-      "year_metadata": 1993,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/151/c5e06ed93d06c85b5ac91efd2c285570_48.mp4"
-    },
-    {
-      "id": "rWCNHO_5",
-      "title": "Pardeshiya",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Udit Narayan",
-        "Rajesh Roshan",
-        "Sameer",
-        "Mahima Chaudhry",
-        "Sanjay Dutt",
-        "Chandra Chur Singh"
-      ],
-      "album": "Daag - The Fire",
-      "year_metadata": 1998,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/332/c04f5073ddd921ec80c486822350f19e_48.mp4"
-    },
-    {
-      "id": "rtdvmBBB",
-      "title": "Kuch Kuch Hota Hai",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Jatin-Lalit",
-        "Udit Narayan",
         "Alka Yagnik",
-        "Jatin Pandit",
-        "Lalit Pandit",
-        "Rani Mukerji",
-        "Shah Rukh Khan",
-        "Kajol",
-        "Salman Khan"
+        "Anand Bakshi",
+        "Madhuri Dixit",
+        "Akshay Kumar",
+        "Saif Ali Khan"
       ],
-      "album": "Kuch Kuch Hota Hai",
-      "year_metadata": 1998,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/907/ce17826775d66752dba879fc2e3d4eb3_48.mp4"
-    },
-    {
-      "id": "n0aqWuU7",
-      "title": "Main Duniya Bhula Doonga",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Kumar Sanu",
-        "Super Cassettes Industries Private Limited",
-        "Sameer",
-        "Rahul Roy",
-        "Anu Aggarwal"
-      ],
-      "album": "Aashiqui",
-      "year_metadata": 1989,
-      "language_metadata": "hindi",
-      "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/088/57c96acad2cbd60674b854f8e68734d2_48.mp4"
-    },
-    {
-      "id": "AGJErsiQ",
-      "title": "Shiv Amritvaani",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Surender Kohli",
-        "Anuradha Paudwal",
-        "Balbir Nirdosh"
-      ],
-      "album": "Shiv Amritvani",
+      "album": "Aarzoo",
       "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/122/b8bc2c1a0de0010582dfdb33a1f06436_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/048/00f8241b93b6cbf3c99819f1d83f189f_sar_48.mp4"
     },
     {
-      "id": "REeyKDO8",
-      "title": "Teri Umeed Tera Intezar",
+      "id": "Q5BFsc4s",
+      "title": "Jab Se Tumhen Dekha",
       "artist": "Kumar Sanu",
       "actual_artists": [
         "Kumar Sanu",
         "Sadhana Sargam",
         "Nadeem-Shravan",
         "Sameer",
+        "Meenakshi Seshadri",
         "Rishi Kapoor",
-        "Divya Bharti"
+        "Sunny Deol",
+        "Amrish Puri",
+        "Kulbhushan Kharbanda"
       ],
-      "album": "Deewana",
-      "year_metadata": 1992,
+      "album": "Damini",
+      "year_metadata": 1993,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/793/b7096b9b0a062c7d2090f53f8f93d717_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/473/6627e640e61ce767f6a70b8e8e36338e_sar_48.mp4"
     },
     {
-      "id": "Nmy6GT8s",
-      "title": "Paas Woh Aane Lage",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anu Malik",
-        "Hasrat Jaipuri",
-        "Saif Ali Khan",
-        "Raageshwari"
-      ],
-      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
-      "year_metadata": 1994,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/474/76092b730d71b6b8ded5e5debdbcae99_48.mp4"
-    },
-    {
-      "id": "jfLWDfEX",
-      "title": "Shuru Ho Rahi Hai Prem Kahani",
+      "id": "sDwJtVrZ",
+      "title": "Tumhein Dil Se Kaise Juda Hum Karenge",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
         "Anuradha Paudwal",
@@ -240,107 +211,11 @@
       "year_metadata": 1990,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/370/556797554169a3438d142b72c86c2c83_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/370/27e90e2e25cd46a91f955345d4722b00_48.mp4"
     },
     {
-      "id": "v4ViINLl",
-      "title": "Mere Mehboob Mere Sanam",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Anu Malik",
-        "Udit Narayan",
-        "Alka Yagnik",
-        "Javed Akhtar",
-        "Juhi Chawla",
-        "Shah Rukh Khan",
-        "Sonali Bendre"
-      ],
-      "album": "Duplicate",
-      "year_metadata": 1998,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/911/d2f905709d23e9c2782c1617db1d38d1_sar_48.mp4"
-    },
-    {
-      "id": "41n00dcY",
-      "title": "Pyar Kiya To Nibhana (From \"Major Saab\")",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Anand Raaj Anand",
-        "Anuradha Paudwal",
-        "Udit Narayan",
-        "Ajay Devgn",
-        "Sonali Bendre"
-      ],
-      "album": "Bollywood Classic Hits",
-      "year_metadata": 2026,
-      "language_metadata": "hindi",
-      "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/066/37f985fc6888bcc2b0327eb0f9a726bb_48.mp4"
-    },
-    {
-      "id": "J0NRj93x",
-      "title": "Are Re Are",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Uttam Singh",
-        "Lata Mangeshkar",
-        "Udit Narayan",
-        "Anand Bakshi",
-        "Shah Rukh Khan",
-        "Madhuri Dixit",
-        "Akshay Kumar",
-        "Karisma Kapoor",
-        "Deven Verma",
-        "Farida Jalal",
-        "Aruna Irani"
-      ],
-      "album": "Dil To Pagal Hai",
-      "year_metadata": 1997,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/410/f66bfe0ba7a21d611e1f012b36878e2b_48.mp4"
-    },
-    {
-      "id": "-c8o1tUg",
-      "title": "Hui Aankh Nam",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Super Cassettes Industries Private Limited",
-        "Nawab Arzoo",
-        "Mohsin Khan",
-        "Varsha Usgaonkar"
-      ],
-      "album": "Saathi",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/051/51445d9b5fcf9c39fff4f1d292a3940e_48.mp4"
-    },
-    {
-      "id": "cf9LsEhU",
-      "title": "Koyal Si Teri Boli",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Udit Narayan",
-        "Anand-Milind",
-        "Sameer",
-        "Anil Kapoor",
-        "Madhuri Dixit",
-        "Aruna Irani",
-        "Anupam Kher"
-      ],
-      "album": "Beta",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/055/72427d38960acd08e8b7b860af4ed867_48.mp4"
-    },
-    {
-      "id": "1OvYv975",
-      "title": "Kitne Dino Ke Baad Hai Aayee",
+      "id": "3C6t8qPt",
+      "title": "Saawan Ka Mahina Aaya",
       "artist": "Anuradha Paudwal",
       "actual_artists": [
         "Anuradha Paudwal",
@@ -357,214 +232,378 @@
       "year_metadata": 1990,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/364/ac148873b2af240aeb229b2bc1548a66_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/364/035dd90dadba75b86aa4f5303670061b_48.mp4"
     },
     {
-      "id": "ub6IMjDR",
-      "title": "Tu Neendon Ki Rani Aur Main Pyar Ka Sapna",
+      "id": "xQQWBSr1",
+      "title": "Chand Chhupa Badal Mein",
       "artist": "Udit Narayan",
       "actual_artists": [
-        "Anand-Milind",
         "Udit Narayan",
-        "Anuradha Paudwal",
-        "Verma Malik",
-        "Rishi Kapoor",
-        "Varsha Usgaonkar"
-      ],
-      "album": "Honeymoon",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/248/74a803ddb91a20bcd41f5c15cf71b5b8_48.mp4"
-    },
-    {
-      "id": "kIJUXH6C",
-      "title": "Bahut Pyar Karte Hai (Female Version)",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Anuradha Paudwal",
-        "Nadeem-Shravan",
-        "Sameer",
-        "Madhuri Dixit",
-        "Sanjay Dutt"
-      ],
-      "album": "Saajan",
-      "year_metadata": 1991,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/461/c5ed61a158568f4f302d2342233b56ef_48.mp4"
-    },
-    {
-      "id": "ygBVY41L",
-      "title": "O Priya Priya",
-      "artist": "Anuradha Paudwal",
-      "actual_artists": [
-        "Suresh Wadkar",
-        "Anuradha Paudwal",
-        "Anand-Milind",
-        "Sameer",
-        "Aamir Khan",
-        "Madhuri Dixit"
-      ],
-      "album": "Dil",
-      "year_metadata": 1990,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/531/051a44b8d3c9ebc92573cb883ece844d_48.mp4"
-    },
-    {
-      "id": "OGdwSivz",
-      "title": "Dil Kehta Hai",
-      "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Anu Malik",
         "Alka Yagnik",
-        "Kumar Sanu",
-        "Majrooh Sultanpuri",
-        "Manisha Koirala",
-        "Deven Verma",
-        "Aamir Khan",
-        "Master Adil",
-        "Tanvi Azmi",
-        "Paresh Rawal"
+        "Ismail Darbar",
+        "Mehboob",
+        "Salman Khan",
+        "Aishwarya Rai Bachchan",
+        "Ajay Devgn"
       ],
-      "album": "Akele Hum Akele Tum",
-      "year_metadata": 1995,
+      "album": "Hum Dil De Chuke Sanam",
+      "year_metadata": 1999,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/439/3b36d2ecd957b9aaacf5fa698be43efc_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/963/867b603efe55ff5cb14757ed2d996eba_48.mp4"
     },
     {
-      "id": "kDv0UUXj",
-      "title": "Bin Tere Sanam",
-      "artist": "Udit Narayan",
+      "id": "1Uu08jB-",
+      "title": "Agar Aasman Tak Mere Haat Jaate",
+      "artist": "Anuradha Paudwal",
       "actual_artists": [
-        "Udit Narayan",
-        "Kavita Krishnamurthy",
-        "Jatin-Lalit",
-        "Majrooh Sultanpuri",
-        "Aasif Sheikh",
-        "Ruchika Pandey"
+        "Sameer Sen",
+        "Dilip Sen",
+        "Sonu Nigam",
+        "Anuradha Paudwal",
+        "Rani Malik",
+        "Mithun Chakraborty",
+        "Ayesha Jhulka"
       ],
-      "album": "Yaara Dildara (Original Mostion Picture Soundtrack)",
+      "album": "Meherbaan",
       "year_metadata": 1993,
       "language_metadata": "hindi",
       "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/453/1466479377291276408d4b8ea2e67db9_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/365/3852f63a68a251c2a92f1160a7cb0148_48.mp4"
     },
     {
-      "id": "mnyjAhAa",
-      "title": "Mujhe Neend Na Aaye",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Anand-Milind",
-        "Udit Narayan",
-        "Anuradha Paudwal",
-        "Sameer",
-        "Aamir Khan",
-        "Madhuri Dixit"
-      ],
-      "album": "Dil",
-      "year_metadata": 1990,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/531/bd5ceccae9988389d34b3d667e468c26_48.mp4"
-    },
-    {
-      "id": "bHBWSxFt",
-      "title": "Yeh Dil Ye Pagal Dil",
+      "id": "JD_f27bq",
+      "title": "Tu Meri Zindagi Hai",
       "artist": "Kumar Sanu",
-      "actual_artists": [
-        "Kumar Sanu",
-        "Alka Yagnik",
-        "Anand-Milind",
-        "Sameer",
-        "Dharmendra",
-        "Aditya Pancholi",
-        "Somy Ali"
-      ],
-      "album": "Mafia",
-      "year_metadata": 1996,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/216/37b0036548213776fd45c01f8651d8c0_48.mp4"
-    },
-    {
-      "id": "id4GS6rR",
-      "title": "Achchi Lagti Ho",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Shankar-Ehsaan-Loy",
-        "Udit Narayan",
-        "Kavita Krishnamurthy",
-        "Javed Akhtar",
-        "Abhishek Bachchan",
-        "Aishwarya Rai Bachchan"
-      ],
-      "album": "Kuch Naa Kaho",
-      "year_metadata": 2003,
-      "language_metadata": "hindi",
-      "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/627/05bdacb913e3ef715fc414942f7697de_sar_48.mp4"
-    },
-    {
-      "id": "vFKmHXAx",
-      "title": "Koi Ladki Hai",
-      "artist": "Udit Narayan",
-      "actual_artists": [
-        "Uttam Singh",
-        "Lata Mangeshkar",
-        "Udit Narayan",
-        "Anand Bakshi",
-        "Shah Rukh Khan",
-        "Madhuri Dixit",
-        "Akshay Kumar",
-        "Karisma Kapoor",
-        "Deven Verma",
-        "Farida Jalal",
-        "Aruna Irani"
-      ],
-      "album": "Dil To Pagal Hai",
-      "year_metadata": 1997,
-      "language_metadata": "hindi",
-      "evidence": "90s_catalog_year",
-      "audio_url": "https://aac.saavncdn.com/410/1f9dea34f4c23b4baf67193554688230_48.mp4"
-    },
-    {
-      "id": "VDE7p9P3",
-      "title": "Jaan - E - Jigar Jaaneman",
-      "artist": "Anuradha Paudwal",
       "actual_artists": [
         "Anuradha Paudwal",
         "Kumar Sanu",
         "Super Cassettes Industries Private Limited",
         "Sameer",
-        "Rahul Roy",
         "Anu Aggarwal"
       ],
-      "album": "Aashiqui",
-      "year_metadata": 1989,
+      "album": "Aashiqui: Super Jhankar Beat",
+      "year_metadata": 1993,
       "language_metadata": "hindi",
-      "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/088/9d85698c399527698b782b1a88b80c72_48.mp4"
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/341/bdcd1e6971fb1628fe425b659ab18261_48.mp4"
     },
     {
-      "id": "thZu5rS_",
-      "title": "Dil Mein Dard Sa (From \"Kranti\")",
+      "id": "L3KovXg6",
+      "title": "Tujhe Yaad Na Meri Aayee",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Jatin-Lalit",
+        "Udit Narayan",
+        "Manpreet Akhtar",
+        "Jatin Pandit",
+        "Lalit Pandit",
+        "Sameer Anjaan",
+        "Rani Mukerji",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Salman Khan"
+      ],
+      "album": "Kuch Kuch Hota Hai",
+      "year_metadata": 1998,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/907/0d1369d89d28caf6adcbdb1018787373_48.mp4"
+    },
+    {
+      "id": "R4LvYwv3",
+      "title": "Gawah Hai Chand Tare",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Meenakshi Seshadri",
+        "Rishi Kapoor",
+        "Sunny Deol",
+        "Amrish Puri",
+        "Kulbhushan Kharbanda"
+      ],
+      "album": "Damini",
+      "year_metadata": 1993,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/473/77ba12fbe39a456df1a6db2d21c6484c_sar_48.mp4"
+    },
+    {
+      "id": "btUhoZjO",
+      "title": "Kya Tumhe Pata Hai (Male Version)",
       "artist": "Udit Narayan",
       "actual_artists": [
         "Udit Narayan",
-        "Alka Yagnik",
-        "Jatin-Lalit",
-        "Anand Bakshi",
-        "Bobby Deol",
-        "Ameesha Patel"
+        "Pranjal Dahiya",
+        "Laxmikant - Pyarelal",
+        "Mukesh",
+        "Kanchan",
+        "Rani Mallik",
+        "Vivek Mushran",
+        "Pratibha Sinha"
       ],
-      "album": "Kranti",
-      "year_metadata": 2008,
+      "album": "Dil Hai Betaab (Original Motion Picture Soundtrack)",
+      "year_metadata": 1992,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/417/c52bbe0b454ab56973b1b05bb1f61cb3_48.mp4"
+    },
+    {
+      "id": "-vNMHZD1",
+      "title": "Pehli Pehli Baar Mohabbat Ki Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Super Cassettes Industries Private Limited",
+        "Sameer",
+        "Sanjay Kapoor",
+        "Priya Gill"
+      ],
+      "album": "Sirf Tum",
+      "year_metadata": 1999,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/318/ce90eb0ea34ddcdb70948c179f6bcba5_48.mp4"
+    },
+    {
+      "id": "7FeFZmU7",
+      "title": "Hum Tumhare Hain Sanam",
+      "artist": "Anuradha Paudwal",
+      "actual_artists": [
+        "Anuradha Paudwal",
+        "Udit Narayan",
+        "Nikhil-Vinay",
+        "Sameer",
+        "Shah Rukh Khan",
+        "Madhuri Dixit"
+      ],
+      "album": "Hum Tumhare Hain Sanam",
+      "year_metadata": 2002,
       "language_metadata": "hindi",
       "evidence": "year_unknown_or_other_not_rejected",
-      "audio_url": "https://aac.saavncdn.com/026/1c6c45f58a8b802a31a4261fb18a5155_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/209/c5676f3fa4fd5e3ab7f2713cbc8c0859_48.mp4"
+    },
+    {
+      "id": "PNycrzWI",
+      "title": "Koi Jaye To Le Aaye",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Alka Yagnik",
+        "Shankar Mahadevan",
+        "Anu Malik",
+        "Rahat Indoree"
+      ],
+      "album": "Ghatak",
+      "year_metadata": 1996,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/768/fa78bc298c3ebfe54a4b8df5778ccc8f_48.mp4"
+    },
+    {
+      "id": "iprLqckr",
+      "title": "Main Khiladi Tu Anari",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Abhijeet",
+        "Udit Narayan",
+        "Anu Malik",
+        "Maya Govind",
+        "Akshay Kumar",
+        "Saif Ali Khan",
+        "Kader Khan",
+        "Johnny Lever"
+      ],
+      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
+      "year_metadata": 1994,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/474/b0cb9893d314099563c5721ab329e6c2_48.mp4"
+    },
+    {
+      "id": "78r0uLNP",
+      "title": "Tune Pyar Ki Been Bajai",
+      "artist": "Anuradha Paudwal",
+      "actual_artists": [
+        "Anuradha Paudwal",
+        "Mohammed Aziz",
+        "Anand-Milind",
+        "Sameer",
+        "Avinash Wadhawan",
+        "Shaheen",
+        "Anupam Kher",
+        "Aruna Irani",
+        "Alok Nath"
+      ],
+      "album": "Aayee Milan Ki Raat",
+      "year_metadata": 1990,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/364/c6d819599d8cae8c8385dbc12ea6c92b_48.mp4"
+    },
+    {
+      "id": "qkZzc8XL",
+      "title": "Zindagi Ki Talash Mein",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Super Cassettes Industries Private Limited",
+        "Sameer",
+        "Mohsin Khan",
+        "Varsha Usgaonkar",
+        "Aditya Pancholi"
+      ],
+      "album": "Saathi",
+      "year_metadata": 1991,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/051/a408e72a43b254f9a444f25ade100fbf_48.mp4"
+    },
+    {
+      "id": "uPVFUwOm",
+      "title": "Sochenge Tumhe Pyar",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Rishi Kapoor",
+        "Divya Bharti"
+      ],
+      "album": "Deewana",
+      "year_metadata": 1992,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/793/112cb332b98b2bb3f7c85a24d5e6f471_48.mp4"
+    },
+    {
+      "id": "LhYyq93o",
+      "title": "Meri Zindagi Ke Malik",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Rajesh Roshan",
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Indeevar",
+        "Abhishek Kapoor",
+        "Madhoo",
+        "Chunky Pandey"
+      ],
+      "album": "Imaan Beiman",
+      "year_metadata": 1997,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/966/462d67f924b23a3920f662a9ea17af48_sar_48.mp4"
+    },
+    {
+      "id": "E0KNrZVG",
+      "title": "Sajan Sajan Teri Dulhan",
+      "artist": "Alka Yagnik",
+      "actual_artists": [
+        "Anu Malik",
+        "Alka Yagnik",
+        "Anand Bakshi",
+        "Madhuri Dixit",
+        "Akshay Kumar",
+        "Saif Ali Khan"
+      ],
+      "album": "Aarzoo",
+      "year_metadata": 1999,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/048/86f212223b8e227903c0f42459d41dda_sar_48.mp4"
+    },
+    {
+      "id": "jFerJMnc",
+      "title": "Koi Mil Gaya",
+      "artist": "Udit Narayan",
+      "actual_artists": [
+        "Jatin-Lalit",
+        "Kavita Krishnamurthy",
+        "Udit Narayan",
+        "Alka Yagnik",
+        "Jatin Pandit",
+        "Lalit Pandit",
+        "Sameer Anjaan",
+        "Rani Mukerji",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Salman Khan"
+      ],
+      "album": "Kuch Kuch Hota Hai",
+      "year_metadata": 1998,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/907/f89badfc28dda452969272f0277b0dd6_48.mp4"
+    },
+    {
+      "id": "g9jTdJay",
+      "title": "Shikwa Nahin Kisi Se",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Kumar Sanu",
+        "Nadeem-Shravan",
+        "Sameer",
+        "Govinda",
+        "Mamta Kulkarni",
+        "Rahul Roy",
+        "Kader Khan"
+      ],
+      "album": "Naseeb",
+      "year_metadata": 1998,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/364/f4a24c82940c724b0e511abb0bd85afb_48.mp4"
+    },
+    {
+      "id": "FOn06quY",
+      "title": "Ladki Badi Anjani Hai",
+      "artist": "Kumar Sanu",
+      "actual_artists": [
+        "Jatin-Lalit",
+        "Kumar Sanu",
+        "Alka Yagnik",
+        "Jatin Pandit",
+        "Lalit Pandit",
+        "Sadhana Sargam",
+        "Sameer Anjaan",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Rani Mukerji",
+        "Salman Khan"
+      ],
+      "album": "Kuch Kuch Hota Hai",
+      "year_metadata": 1998,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/907/aa60fd44fa10bd8f7529877445fcaf13_48.mp4"
+    },
+    {
+      "id": "ZsYMcALF",
+      "title": "Maiya Yashoda",
+      "artist": "Anuradha Paudwal",
+      "actual_artists": [
+        "Kavita Krishnamurthy",
+        "Anuradha Paudwal",
+        "Alka Yagnik",
+        "Raam-Laxman",
+        "R. Kiran",
+        "Mitalee Shashank",
+        "Dev Kohli",
+        "Ravindra Rawal",
+        "Tabu",
+        "Karisma Kapoor",
+        "Sonali Bendre"
+      ],
+      "album": "Hum Saath Saath Hain",
+      "year_metadata": 1999,
+      "language_metadata": "hindi",
+      "evidence": "90s_catalog_year",
+      "audio_url": "https://aac.saavncdn.com/004/d93242e6ee8f43bd1f821d461cb917c6_48.mp4"
     }
   ],
   "audit": {
@@ -586,8 +625,8 @@
     },
     "Anuradha Paudwal": {
       "total": 80,
-      "duplicate": 42,
-      "accepted": 36,
+      "duplicate": 40,
+      "accepted": 38,
       "not_hindi": 2
     },
     "Abhijeet Bhattacharya": {
