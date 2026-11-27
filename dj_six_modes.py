@@ -107,6 +107,7 @@ def mode_verdict(row,mode,query="",artist=""):
         return True,"mood_label"
     return True,"artist_exact_match"
 
+# Curated title searches supplement incomplete artist-level JioSaavn indexing.
 KAWALI_EXTRA_QUERIES={
  "Nusrat Fateh Ali Khan":[
   "Saja Hai Maikhana Nusrat Fateh Ali Khan",
