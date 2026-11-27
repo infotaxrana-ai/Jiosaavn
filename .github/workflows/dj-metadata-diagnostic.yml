@@ -14,12 +14,12 @@ jobs:
           python-version: '3.12'
       - name: Verify current DJ tests
         run: python -m unittest -v test_step2.py test_step3.py
-      - name: Inspect real JioSaavn search metadata
-        run: python inspect_dj_metadata.py --mode hindi_classic_movie_1970_2010 --limit 40
+      - name: Inspect live API candidates across all six DJ modes and each provider
+        run: python diagnose_live_candidates.py
       - name: Save diagnostic evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: xiaozhi-dj-metadata-diagnostic
-          path: dj_metadata_diagnostic.json
+          name: xiaozhi-dj-live-api-diagnostic
+          path: dj_live_api_diagnostic.json
           if-no-files-found: warn
