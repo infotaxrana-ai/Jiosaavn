@@ -49,16 +49,16 @@ class HourlyDJTests(unittest.TestCase):
             }))
         return conf, d, d / ".hourly_history.json"
 
-    def test_end_to_end_six_modes_atomic_schema_and_idempotence(self):
+    def test_end_to_end_seven_modes_atomic_schema_and_idempotence(self):
         with tempfile.TemporaryDirectory() as root:
             c, d, h = self.setup_env(root)
             def builder(mode, artist, providers, limit, per_query):
                 return {"songs": [song(i) for i in range(80)]}
             with patch("hourly_dj_refresh.build_candidates", side_effect=builder) as mock:
                 result = refresh_all(c, d, h, hour=12345)
-                self.assertEqual(mock.call_count, 6)
+                self.assertEqual(mock.call_count, len(MODES))
                 self.assertTrue(all(v["new_songs"] == 30 for v in result.values()))
-                self.assertEqual(len(read_json(h, {})["modes"]), 6)
+                self.assertEqual(len(read_json(h, {})["modes"]), len(MODES))
                 for mode in MODES:
                     updated = read_json(d/f"{mode}.json", {})
                     self.assertEqual(updated["mode"], mode)
@@ -69,7 +69,7 @@ class HourlyDJTests(unittest.TestCase):
                 same = refresh_all(c, d, h, hour=12345)
                 self.assertTrue(all(v["status"] == "already_published_this_hour"
                                     for v in same.values()))
-                self.assertEqual(mock.call_count, 6)
+                self.assertEqual(mock.call_count, len(MODES))
 
     def test_original_duplicate_song_title_does_not_reduce_count(self):
         with tempfile.TemporaryDirectory() as root:
