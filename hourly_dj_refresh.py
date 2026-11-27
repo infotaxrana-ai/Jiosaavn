@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Hour-by-hour *song replacement* for existing Xiaozhi JioSaavn DJ JSON.
+"""Hour-by-hour novelty-first refresh for seven Xiaozhi JioSaavn DJ modes.
 
-Keeps the existing DJ JSON song schema and adds new mode files as they become ready. Uses the existing
+Keeps the existing DJ JSON song schema; the Kawali mode uses singer-credit-verified Qawwali candidates. Uses the existing
 metadata-filtering builder; does not access or modify ESP32 firmware.
 
 A new track means not present in the *previous published playlist*.
