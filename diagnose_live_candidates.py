@@ -23,8 +23,8 @@ def main():
     providers=[p for p in sorted(cfg.get("providers",[]),key=lambda x:x.get("priority",99)) if p.get("enabled") and str(p.get("base_url","")).startswith("https://")]
     report={"purpose":"read_only_live_api_diagnostic","providers":{},"note":"No playlist JSON, history, firmware, ESP32 or MCP Queue is modified."}
     for p in providers:
-        name=p.get("name","provider"); base=p["base_url"].rstrip("/")
-        pr={"base_url":base,"modes":{}}
+        name=p.get("name","provider"); priority=p.get("priority",99); base=p["base_url"].rstrip("/")
+        pr={"name":name,"priority":priority,"base_url":base,"modes":{}}
         for mode, artists in ARTISTS.items():
             totals=Counter(); samples=[]; errors={}
             for artist in artists:
@@ -66,8 +66,8 @@ def main():
                     except Exception as e:
                         errors[query]=type(e).__name__+": "+str(e)[:180]
             pr["modes"][mode]={"counts":dict(totals),"errors":errors,"samples":samples}
-        report["providers"][name]=pr
-        print(name, {m:v["counts"] for m,v in pr["modes"].items()}, flush=True)
+        report["providers"][f"priority_{priority}"]=pr
+        print(f"priority={priority} {name} ({base})", {m:v["counts"] for m,v in pr["modes"].items()}, flush=True)
     Path("dj_live_api_diagnostic.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("DIAGNOSTIC COMPLETE. Read-only; no playlist files changed.",flush=True)
 
