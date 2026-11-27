@@ -3,6 +3,13 @@ name: Publish Xiaozhi DJ Playlists
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "dj_six_modes.py"
+      - "hourly_dj_refresh.py"
+      - "test_dj_six_modes.py"
+      - "test_hourly_dj_refresh.py"
+      - ".github/workflows/dj-publish-playlists.yml"
   schedule:
     - cron: "23 * * * *"  # Every hour at minute 23 UTC; Actions may be delayed
 
@@ -23,7 +30,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Regression tests (all existing modes + hourly refresh)
+      - name: Regression tests (all seven modes + hourly refresh)
         shell: bash
         run: |
           set -euo pipefail
@@ -33,7 +40,7 @@ jobs:
             test_dj_six_modes.py \
             test_hourly_dj_refresh.py
 
-      - name: Fetch broad candidate pool and publish NEW songs to six DJ JSON files
+      - name: Fetch broad candidate pool and publish NEW songs to seven DJ JSON files
         shell: bash
         run: |
           set -euo pipefail
@@ -55,6 +62,9 @@ jobs:
           from hourly_dj_refresh import MODES, unique_songs
           for mode in MODES:
               p = Path('data/dj') / f'{mode}.json'
+              if not p.exists() and mode == "kawali":
+                  print("PENDING kawali: waiting for at least 30 verified Qawwali tracks")
+                  continue
               obj = json.loads(p.read_text(encoding='utf-8'))
               songs = obj.get('songs')
               if obj.get('mode') != mode or not isinstance(songs, list):
