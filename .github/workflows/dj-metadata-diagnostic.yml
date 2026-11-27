@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "music_config.json"
+      - "diagnose_live_candidates.py"
 permissions:
   contents: read
 jobs:
