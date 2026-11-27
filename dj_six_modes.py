@@ -57,6 +57,21 @@ def artist_matches(candidate,target,mode):
     if match_artist(candidate,target):return True
     if mode!="kawali":return False
     return norm(candidate) in QAWALI_ARTIST_ALIASES.get(norm(target),set())
+def qawwali_singer_names(row):
+    arts=row.get("artists") or {}
+    names=[]
+    if isinstance(arts,dict):
+        for key in ("primary","featured"):
+            for item in arts.get(key) or []:
+                value=item.get("name","") if isinstance(item,dict) else str(item)
+                value=html.unescape(value).strip()
+                if value:names.append(value)
+        if names:return list(dict.fromkeys(names))
+        for key in ("primaryArtists","primary_artists","singers"):
+            value=row.get(key)
+            if isinstance(value,str):names.extend(html.unescape(x).strip() for x in re.split(r"[,;/|]+",value) if x.strip())
+        return list(dict.fromkeys(names))
+    return [html.unescape(x) for x in artist_names(row)]
 def genre_context(row):
     return field(row,"genre","genres","tags","category","categories","type")
 def mood_evidence(row,mode):
@@ -121,7 +136,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             counts["total"]+=1
             if not isinstance(row,dict):continue
             sid=str(row.get("id") or "")
-            artists=[html.unescape(x) for x in artist_names(row)]
+            artists=qawwali_singer_names(row) if mode=="kawali" else [html.unescape(x) for x in artist_names(row)]
             if not any(artist_matches(x,target,mode) for x in artists):
                 counts["artist_mismatch"]+=1
                 if mode=="kawali" and len(mismatch_examples)<3:
