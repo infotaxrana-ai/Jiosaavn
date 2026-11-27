@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Hour-by-hour *song replacement* for existing Xiaozhi JioSaavn DJ JSON.
 
-Keeps the existing six JSON filenames and song schema. Uses the existing
+Keeps the existing DJ JSON song schema and adds new mode files as they become ready. Uses the existing
 metadata-filtering builder; does not access or modify ESP32 firmware.
 
 A new track means not present in the *previous published playlist*.
@@ -26,6 +26,7 @@ MODES = {
     "romantic": "",
     "sad": "",
     "ghazal": "",
+    "kawali": "",
     "bangla_classic": "",
 }
 HISTORY_VERSION = 1
