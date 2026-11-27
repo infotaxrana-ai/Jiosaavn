@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Standalone six-mode DJ playlist builder for Xiaozhi JioSaavn.
+"""Standalone seven-mode DJ playlist builder for Xiaozhi JioSaavn.
 Search metadata only; DOES NOT install, publish, or play on ESP32.
 """
 import argparse, html, json, random, re
@@ -13,8 +13,15 @@ ARTISTS={
  "romantic":["Arijit Singh","Kumar Sanu","Udit Narayan","Shreya Ghoshal","Alka Yagnik","Sonu Nigam"],
  "sad":["Arijit Singh","Kumar Sanu","Sonu Nigam","Atif Aslam","Jagjit Singh"],
  "ghazal":["Jagjit Singh","Pankaj Udhas","Ghulam Ali","Talat Aziz"],
+ "kawali":[
+  "Nusrat Fateh Ali Khan","Aziz Mian","Sabri Brothers",
+  "Ghulam Farid Sabri","Maqbool Ahmed Sabri","Rahat Fateh Ali Khan",
+  "Amjad Sabri","Fareed Ayaz","Rizwan-Muazzam Qawwali",
+  "Wadali Brothers","Sher Miandad Khan","Javed Bashir"
+ ],
  "bangla_classic":["Runa Laila","Sabina Yasmin","Andrew Kishore","Subir Nandi","Kanak Chapa","Manna Dey"]
 }
+QAWALI_WORD=re.compile(r"\\b(?:qawwali|qawali|qawalli|kawwali|kawali)\\b|قوالی|কাওয়ালি|কাওয়ালি",re.I)
 MOOD_WORDS={
  "romantic":re.compile(r"\b(romantic|romance|love|pyaar|pyar|prem|ishq|mohabbat)\b",re.I),
  "sad":re.compile(r"\b(sad|sadness|heartbreak|broken heart|dard|bewafa|judai|judaai|gham|virah)\b",re.I)
@@ -39,7 +46,7 @@ def mood_evidence(row,mode):
     # Enforce explicit mood evidence, NEVER infer emotion from singer.
     context=genre_context(row)+" | "+album(row)
     return bool(MOOD_WORDS[mode].search(context))
-def mode_verdict(row,mode):
+def mode_verdict(row,mode,query=""):
     year=extract_year(row)
     lang=explicit_language(row)
     if mode=="hindi_90s":
@@ -55,6 +62,11 @@ def mode_verdict(row,mode):
     if mode=="ghazal":
         if not is_ghazal(row):return False,"ghazal_genre_unverified"
         return True,"ghazal_label"
+    if mode=="kawali":
+        context=genre_context(row)+" | "+album(row)+" | "+field(row,"name","title")
+        if QAWALI_WORD.search(context):return True,"qawwali_metadata"
+        if QAWALI_WORD.search(query):return True,"qawwali_search_query"
+        return False,"qawwali_unverified"
     if mode in MOOD_WORDS:
         if not mood_evidence(row,mode):return False,"mood_unverified"
         if lang in OTHER_LANGUAGE:return False,"language_mismatch"
@@ -63,6 +75,7 @@ def mode_verdict(row,mode):
 
 def search_specs(mode,artist):
     if mode=="artist_nonstop":return [artist]
+    if mode=="kawali":return [artist+" qawwali",artist+" sufi qawwali",artist]
     suffix={"hindi_90s":"90s Hindi songs","romantic":"romantic songs","sad":"sad songs",
             "ghazal":"ghazal","bangla_classic":"Bangla songs"}[mode]
     return [artist+" "+suffix,artist]
@@ -81,11 +94,11 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
                     if not src.exists():continue
                     data=json.loads(src.read_text(encoding="utf8"))
                 else:data=fetch_search(q,providers,per_query)
-                rows+=get_results(data)
+                rows.extend((row,q) for row in get_results(data))
             except Exception as ex:
                 errors[q]=type(ex).__name__
         accepted=[]
-        for row in rows:
+        for row,query in rows:
             counts["total"]+=1
             if not isinstance(row,dict):continue
             sid=str(row.get("id") or "")
@@ -100,7 +113,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             if key in seen_search:
                 counts["duplicate"]+=1;continue
             seen_search.add(key)
-            ok,evidence=mode_verdict(row,mode)
+            ok,evidence=mode_verdict(row,mode,query)
             if not ok:
                 counts[evidence]+=1;continue
             accepted.append({"id":sid,"title":title,"artist":target,"actual_artists":artists,
@@ -125,6 +138,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
          "limitations":["Mood and ghazal classification use metadata labels; unlabeled valid songs are excluded.",
          "1990s uses catalog year for ranking only; no song is rejected for missing/outside-range year, and some selections may not be from the 1990s.",
          "Artist match allows collaborations if the requested artist appears in the credits.",
+         "Kawwali accepts exact artist credits with explicit Qawwali metadata or Qawwali-scoped search results; incomplete metadata can reduce coverage.",
          "Audio URLs and playback are NOT tested; existing ESP32 Queue is unchanged."]}
 
 def main():
