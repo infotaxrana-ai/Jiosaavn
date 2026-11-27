@@ -107,9 +107,34 @@ def mode_verdict(row,mode,query="",artist=""):
         return True,"mood_label"
     return True,"artist_exact_match"
 
+KAWALI_EXTRA_QUERIES={
+ "Nusrat Fateh Ali Khan":[
+  "Saja Hai Maikhana Nusrat Fateh Ali Khan",
+  "Tumhain Dillagi Bhool Jani Pare Gi Nusrat Fateh Ali Khan",
+  "Allah Hoo Allah Hoo Nusrat Fateh Ali Khan",
+  "Yeh Jo Halka Halka Saroor Hai Nusrat Fateh Ali Khan",
+  "Sanson Ki Mala Pe Simroon Nusrat Fateh Ali Khan"
+ ],
+ "Aziz Mian":[
+  "Main Sharabi Aziz Mian","Teri Soorat Nigahon Mein Aziz Mian",
+  "Allah Hi Jaane Aziz Mian"
+ ],
+ "Sabri Brothers":[
+  "Tajdar E Haram Sabri Brothers","Bhar Do Jholi Sabri Brothers",
+  "Man Kunto Maula Sabri Brothers"
+ ],
+ "Amjad Sabri":[
+  "Amjad Sabri Tajdar E Haram","Amjad Sabri Ali Mola Ali",
+  "Amjad Sabri Bhar Do Jholi"
+ ],
+ "Rahat Fateh Ali Khan":[
+  "Rahat Fateh Ali Khan Mast Qalandar","Rahat Fateh Ali Khan Tajdar E Haram",
+  "Rahat Fateh Ali Khan Sanu Ek Pal Chain"
+ ]
+}
 def search_specs(mode,artist):
     if mode=="artist_nonstop":return [artist]
-    if mode=="kawali":return [artist+" qawwali",artist+" sufi qawwali",artist]
+    if mode=="kawali":return [artist+" qawwali",artist+" sufi qawwali",artist]+KAWALI_EXTRA_QUERIES.get(artist,[])
     suffix={"hindi_90s":"90s Hindi songs","romantic":"romantic songs","sad":"sad songs",
             "ghazal":"ghazal","bangla_classic":"Bangla songs"}[mode]
     return [artist+" "+suffix,artist]
