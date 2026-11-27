@@ -1,4 +1,4 @@
-name: Xiaozhi DJ Six Modes Preview
+name: Xiaozhi DJ Seven Modes Preview
 on:
   workflow_dispatch:
     inputs:
@@ -6,7 +6,7 @@ on:
         description: 'DJ mode'
         required: true
         type: choice
-        options: [artist_nonstop, hindi_90s, romantic, sad, ghazal, bangla_classic]
+        options: [artist_nonstop, hindi_90s, romantic, sad, ghazal, kawali, bangla_classic]
       artist:
         description: 'Artist name (artist_nonstop only)'
         required: false
