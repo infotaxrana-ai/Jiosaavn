@@ -1,0 +1,93 @@
+name: JioSaavn Provider Candidate Diagnostic
+on:
+  push:
+    paths:
+      - ".github/workflows/provider-candidate-diagnostic.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Probe current and replacement providers
+        run: |
+          python - <<'PY'
+          import json, time, urllib.parse, urllib.request
+          from collections import Counter
+          from build_dj import get_results, artist_names, match_artist, audio_url
+
+          providers = {
+              "primary_baseline": "https://saavn.sumit.co",
+              "old_secondary": "https://elitejiosaavn-api.vercel.app",
+              "candidate_cloudflare": "https://jiosaavn-api.jhimank49.workers.dev",
+              "candidate_bycom": "https://saavn.bycomsolutions.com",
+          }
+          tests = [
+              ("Arijit Singh Tum Hi Ho", "Arijit Singh"),
+              ("Kumar Sanu", "Kumar Sanu"),
+              ("Jagjit Singh", "Jagjit Singh"),
+              ("Runa Laila", "Runa Laila"),
+              ("Sabina Yasmin", "Sabina Yasmin"),
+          ]
+          report = {}
+          for label, base in providers.items():
+              item = {"base_url": base, "queries": {}, "totals": Counter()}
+              for query, target in tests:
+                  entry = {"http_status": None, "result_count": 0, "artist_matches": 0,
+                           "accepted_48kbps": 0, "stream_probe": None, "error": None}
+                  try:
+                      url = base + "/api/search/songs?" + urllib.parse.urlencode(
+                          {"query": query, "page": 0, "limit": 20})
+                      req = urllib.request.Request(url, headers={
+                          "User-Agent": "XiaozhiDJProviderDiagnostic/1.0",
+                          "Accept": "application/json"})
+                      with urllib.request.urlopen(req, timeout=15) as response:
+                          entry["http_status"] = response.status
+                          if urllib.parse.urlparse(response.geturl()).scheme != "https":
+                              raise ValueError("unsafe redirect")
+                          raw = response.read(2_500_001)
+                          if len(raw) > 2_500_000:
+                              raise ValueError("response too large")
+                      payload = json.loads(raw.decode("utf-8"))
+                      rows = get_results(payload)
+                      entry["result_count"] = len(rows)
+                      for row in rows:
+                          if not isinstance(row, dict):
+                              continue
+                          names = artist_names(row)
+                          if not any(match_artist(name, target) for name in names):
+                              continue
+                          entry["artist_matches"] += 1
+                          stream = audio_url(row)
+                          if stream:
+                              entry["accepted_48kbps"] += 1
+                              if entry["stream_probe"] is None:
+                                  try:
+                                      probe = urllib.request.Request(stream, headers={
+                                          "User-Agent": "XiaozhiDJProviderDiagnostic/1.0",
+                                          "Range": "bytes=0-1"})
+                                      with urllib.request.urlopen(probe, timeout=15) as audio:
+                                          if urllib.parse.urlparse(audio.geturl()).scheme != "https":
+                                              raise ValueError("unsafe audio redirect")
+                                          sample = audio.read(2)
+                                          entry["stream_probe"] = {
+                                              "status": audio.status,
+                                              "content_type": audio.headers.get("Content-Type"),
+                                              "received_bytes": len(sample)}
+                                  except Exception as ex:
+                                      entry["stream_probe"] = {"error": type(ex).__name__ + ": " + str(ex)[:120]}
+                  except Exception as ex:
+                      entry["error"] = type(ex).__name__ + ": " + str(ex)[:180]
+                  item["queries"][query] = entry
+                  for key in ("result_count", "artist_matches", "accepted_48kbps"):
+                      item["totals"][key] += entry[key]
+              item["totals"] = dict(item["totals"])
+              report[label] = item
+          print("PROVIDER_CANDIDATE_DIAGNOSTIC=" + json.dumps(report, ensure_ascii=False, indent=2))
+          PY
