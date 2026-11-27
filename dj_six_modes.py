@@ -21,7 +21,7 @@ ARTISTS={
  ],
  "bangla_classic":["Runa Laila","Sabina Yasmin","Andrew Kishore","Subir Nandi","Kanak Chapa","Manna Dey"]
 }
-QAWALI_WORD=re.compile(r"\\b(?:qawwali|qawali|qawalli|kawwali|kawali)\\b|قوالی|কাওয়ালি|কাওয়ালি",re.I)
+QAWALI_WORD=re.compile(r"\b(?:qawwali|qawali|qawalli|kawwali|kawali)\b|قوالی|কাওয়ালি|কাওয়ালি",re.I)
 MOOD_WORDS={
  "romantic":re.compile(r"\b(romantic|romance|love|pyaar|pyar|prem|ishq|mohabbat)\b",re.I),
  "sad":re.compile(r"\b(sad|sadness|heartbreak|broken heart|dard|bewafa|judai|judaai|gham|virah)\b",re.I)
