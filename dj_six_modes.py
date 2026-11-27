@@ -22,6 +22,18 @@ ARTISTS={
  "bangla_classic":["Runa Laila","Sabina Yasmin","Andrew Kishore","Subir Nandi","Kanak Chapa","Manna Dey"]
 }
 QAWALI_WORD=re.compile(r"\b(?:qawwali|qawali|qawalli|kawwali|kawali)\b|قوالی|কাওয়ালি|কাওয়ালি",re.I)
+QAWALI_TITLE_WORD=re.compile(r"\b(?:mast qalandar|dam mast qalandar|bhar do jholi|tajdar[ -]e[ -]haram|chaap tilak|allah hoo|tumhe dillagi|ye jo halka halka suroor hai|mere rashke qamar|sanson ki mala|man kunto maula)\b",re.I)
+QAWALI_CATALOG_ARTISTS={norm(x) for x in (
+ "Nusrat Fateh Ali Khan","Aziz Mian","Sabri Brothers","Ghulam Farid Sabri",
+ "Maqbool Ahmed Sabri","Amjad Sabri","Fareed Ayaz","Rizwan-Muazzam Qawwali",
+ "Wadali Brothers","Sher Miandad Khan"
+)}
+QAWALI_ARTIST_ALIASES={
+ norm("Ghulam Farid Sabri"):{norm("Ghulam Farid Sabri Qawwal")},
+ norm("Maqbool Ahmed Sabri"):{norm("Sabri Maqbool Ahmed"),norm("Maqbool Sabri")},
+ norm("Fareed Ayaz"):{norm("Fareed Ayaz Abu Muhammad Qawwal"),norm("Fareed Ayaz Abu Mohammad Qawwal")},
+ norm("Javed Bashir"):{norm("Jinx & Javed Bashir"),norm("Javed Bashir & Sharni")},
+}
 MOOD_WORDS={
  "romantic":re.compile(r"\b(romantic|romance|love|pyaar|pyar|prem|ishq|mohabbat)\b",re.I),
  "sad":re.compile(r"\b(sad|sadness|heartbreak|broken heart|dard|bewafa|judai|judaai|gham|virah)\b",re.I)
@@ -40,13 +52,18 @@ def album(row):
     return field(row,"album")
 def explicit_language(row):
     return field(row,"language","languages").casefold()
+def artist_matches(candidate,target,mode):
+    candidate=html.unescape(str(candidate or ""))
+    if match_artist(candidate,target):return True
+    if mode!="kawali":return False
+    return norm(candidate) in QAWALI_ARTIST_ALIASES.get(norm(target),set())
 def genre_context(row):
     return field(row,"genre","genres","tags","category","categories","type")
 def mood_evidence(row,mode):
     # Enforce explicit mood evidence, NEVER infer emotion from singer.
     context=genre_context(row)+" | "+album(row)
     return bool(MOOD_WORDS[mode].search(context))
-def mode_verdict(row,mode,query=""):
+def mode_verdict(row,mode,query="",artist=""):
     year=extract_year(row)
     lang=explicit_language(row)
     if mode=="hindi_90s":
@@ -65,7 +82,9 @@ def mode_verdict(row,mode,query=""):
     if mode=="kawali":
         context=genre_context(row)+" | "+album(row)+" | "+field(row,"name","title")
         if QAWALI_WORD.search(context):return True,"qawwali_metadata"
+        if QAWALI_TITLE_WORD.search(context):return True,"qawwali_known_track_title"
         if QAWALI_WORD.search(query):return True,"qawwali_search_query"
+        if norm(artist) in QAWALI_CATALOG_ARTISTS:return True,"qawwali_artist_catalog"
         return False,"qawwali_unverified"
     if mode in MOOD_WORDS:
         if not mood_evidence(row,mode):return False,"mood_unverified"
@@ -102,8 +121,8 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             counts["total"]+=1
             if not isinstance(row,dict):continue
             sid=str(row.get("id") or "")
-            artists=artist_names(row)
-            if not any(match_artist(x,target) for x in artists):
+            artists=[html.unescape(x) for x in artist_names(row)]
+            if not any(artist_matches(x,target,mode) for x in artists):
                 counts["artist_mismatch"]+=1
                 if mode=="kawali" and len(mismatch_examples)<3:
                     mismatch_examples.append({"title":row.get("name") or row.get("title"),"artists":artists,"query":query})
@@ -116,7 +135,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             if key in seen_search:
                 counts["duplicate"]+=1;continue
             seen_search.add(key)
-            ok,evidence=mode_verdict(row,mode,query)
+            ok,evidence=mode_verdict(row,mode,query,target)
             if not ok:
                 counts[evidence]+=1
                 if mode=="kawali" and evidence=="qawwali_unverified" and len(qawwali_unverified_examples)<3:
