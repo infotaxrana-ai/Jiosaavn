@@ -5,11 +5,9 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "dj_six_modes.py"
       - "hourly_dj_refresh.py"
       - "test_dj_six_modes.py"
       - "test_hourly_dj_refresh.py"
-      - ".github/workflows/dj-publish-playlists.yml"
   schedule:
     - cron: "23 * * * *"  # Every hour at minute 23 UTC; Actions may be delayed
 
