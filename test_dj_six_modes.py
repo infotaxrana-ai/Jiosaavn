@@ -26,6 +26,12 @@ class DJTests(unittest.TestCase):
   self.assertTrue(mode_verdict(song(artist="Nusrat Fateh Ali Khan",genre="Pop"),"kawali","Nusrat Fateh Ali Khan qawwali")[0])
   self.assertEqual(search_specs("kawali","Nusrat Fateh Ali Khan"),[
    "Nusrat Fateh Ali Khan qawwali","Nusrat Fateh Ali Khan sufi qawwali","Nusrat Fateh Ali Khan"])
+ def test_kawali_known_qawwal_catalog_and_known_track(self):
+  self.assertTrue(mode_verdict(song(artist="Sher Miandad Khan",genre="Pop"),"kawali",artist="Sher Miandad Khan")[0])
+  self.assertFalse(mode_verdict(song(artist="Rahat Fateh Ali Khan",genre="Pop"),"kawali",artist="Rahat Fateh Ali Khan")[0])
+  track=song(artist="Rahat Fateh Ali Khan",genre="Pop")
+  track["name"]="Mast Qalandar"
+  self.assertTrue(mode_verdict(track,"kawali",artist="Rahat Fateh Ali Khan")[0])
  def test_artist(self):
   with tempfile.TemporaryDirectory() as d:
    f=Path(d)/"kumar_sanu.json"
@@ -33,6 +39,15 @@ class DJTests(unittest.TestCase):
    out=build("artist_nonstop","Kumar Sanu",[],fixtures=d)
    self.assertEqual(out["playlist_count"],1)
    self.assertEqual(out["songs"][0]["artist"],"Kumar Sanu")
+ def test_kawali_alias_matches_fareed_ayaz_qawwal_credit(self):
+  with tempfile.TemporaryDirectory() as d:
+   f=Path(d)/"fareed_ayaz_qawwali.json"
+   f.write_text(json.dumps({"data":{"results":[
+    song(artist="Fareed Ayaz Abu Muhammad Qawwal",genre="Pop")
+   ]}}))
+   out=build("kawali","",[],fixtures=d)
+   self.assertEqual(out["playlist_count"],1)
+   self.assertEqual(out["songs"][0]["artist"],"Fareed Ayaz")
  def test_kawali_fixture_build_keeps_exact_qawwali_artist(self):
   with tempfile.TemporaryDirectory() as d:
    f=Path(d)/"nusrat_fateh_ali_khan_qawwali.json"
