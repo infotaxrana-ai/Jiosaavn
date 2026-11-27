@@ -24,8 +24,10 @@ class DJTests(unittest.TestCase):
   self.assertTrue(mode_verdict(song(artist="Nusrat Fateh Ali Khan",genre="Qawwali"),"kawali")[0])
   self.assertFalse(mode_verdict(song(artist="Nusrat Fateh Ali Khan",genre="Pop"),"kawali")[0])
   self.assertTrue(mode_verdict(song(artist="Nusrat Fateh Ali Khan",genre="Pop"),"kawali","Nusrat Fateh Ali Khan qawwali")[0])
-  self.assertEqual(search_specs("kawali","Nusrat Fateh Ali Khan"),[
-   "Nusrat Fateh Ali Khan qawwali","Nusrat Fateh Ali Khan sufi qawwali","Nusrat Fateh Ali Khan"])
+  specs=search_specs("kawali","Nusrat Fateh Ali Khan")
+  self.assertEqual(specs[:3],["Nusrat Fateh Ali Khan qawwali",
+   "Nusrat Fateh Ali Khan sufi qawwali","Nusrat Fateh Ali Khan"])
+  self.assertIn("Saja Hai Maikhana Nusrat Fateh Ali Khan",specs)
  def test_kawali_known_qawwal_catalog_and_known_track(self):
   self.assertTrue(mode_verdict(song(artist="Sher Miandad Khan",genre="Pop"),"kawali",artist="Sher Miandad Khan")[0])
   self.assertFalse(mode_verdict(song(artist="Rahat Fateh Ali Khan",genre="Pop"),"kawali",artist="Rahat Fateh Ali Khan")[0])
