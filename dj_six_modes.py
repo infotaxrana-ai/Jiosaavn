@@ -86,7 +86,7 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
     sources=[artist] if mode=="artist_nonstop" else ARTISTS[mode]
     buffers=[];checks={};errors={};seen_search=set()
     for target in sources:
-        rows=[];counts=Counter()
+        rows=[];counts=Counter();mismatch_examples=[];qawwali_unverified_examples=[]
         for q in search_specs(mode,target):
             try:
                 if fixtures is not None:
@@ -104,7 +104,10 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             sid=str(row.get("id") or "")
             artists=artist_names(row)
             if not any(match_artist(x,target) for x in artists):
-                counts["artist_mismatch"]+=1;continue
+                counts["artist_mismatch"]+=1
+                if mode=="kawali" and len(mismatch_examples)<3:
+                    mismatch_examples.append({"title":row.get("name") or row.get("title"),"artists":artists,"query":query})
+                continue
             url=audio_url(row)
             title=html.unescape(str(row.get("name") or row.get("title") or "")).strip()
             if not title or not url:
@@ -115,7 +118,10 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
             seen_search.add(key)
             ok,evidence=mode_verdict(row,mode,query)
             if not ok:
-                counts[evidence]+=1;continue
+                counts[evidence]+=1
+                if mode=="kawali" and evidence=="qawwali_unverified" and len(qawwali_unverified_examples)<3:
+                    qawwali_unverified_examples.append({"title":title,"album":album(row),"artists":artists,"query":query})
+                continue
             accepted.append({"id":sid,"title":title,"artist":target,"actual_artists":artists,
                   "album":album(row),"year_metadata":extract_year(row),"language_metadata":explicit_language(row),
                   "evidence":evidence,"audio_url":url})
@@ -123,7 +129,11 @@ def build(mode,artist,providers,limit=30,per_query=40,fixtures=None,seed=7):
         if mode=="hindi_90s":
             # Stable preference order: verified-range metadata first, others kept.
             accepted.sort(key=lambda x: x["evidence"] != "90s_catalog_year")
-        checks[target]=dict(counts);buffers.append(deque(accepted))
+        audit_entry=dict(counts)
+        if mode=="kawali":
+            audit_entry["artist_mismatch_examples"]=mismatch_examples
+            audit_entry["qawwali_unverified_examples"]=qawwali_unverified_examples
+        checks[target]=audit_entry;buffers.append(deque(accepted))
     songs=[];seen=set()
     while len(songs)<limit and any(buffers):
         for buf in buffers:
