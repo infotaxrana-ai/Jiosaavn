@@ -1,0 +1,44 @@
+name: Kawali DJ Live Catalog Diagnostic
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/kawali-diagnostic.yml"
+      - "dj_six_modes.py"
+      - "music_config.json"
+permissions:
+  contents: read
+jobs:
+  kawali:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regression tests
+        run: python -m unittest -q test_step2.py test_step3.py test_dj_six_modes.py test_hourly_dj_refresh.py
+      - name: Build live Kawali candidate catalog
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -u dj_six_modes.py --mode kawali --limit 150 --per-query 70 --output kawali_preview.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          obj = json.loads(Path("kawali_preview.json").read_text(encoding="utf-8"))
+          print("KAWALI_TOTAL", obj.get("playlist_count"))
+          for artist, counts in obj.get("audit", {}).items():
+              print("KAWALI_ARTIST", artist, json.dumps(counts, ensure_ascii=False))
+          print("KAWALI_FETCH_ERRORS", json.dumps(obj.get("fetch_errors", {}), ensure_ascii=False))
+          for song in obj.get("songs", [])[:20]:
+              print("KAWALI_TRACK", song["artist"], "|", song["title"], "|", song.get("album"), "|", song.get("evidence"))
+          PY
+      - name: Upload Kawali diagnostic catalog
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kawali-live-catalog-diagnostic
+          path: kawali_preview.json
+          if-no-files-found: warn
