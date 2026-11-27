@@ -6,8 +6,6 @@ on:
   push:
     paths:
       - "hourly_dj_refresh.py"
-      - "test_dj_six_modes.py"
-      - "test_hourly_dj_refresh.py"
   schedule:
     - cron: "23 * * * *"  # Every hour at minute 23 UTC; Actions may be delayed
 
