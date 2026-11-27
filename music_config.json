@@ -1,7 +1,6 @@
-
 {
   "schema_version": 1,
-  "config_revision": 3,
+  "config_revision": 4,
   "providers": [
     {
       "name": "giosaavn",
@@ -13,12 +12,16 @@
       "name": "giosaavn",
       "priority": 2,
       "enabled": true,
-      "base_url": "https://elitejiosaavn-api.vercel.app"
+      "base_url": "https://jiosaavn-api.jhimank49.workers.dev"
     }
   ],
   "stream": {
     "timeout_ms": 12000,
     "retry_count": 1,
-    "formats": ["mp3", "aac", "m4a"]
+    "formats": [
+      "mp3",
+      "aac",
+      "m4a"
+    ]
   }
 }
