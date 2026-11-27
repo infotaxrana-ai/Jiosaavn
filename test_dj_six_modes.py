@@ -39,6 +39,15 @@ class DJTests(unittest.TestCase):
    out=build("artist_nonstop","Kumar Sanu",[],fixtures=d)
    self.assertEqual(out["playlist_count"],1)
    self.assertEqual(out["songs"][0]["artist"],"Kumar Sanu")
+ def test_kawali_ignores_composer_only_credit(self):
+  with tempfile.TemporaryDirectory() as d:
+   f=Path(d)/"maqbool_ahmed_sabri_qawwali.json"
+   row=song(artist="Ayisha Abdul Basith",genre="Qawwali")
+   row["artists"]={"primary":[{"name":"Ayisha Abdul Basith"}],
+                   "all":[{"name":"Ayisha Abdul Basith"},{"name":"Sabri Maqbool Ahmed"}]}
+   f.write_text(json.dumps({"data":{"results":[row]}}))
+   out=build("kawali","",[],fixtures=d)
+   self.assertEqual(out["playlist_count"],0)
  def test_kawali_alias_matches_fareed_ayaz_qawwal_credit(self):
   with tempfile.TemporaryDirectory() as d:
    f=Path(d)/"fareed_ayaz_qawwali.json"
