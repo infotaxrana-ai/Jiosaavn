@@ -27,6 +27,7 @@ jobs:
               "old_secondary": "https://elitejiosaavn-api.vercel.app",
               "candidate_cloudflare": "https://jiosaavn-api.jhimank49.workers.dev",
               "candidate_bycom": "https://saavn.bycomsolutions.com",
+              "candidate_shnwaz": "https://jio.shnwaz.dev",
           }
           tests = [
               ("Arijit Singh Tum Hi Ho", "Arijit Singh"),
