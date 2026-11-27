@@ -1,0 +1,721 @@
+{
+  "schema_version": 1,
+  "preview_only": true,
+  "mode": "kawali",
+  "requested_artist": null,
+  "playlist_count": 30,
+  "songs": [
+    {
+      "id": "9b5JrcQk",
+      "title": "Main Sharabi",
+      "artist": "Aziz Mian",
+      "actual_artists": [
+        "Aziz Mian"
+      ],
+      "album": "Hashar Ke Roz Poochhoon",
+      "year_metadata": 2022,
+      "language_metadata": "hindi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/425/b2a65605db1deb299702ccbf1bd456d1_48.mp4"
+    },
+    {
+      "id": "pormPWgs",
+      "title": "Baba Ji Nu Khat",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/050531a74d939b0b12bf3b0923ae9fe6_48.mp4"
+    },
+    {
+      "id": "QRdtPTWI",
+      "title": "Ghoonghat Chuk O Sajna",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Sufi Gold",
+      "year_metadata": 2018,
+      "language_metadata": "hindi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/351/a4a0cd260221fe967fa1fd45d19fab22_48.mp4"
+    },
+    {
+      "id": "3bZxmPDj",
+      "title": "Chovi Ghante Khuli Hai",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/d66ad22f3e77c6cdb777f5488c06580b_48.mp4"
+    },
+    {
+      "id": "za0MYI-J",
+      "title": "Main Vi Umre Te",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/0fc076bf8cf9471d7df3376d80ea537f_48.mp4"
+    },
+    {
+      "id": "ue-I8-YH",
+      "title": "Shala Jhokan Vasdi",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/696e4d4246bdc63c41bd06d3d09a5044_48.mp4"
+    },
+    {
+      "id": "hVA65qce",
+      "title": "Sajda",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Jazbati",
+      "year_metadata": 2019,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/779/7f1c9ab45cb473077c9aab1ed3924c64_48.mp4"
+    },
+    {
+      "id": "v10-gPkn",
+      "title": "Teri Soorat Nigahon Mein",
+      "artist": "Aziz Mian",
+      "actual_artists": [
+        "Aziz Mian"
+      ],
+      "album": "Pyar Ke Mor Par",
+      "year_metadata": 2009,
+      "language_metadata": "hindi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/671/b6dba53fa748232bb25e7b745d04627d_48.mp4"
+    },
+    {
+      "id": "U1dF6__y",
+      "title": "Sadqa Baba Ganjshakar",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sadqa Baba Ganjshakar",
+      "year_metadata": 2025,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/010/4d7eed58f829400243a3ff304119da23_48.mp4"
+    },
+    {
+      "id": "O3eqQkYm",
+      "title": "Alaf Alla",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers",
+        "Hariharan",
+        "Anuradha Sriram"
+      ],
+      "album": "The Best Of Wadali Brothers",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/555/edd3c7c04d4bda08b9a8e6d0298b3770_48.mp4"
+    },
+    {
+      "id": "B8_6_sp1",
+      "title": "Din Raat Mein Tere Geet Gawan Yaa Rasool Allah",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Yaa Hussain",
+      "year_metadata": 2014,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/524/3f06a3f471fd02fc1be36d0bbb58a200_48.mp4"
+    },
+    {
+      "id": "FN7RvfQc",
+      "title": "Mast Qalandar",
+      "artist": "Rahat Fateh Ali Khan",
+      "actual_artists": [
+        "Sami Yusuf",
+        "Rahat Fateh Ali Khan"
+      ],
+      "album": "Mast Qalandar",
+      "year_metadata": 2020,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_known_track_title",
+      "audio_url": "https://aac.saavncdn.com/491/16c67e70fbdf6fdfdc574004274cf7f0_48.mp4"
+    },
+    {
+      "id": "xGVa3Q_R",
+      "title": "Allah Hi Jane Kaun Bashar",
+      "artist": "Aziz Mian",
+      "actual_artists": [
+        "Aziz Mian"
+      ],
+      "album": "Ishq Tera Sataye To, Vol. 4",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/356/3f00a8f2f1df363d3e9830a966104067_48.mp4"
+    },
+    {
+      "id": "WTZlHa-R",
+      "title": "Ashiqan Di Maseet",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/2bc40a06409c199e34cd535bb269ba82_48.mp4"
+    },
+    {
+      "id": "Z9yDzPPv",
+      "title": "Dukhiya Di Sun Le Faryad",
+      "artist": "Ghulam Farid Sabri",
+      "actual_artists": [
+        "Ghulam Farid Sabri",
+        "Khawaja Pervaiz"
+      ],
+      "album": "Sasta Khoon Mehnga Pani (Original Motion Picture Soundtrack)",
+      "year_metadata": 2026,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/665/5c226ff26ead107ab134a9a9eefab07d_48.mp4"
+    },
+    {
+      "id": "3vmqEJrx",
+      "title": "Lokan Nal Shartan",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/82f259bf83fefcf6c20ca66cb8e47155_48.mp4"
+    },
+    {
+      "id": "ag-vHygk",
+      "title": "Ab Hum Gum Huea Prem Nagar Ke Sear",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Yaad Piya Ki",
+      "year_metadata": 2007,
+      "language_metadata": "hindi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/915/efed2aa17460cb085b4e547cc6224391_48.mp4"
+    },
+    {
+      "id": "V13aHRdU",
+      "title": "Chaap Tikal",
+      "artist": "Fareed Ayaz",
+      "actual_artists": [
+        "Fareed Ayaz Abu Muhammad Qawwal"
+      ],
+      "album": "I Am Karachi Qawwali Night",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_metadata",
+      "audio_url": "https://aac.saavncdn.com/462/7d7842f82aa9cf9c343c3c4fc1889e4b_48.mp4"
+    },
+    {
+      "id": "DVLfHZyF",
+      "title": "Waris Shah Nu",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Sufi Gold",
+      "year_metadata": 2018,
+      "language_metadata": "hindi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/351/96f63adcb83d3b2e017f24bec472e7e8_48.mp4"
+    },
+    {
+      "id": "QGvkqTWa",
+      "title": "Ghoonghat Chak Ve Sajna",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ishq Musafir",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/914/78866a2ab0b470a72de7cdfb5246d76f_48.mp4"
+    },
+    {
+      "id": "hy08V99B",
+      "title": "Aevein Panj Vele",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/864eb1e487115eb223fc454e13024a5e_48.mp4"
+    },
+    {
+      "id": "WDq2Z7v5",
+      "title": "Sufi Qawwali - Damaadam Mast Kalandar",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ruhaniyat, Vol. 3",
+      "year_metadata": 2006,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_metadata",
+      "audio_url": "https://aac.saavncdn.com/138/26e2ab1ba5ce3f18f58fab394ff6505f_48.mp4"
+    },
+    {
+      "id": "BqL46glf",
+      "title": "Ganj Shakar Tu",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Ganj Shakar",
+      "year_metadata": 2001,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/468/9ae2c896ca46a440ce71bc4047d9387b_48.mp4"
+    },
+    {
+      "id": "3PU67Tgr",
+      "title": "Tu Mane Ya Na Mane (Edit Version)",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Tu Mane Ya Na Mane",
+      "year_metadata": 2005,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/759/34c651b0b690476bbd3b6d103610815e_48.mp4"
+    },
+    {
+      "id": "_Oy_IkNC",
+      "title": "Terian Beparwahiya Rabba",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Akhiyan Udek Diyan",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/077/601f46420b3ba25b62b4fda601fab92c_48.mp4"
+    },
+    {
+      "id": "o6N_APXu",
+      "title": "Mohabbat Karnay Walo Mohabbat Kis Ko Kehtay Hayn",
+      "artist": "Ghulam Farid Sabri",
+      "actual_artists": [
+        "Ghulam Farid Sabri Qawwal",
+        "Ghulam Farid Sabri",
+        "Maqbool Sabri"
+      ],
+      "album": "Ilzam (Original Motion Picture Soundtrack)",
+      "year_metadata": 2026,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/788/9d5b9061383e221e36a0e42bc39bd0fa_48.mp4"
+    },
+    {
+      "id": "1RwJo3U4",
+      "title": "Ve Sone Diyan Kangna",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ishq Musafir",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/914/51899bd013f58ceb74053c28ae876cc3_48.mp4"
+    },
+    {
+      "id": "e-hTTCOU",
+      "title": "Main Sharabi Sharabi, Pt. 3",
+      "artist": "Aziz Mian",
+      "actual_artists": [
+        "Aziz Mian"
+      ],
+      "album": "Allah Hi Janay, Vol. 1",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/054/44b11ca595038da1e44fd8e647723843_48.mp4"
+    },
+    {
+      "id": "b3pFTI9w",
+      "title": "Dama Dam Mast Qalandar",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ishq Musafir",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_known_track_title",
+      "audio_url": "https://aac.saavncdn.com/914/322a8d581d98619e41fcb5d911ce0738_48.mp4"
+    },
+    {
+      "id": "VcvGSDIw",
+      "title": "Babaji Da Pyar",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/a976cb8c6c7161da7df29c05a88457bf_48.mp4"
+    }
+  ],
+  "audit": {
+    "Nusrat Fateh Ali Khan": {
+      "total": 153,
+      "artist_mismatch": 153,
+      "artist_mismatch_examples": [
+        {
+          "title": "Ya Allah Mere Dil Ki Duaa Sunle Heart Touching Sufi Qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Nusrat Fateh Ali Khan qawwali"
+        },
+        {
+          "title": "Mere Aansuon Ki Sada Sun Le Heart Touching Sufi Qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Nusrat Fateh Ali Khan qawwali"
+        },
+        {
+          "title": "Rab Ohnu Labh Da heart touching sufi qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Nusrat Fateh Ali Khan qawwali"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Aziz Mian": {
+      "total": 102,
+      "artist_mismatch": 91,
+      "accepted": 11,
+      "artist_mismatch_examples": [
+        {
+          "title": "Remix Qawwali",
+          "artists": [
+            "Zubeen Garg",
+            "Nakash Aziz",
+            "Neha Kakkar"
+          ],
+          "query": "Aziz Mian qawwali"
+        },
+        {
+          "title": "Remix Qawwali",
+          "artists": [
+            "Nakash Aziz",
+            "Neha Kakkar"
+          ],
+          "query": "Aziz Mian qawwali"
+        },
+        {
+          "title": "Mangne Wale Mang Khuda Se",
+          "artists": [
+            "Aziz Ahmed Warsi"
+          ],
+          "query": "Aziz Mian qawwali"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Sabri Brothers": {
+      "total": 84,
+      "artist_mismatch": 84,
+      "artist_mismatch_examples": [
+        {
+          "title": "Bhar Do Jhooli Meri",
+          "artists": [],
+          "query": "Sabri Brothers qawwali"
+        },
+        {
+          "title": "Ye Sab Tumhara Karam",
+          "artists": [
+            "Rohit Sabri Official"
+          ],
+          "query": "Sabri Brothers qawwali"
+        },
+        {
+          "title": "तौरी किरपा बड़ी है गरीब नवाज - Ajmer sharif Qawwali - Khawaja Garib Nawaz Qawwali - Sabri Brothers",
+          "artists": [
+            "Rohit Sabri Official"
+          ],
+          "query": "Sabri Brothers qawwali"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Ghulam Farid Sabri": {
+      "total": 8,
+      "accepted": 6,
+      "artist_mismatch": 2,
+      "artist_mismatch_examples": [
+        {
+          "title": "Main Banda E",
+          "artists": [
+            "Tanvir Uddin",
+            "Abdullah Ctw"
+          ],
+          "query": "Ghulam Farid Sabri"
+        },
+        {
+          "title": "Aa Vas Mandadre Kol",
+          "artists": [
+            "Surinder Kaur",
+            "Ram Saran Das"
+          ],
+          "query": "Ghulam Farid Sabri"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Maqbool Ahmed Sabri": {
+      "total": 2,
+      "artist_mismatch": 2,
+      "artist_mismatch_examples": [
+        {
+          "title": "Ya Muhammad Noore Mujassam",
+          "artists": [
+            "Ayisha Abdul Basith",
+            "Ahlam"
+          ],
+          "query": "Maqbool Ahmed Sabri"
+        },
+        {
+          "title": "Tajdar-E-Haram",
+          "artists": [
+            "Sam Sharma",
+            "Ahlam"
+          ],
+          "query": "Maqbool Ahmed Sabri"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Rahat Fateh Ali Khan": {
+      "total": 102,
+      "artist_mismatch": 100,
+      "accepted": 1,
+      "duplicate": 1,
+      "artist_mismatch_examples": [
+        {
+          "title": "Ya Allah Mere Dil Ki Duaa Sunle Heart Touching Sufi Qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Rahat Fateh Ali Khan qawwali"
+        },
+        {
+          "title": "Mere Aansuon Ki Sada Sun Le Heart Touching Sufi Qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Rahat Fateh Ali Khan qawwali"
+        },
+        {
+          "title": "Rab Ohnu Labh Da heart touching sufi qawwali",
+          "artists": [
+            "Fan Of Nusrat Fateh Ali Khan"
+          ],
+          "query": "Rahat Fateh Ali Khan qawwali"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Amjad Sabri": {
+      "total": 200,
+      "artist_mismatch": 200,
+      "artist_mismatch_examples": [
+        {
+          "title": "Muharram Ki Sabse Gam Bhari Qawwali",
+          "artists": [
+            "Ashif Sabri"
+          ],
+          "query": "Amjad Sabri qawwali"
+        },
+        {
+          "title": "Tori Surat Pyari Pyare Khwaja Ji Garib Nawaz Qawwali",
+          "artists": [
+            "Rais Anis Sabri",
+            "Deewana Enterprises",
+            "Kruz - Aghori Muzik",
+            "K. Deep - Aghori Muzik",
+            "Hard-D - Aghori Muzik"
+          ],
+          "query": "Amjad Sabri qawwali"
+        },
+        {
+          "title": "Bhar Do Jhooli Meri",
+          "artists": [],
+          "query": "Amjad Sabri qawwali"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Fareed Ayaz": {
+      "total": 45,
+      "accepted": 5,
+      "artist_mismatch": 39,
+      "duplicate": 1,
+      "artist_mismatch_examples": [
+        {
+          "title": "Ayazında Yandığım",
+          "artists": [
+            "Ufuk Yalman"
+          ],
+          "query": "Fareed Ayaz"
+        },
+        {
+          "title": "Ayaz Bacha Sahib",
+          "artists": [
+            "Tahseenullah Naqshbandi"
+          ],
+          "query": "Fareed Ayaz"
+        },
+        {
+          "title": "Qessa Memood Ayaz, Pt. 3",
+          "artists": [
+            "Waheed Gul"
+          ],
+          "query": "Fareed Ayaz"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Rizwan-Muazzam Qawwali": {
+      "artist_mismatch_examples": [],
+      "qawwali_unverified_examples": []
+    },
+    "Wadali Brothers": {
+      "total": 43,
+      "accepted": 39,
+      "duplicate": 3,
+      "artist_mismatch": 1,
+      "artist_mismatch_examples": [
+        {
+          "title": "Tu Maane",
+          "artists": [
+            "Mayank Saxena"
+          ],
+          "query": "Wadali Brothers"
+        }
+      ],
+      "qawwali_unverified_examples": []
+    },
+    "Sher Miandad Khan": {
+      "total": 40,
+      "accepted": 40,
+      "artist_mismatch_examples": [],
+      "qawwali_unverified_examples": []
+    },
+    "Javed Bashir": {
+      "total": 4,
+      "qawwali_unverified": 2,
+      "artist_mismatch": 2,
+      "artist_mismatch_examples": [
+        {
+          "title": "صف ته مو امام بیرغ",
+          "artists": [
+            "Javed Amirkhail"
+          ],
+          "query": "Javed Bashir"
+        },
+        {
+          "title": "Jashne Amade Rasool Allah Hi Allah",
+          "artists": [
+            "Sakib Mahhmud",
+            "Bashir Ahmed"
+          ],
+          "query": "Javed Bashir"
+        }
+      ],
+      "qawwali_unverified_examples": [
+        {
+          "title": "Dil Da Jaani",
+          "album": "Jus Jinx",
+          "artists": [
+            "Jinx & Javed Bashir"
+          ],
+          "query": "Javed Bashir"
+        },
+        {
+          "title": "Akha Lariyan",
+          "album": "Akha Lariyan",
+          "artists": [
+            "Jr Dread",
+            "Javed Bashir & Sharni"
+          ],
+          "query": "Javed Bashir"
+        }
+      ]
+    }
+  },
+  "fetch_errors": {
+    "Allah Hoo Allah Hoo Nusrat Fateh Ali Khan": "RuntimeError",
+    "Sabri Brothers sufi qawwali": "RuntimeError",
+    "Ghulam Farid Sabri qawwali": "RuntimeError",
+    "Ghulam Farid Sabri sufi qawwali": "RuntimeError",
+    "Maqbool Ahmed Sabri qawwali": "RuntimeError",
+    "Maqbool Ahmed Sabri sufi qawwali": "RuntimeError",
+    "Amjad Sabri sufi qawwali": "RuntimeError",
+    "Fareed Ayaz sufi qawwali": "RuntimeError",
+    "Rizwan-Muazzam Qawwali qawwali": "RuntimeError",
+    "Rizwan-Muazzam Qawwali sufi qawwali": "RuntimeError",
+    "Rizwan-Muazzam Qawwali": "RuntimeError",
+    "Sher Miandad Khan qawwali": "RuntimeError",
+    "Sher Miandad Khan sufi qawwali": "RuntimeError",
+    "Javed Bashir qawwali": "RuntimeError",
+    "Javed Bashir sufi qawwali": "RuntimeError"
+  },
+  "limitations": [
+    "Mood and ghazal classification use metadata labels; unlabeled valid songs are excluded.",
+    "1990s uses catalog year for ranking only; no song is rejected for missing/outside-range year, and some selections may not be from the 1990s.",
+    "Artist match allows collaborations if the requested artist appears in the credits.",
+    "Kawwali accepts exact artist credits with explicit Qawwali metadata or Qawwali-scoped search results; incomplete metadata can reduce coverage.",
+    "Audio URLs and playback are NOT tested; existing ESP32 Queue is unchanged."
+  ]
+}
