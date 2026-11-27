@@ -1,6 +1,9 @@
 name: Xiaozhi DJ Metadata Diagnostic
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "music_config.json"
 permissions:
   contents: read
 jobs:
