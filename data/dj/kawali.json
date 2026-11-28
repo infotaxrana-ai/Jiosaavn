@@ -6,8 +6,164 @@
   "playlist_count": 30,
   "songs": [
     {
-      "id": "vDRB-x_w",
-      "title": "Moosay Bol Na Bol",
+      "id": "OwODizlY",
+      "title": "Ban Gai Zindgi Azaab",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Shar Maindad, Vol. 1",
+      "year_metadata": 2019,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/437/be01554fffed7b3254100a78b3789c5a_48.mp4"
+    },
+    {
+      "id": "edFwdkI8",
+      "title": "Jaide Vale",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Ek Chithi",
+      "year_metadata": 2001,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/969/f5bcd7d0f21d8d3ac81cca1e42153203_48.mp4"
+    },
+    {
+      "id": "r1Pd2PiT",
+      "title": "Tere Liye",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Tere Liye",
+      "year_metadata": 2025,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/124/583ddf2d461ed4b17021f14206dcfddf_48.mp4"
+    },
+    {
+      "id": "dyrWbvMl",
+      "title": "Taraanah",
+      "artist": "Fareed Ayaz",
+      "actual_artists": [
+        "Fareed Ayaz Abu Muhammad Qawwal"
+      ],
+      "album": "Rang E Sufiaan, Vol. 2",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/648/9e46bac7a5599dbddda369b022d3f45c_48.mp4"
+    },
+    {
+      "id": "6YxuA5TZ",
+      "title": "Tujhe Takeya Toh Laga Mujhe Aise",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ruhaniyat - Sufi Qawwalis, Vol. 2",
+      "year_metadata": 2007,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_search_query",
+      "audio_url": "https://aac.saavncdn.com/116/2ba9c5cbf95ae0561e2c6998e2f3e178_48.mp4"
+    },
+    {
+      "id": "g1nhmx4-",
+      "title": "Tajdar E Haram",
+      "artist": "Fareed Ayaz",
+      "actual_artists": [
+        "Fareed Ayaz Abu Muhammad Qawwal"
+      ],
+      "album": "I Am Karachi Qawwali Night",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_metadata",
+      "audio_url": "https://aac.saavncdn.com/462/19e35c2b41d86a449d7513d279870cb5_48.mp4"
+    },
+    {
+      "id": "Dt0L5eOa",
+      "title": "Sone Yaar",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Aa Mil Yaar",
+      "year_metadata": 2005,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/261/89d1f0157ffcd6a5c393922f53a4606e_48.mp4"
+    },
+    {
+      "id": "3-xic6lP",
+      "title": "Terian Galan Dasda Dasda",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Ek Chithi",
+      "year_metadata": 2001,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/969/80337010355633933819aac84c67d267_48.mp4"
+    },
+    {
+      "id": "rvTglT9T",
+      "title": "Sabar De Peer,Baba Fareed",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Meri Mundri",
+      "year_metadata": 2001,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/567/20b9b19fc012a2160544ab5bf1e8b463_48.mp4"
+    },
+    {
+      "id": "ZPk-Dhrm",
+      "title": "Meri Mundri Wali Sarkar",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Meri Mundri",
+      "year_metadata": 2001,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/567/9e63175edb2d2707a7f617e668d23458_48.mp4"
+    },
+    {
+      "id": "rbxY3Hty",
+      "title": "Adam (Studio Recording)",
+      "artist": "Fareed Ayaz",
+      "actual_artists": [
+        "Fareed Ayaz Abu Muhammad Qawwal"
+      ],
+      "album": "Coke Studio Season 12 (Studio Recording)",
+      "year_metadata": 2019,
+      "language_metadata": "persian",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/011/0d92b5f19b2309d36a49aadbb1e1931c_48.mp4"
+    },
+    {
+      "id": "YALMLcZL",
+      "title": "Saval Morh Moharan",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "The Best Of Wadali Brothers",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/555/9d38b52bcb1f2f59297100705b414a13_48.mp4"
+    },
+    {
+      "id": "t00WQj7U",
+      "title": "Bhaala Hua Meri Maala Phooti",
       "artist": "Fareed Ayaz",
       "actual_artists": [
         "Fareed Ayaz Abu Muhammad Qawwal"
@@ -16,266 +172,196 @@
       "year_metadata": 2020,
       "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/433/8207e4e71b0e2ddaee8c17260fd06ca4_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/433/d8886d20af2fc9e63a10890277d81094_48.mp4"
     },
     {
-      "id": "gl6Bc53-",
-      "title": "Kangna (Studio Recording)",
+      "id": "QGvkqTWa",
+      "title": "Ghoonghat Chak Ve Sajna",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "Ishq Musafir",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/914/78866a2ab0b470a72de7cdfb5246d76f_48.mp4"
+    },
+    {
+      "id": "Wmf-q8ML",
+      "title": "Ni Main Hune Suneya",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers"
+      ],
+      "album": "The Best Of Wadali Brothers",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/555/ebb694da3bcf2514a0de89401effa129_48.mp4"
+    },
+    {
+      "id": "8rlLLd27",
+      "title": "Aaoni Mehndi Laiye",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/4c27b165e4e1032fded9284fc136e031_48.mp4"
+    },
+    {
+      "id": "X8JqyMTA",
+      "title": "Bohat Kathin Hae",
       "artist": "Fareed Ayaz",
       "actual_artists": [
         "Fareed Ayaz Abu Muhammad Qawwal"
       ],
-      "album": "Coke Studio Sessions: Season 4 (Studio Recording)",
-      "year_metadata": 2011,
-      "language_metadata": "persian",
+      "album": "Padharo Mhare Desh",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/139/f39a845ee34eb21912cfe1c5bbb26677_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/498/6a671a8c01510afe4779534becdbd956_48.mp4"
     },
     {
-      "id": "FdG8YtLj",
-      "title": "Allah Hi Jane Kaun Bashar hai",
+      "id": "2I0OFMM1",
+      "title": "Main Sharabi Sharabi, Pt. 1",
       "artist": "Aziz Mian",
       "actual_artists": [
         "Aziz Mian"
       ],
-      "album": "Charan Tore Aan Pari",
-      "year_metadata": 2023,
-      "language_metadata": "urdu",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/404/f3b735824693f0592e8124ff639208d1_48.mp4"
-    },
-    {
-      "id": "U6WqwsdQ",
-      "title": "Thooral Nindralum",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers",
-        "Hariharan",
-        "Anuradha Sriram"
-      ],
-      "album": "Chikku Bhukku",
-      "year_metadata": 2010,
-      "language_metadata": "tamil",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/007/9c4e048fcef7f3bb395ddaf20dd174fc_48.mp4"
-    },
-    {
-      "id": "Zp63bbeV",
-      "title": "Allah Mera Malik Hai",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
-      "year_metadata": 2009,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/503/78f4bcf135ab8ac6d217c9096509201a_48.mp4"
-    },
-    {
-      "id": "s6lOQwjx",
-      "title": "Sakhee Kasey Kahoon",
-      "artist": "Fareed Ayaz",
-      "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
-      ],
-      "album": "Rang E Sufiaan, Vol. 2",
+      "album": "Allah Hi Janay, Vol. 1",
       "year_metadata": 2020,
       "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/648/247f1844fa71ed1effcb38a96a4be4f8_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/054/398caaf8c9f6514d103a97059a82ee72_48.mp4"
     },
     {
-      "id": "X-34dRYY",
-      "title": "Allah Badshah Allah",
-      "artist": "Sher Miandad Khan",
+      "id": "msT-m0PH",
+      "title": "Allah Hi Jane Kaun Part 2",
+      "artist": "Aziz Mian",
       "actual_artists": [
-        "Sher Miandad Khan",
-        "Dolly"
+        "Aziz Mian"
       ],
-      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
-      "year_metadata": 2009,
-      "language_metadata": "punjabi",
+      "album": "Aisa Niyaz E Ishq Ne",
+      "year_metadata": 2022,
+      "language_metadata": "hindi",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/503/2b1906ce1a44e8def821ebd357f17f83_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/111/e5e7b9f039f255fbacaeaca1ba02d9a8_48.mp4"
     },
     {
-      "id": "TiBP_YXZ",
-      "title": "Dhola Siyana",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Dhola Siyana",
-      "year_metadata": 2026,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/106/b0b3413e8d4746134d10606cfd8a349b_48.mp4"
-    },
-    {
-      "id": "llAU2B8_",
-      "title": "Data Mere Bhag Jagavin",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
-      "year_metadata": 2009,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/503/9157c355cacf337fb3a9c536757c9174_48.mp4"
-    },
-    {
-      "id": "h9bO5c_q",
-      "title": "Yaad Piya Ki Aaye",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers"
-      ],
-      "album": "Yaad Piya Ki",
-      "year_metadata": 2007,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/915/fc60d47ae4ac4c5bdb613e53381aa23a_48.mp4"
-    },
-    {
-      "id": "o6BsLjyb",
-      "title": "Khabaram Raseedak Im Shab",
-      "artist": "Fareed Ayaz",
-      "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
-      ],
-      "album": "Rang E Sufiaan, Vol. 1",
-      "year_metadata": 2020,
-      "language_metadata": "urdu",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/433/dab49531f740a2843fd3fd51b16c3ab5_48.mp4"
-    },
-    {
-      "id": "RzwneBa4",
-      "title": "Pindi Da Dhola",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Pindi Da Dhola",
-      "year_metadata": 2025,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/881/fd2f794575f812746528abccaedcbbef_48.mp4"
-    },
-    {
-      "id": "kBh0u6iY",
-      "title": "Baba Shakaran Wala",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
-      "year_metadata": 2009,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/503/8d6e98e24d59553803726863f9b5874a_48.mp4"
-    },
-    {
-      "id": "1pKL4Ypr",
-      "title": "Kabira",
-      "artist": "Fareed Ayaz",
-      "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
-      ],
-      "album": "Padharo Mhare Desh",
-      "year_metadata": 2020,
-      "language_metadata": "urdu",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/498/4f8decfe4e13b576d6f2cd33e7d3833d_48.mp4"
-    },
-    {
-      "id": "ZtjeR6hE",
-      "title": "Mera Koi Nahin Hay Teray Siwa",
+      "id": "Z9yDzPPv",
+      "title": "Dukhiya Di Sun Le Faryad",
       "artist": "Ghulam Farid Sabri",
       "actual_artists": [
         "Ghulam Farid Sabri",
-        "Zafar Khursheed",
-        "Masroor Anwar"
+        "Khawaja Pervaiz"
       ],
-      "album": "Ishq-e-Habib (Original Motion Picture Soundtrack)",
+      "album": "Sasta Khoon Mehnga Pani (Original Motion Picture Soundtrack)",
       "year_metadata": 2026,
       "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/314/a4a25cd0fddb33108eae9a258a79956c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/665/5c226ff26ead107ab134a9a9eefab07d_48.mp4"
     },
     {
-      "id": "SWhUVhVc",
-      "title": "Tere Naal Preetaan Pakkiyaan",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers"
-      ],
-      "album": "Tere Naal Preetaan",
-      "year_metadata": 2000,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/706/3c19d2fb1ec995d68123f2e7680c0901_48.mp4"
-    },
-    {
-      "id": "R3Tpoxq6",
-      "title": "Dil Lay Kay Kabhi To Deikho",
-      "artist": "Ghulam Farid Sabri",
-      "actual_artists": [
-        "Tasleem Fazli",
-        "Ghulam Farid Sabri Qawwal",
-        "Fayyaz Hashmi",
-        "Masroor Anwar"
-      ],
-      "album": "Ilzam (Original Motion Picture Soundtrack)",
-      "year_metadata": 2026,
-      "language_metadata": "urdu",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/788/ced428a7071bf391f0ca8666a0d55cc3_48.mp4"
-    },
-    {
-      "id": "hLBFJ-4M",
-      "title": "Menu Maff Kar De",
+      "id": "4F7jgOYN",
+      "title": "Yarhvin Wala Sona Peer",
       "artist": "Sher Miandad Khan",
       "actual_artists": [
         "Sher Miandad Khan"
       ],
-      "album": "Menu Maff Kar De",
-      "year_metadata": 2001,
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
       "language_metadata": "punjabi",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/369/698dfd37007801f71dd2f2f5b0944b93_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/503/1f1c81dde6f4b0fbe5665308efdf49e7_48.mp4"
     },
     {
-      "id": "-3vnlFvM",
-      "title": "Teri Main Tou",
+      "id": "g-KnBS53",
+      "title": "Data Di Kacheri",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/43dcbec3925d3ff262c4c11975cb147c_48.mp4"
+    },
+    {
+      "id": "JehoTAvn",
+      "title": "Jinne Ghaus Di Yaar",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/828177c6daf453896642641f42b5db31_48.mp4"
+    },
+    {
+      "id": "rCmo4FqM",
+      "title": "Allah Hoo Allah",
       "artist": "Fareed Ayaz",
       "actual_artists": [
         "Fareed Ayaz Abu Muhammad Qawwal"
       ],
-      "album": "Padharo Mhare Desh",
+      "album": "Rang E Sufiaan, Vol. 1",
       "year_metadata": 2020,
       "language_metadata": "urdu",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/498/9cdccd1cfd362617c4a27d7a86bedb17_48.mp4"
+      "evidence": "qawwali_known_track_title",
+      "audio_url": "https://aac.saavncdn.com/433/1f0983ae59efec9115a6581e868790e7_48.mp4"
     },
     {
-      "id": "QQY-h2I7",
-      "title": "Padharo Mhare Desh",
-      "artist": "Fareed Ayaz",
+      "id": "deWDe7-a",
+      "title": "Tu Mane Ya Na Mane (Bonus Track)",
+      "artist": "Wadali Brothers",
       "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
+        "Wadali Brothers",
+        "Bb The Rapper"
       ],
-      "album": "Padharo Mhare Desh",
-      "year_metadata": 2020,
-      "language_metadata": "urdu",
+      "album": "Farid",
+      "year_metadata": 2006,
+      "language_metadata": "punjabi",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/498/222e124afa1676bf2946b6988116ae7c_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/954/04bc7f95d54610d96031066d07885b86_48.mp4"
     },
     {
-      "id": "NkjewqY5",
-      "title": "Ghar Naari Ganvaari",
+      "id": "G9uXGxJk",
+      "title": "Ghos Pak Mera Jainu",
+      "artist": "Sher Miandad Khan",
+      "actual_artists": [
+        "Sher Miandad Khan"
+      ],
+      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
+      "year_metadata": 2009,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_artist_catalog",
+      "audio_url": "https://aac.saavncdn.com/503/2b5b09648adfefb7ac900510ce946dcb_48.mp4"
+    },
+    {
+      "id": "b3pFTI9w",
+      "title": "Dama Dam Mast Qalandar",
+      "artist": "Wadali Brothers",
+      "actual_artists": [
+        "Wadali Brothers",
+        "Bob Rhymes"
+      ],
+      "album": "Ishq Musafir",
+      "year_metadata": 2002,
+      "language_metadata": "punjabi",
+      "evidence": "qawwali_known_track_title",
+      "audio_url": "https://aac.saavncdn.com/914/322a8d581d98619e41fcb5d911ce0738_48.mp4"
+    },
+    {
+      "id": "bvnEF0il",
+      "title": "Pir Nijamuddin",
       "artist": "Fareed Ayaz",
       "actual_artists": [
         "Fareed Ayaz Abu Muhammad Qawwal"
@@ -284,127 +370,33 @@
       "year_metadata": 2020,
       "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/433/8ba6443576561d4ad5a8e4744ae77faa_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/433/b67ee3e61cdf54ef78421e8d31fa7a21_48.mp4"
     },
     {
-      "id": "9GhgW2Hs",
-      "title": "Tum Idhar Dekh Lo",
-      "artist": "Wadali Brothers",
+      "id": "5_F9NKNM",
+      "title": "Main Sharabi Sharabi, Pt. 2",
+      "artist": "Aziz Mian",
       "actual_artists": [
-        "Wadali Brothers"
+        "Aziz Mian"
       ],
-      "album": "Farid",
-      "year_metadata": 2004,
-      "language_metadata": "hindi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/253/07c986dfc836b8af4b945085d0f8f955_48.mp4"
-    },
-    {
-      "id": "Yvuk0eXZ",
-      "title": "Baaro Ghee Kay Diyay Naa",
-      "artist": "Fareed Ayaz",
-      "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
-      ],
-      "album": "Rang E Sufiaan, Vol. 2",
+      "album": "Allah Hi Janay, Vol. 1",
       "year_metadata": 2020,
       "language_metadata": "urdu",
       "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/648/470cb0118770fa151403639f787ea71a_48.mp4"
+      "audio_url": "https://aac.saavncdn.com/054/72f448820a7bbf2430899b4fe0a534ef_48.mp4"
     },
     {
-      "id": "SLzZ_GZV",
-      "title": "Nosho Nosho Japdi",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan",
-        "Dolly"
-      ],
-      "album": "Sher Miandad Khan (Aashiqaan Di Maseet)",
-      "year_metadata": 2009,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/503/4b1343a479dd4e49d669234482d1059f_48.mp4"
-    },
-    {
-      "id": "KDeAEC7x",
-      "title": "Bas Karjee Hun Bas Karjee",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers"
-      ],
-      "album": "Yaad Piya Ki",
-      "year_metadata": 2007,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/915/42dddc879d89449c7ee565b9f00a16ee_48.mp4"
-    },
-    {
-      "id": "HQrvhdgd",
-      "title": "Mori Bangri (Studio Recording)",
+      "id": "z_lneKXO",
+      "title": "Mera Piya Ghar Aya",
       "artist": "Fareed Ayaz",
       "actual_artists": [
         "Fareed Ayaz Abu Muhammad Qawwal"
       ],
-      "album": "Coke Studio Sessions: Season 4 (Studio Recording)",
-      "year_metadata": 2011,
-      "language_metadata": "hindi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/139/495906b8c226ff19a232fd25da4c3fe0_48.mp4"
-    },
-    {
-      "id": "SdeESy64",
-      "title": "Khabaram Raseeda (Studio Recording)",
-      "artist": "Fareed Ayaz",
-      "actual_artists": [
-        "Fareed Ayaz Abu Muhammad Qawwal"
-      ],
-      "album": "Coke Studio Sessions: Season 5 (Studio Recording)",
-      "year_metadata": 2012,
-      "language_metadata": "persian",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/200/fb1f0ec4af31f7c838fad44820824cbd_48.mp4"
-    },
-    {
-      "id": "pYjlnkNz",
-      "title": "Akkhiyaan Nahin Rajjiaan",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers"
-      ],
-      "album": "Akkhiyaan Nahin Rajjiaan",
-      "year_metadata": 2025,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/779/5f78b6adc03d1518806a18761d7075d9_48.mp4"
-    },
-    {
-      "id": "RfcXjoEz",
-      "title": "Meri Baanh Na Chhodi Ve",
-      "artist": "Wadali Brothers",
-      "actual_artists": [
-        "Wadali Brothers",
-        "Hariharan",
-        "Anuradha Sriram"
-      ],
-      "album": "Tere Naal Preetaan",
-      "year_metadata": 2000,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/706/8969fa86a072f94d3414cc20b5e75ef6_48.mp4"
-    },
-    {
-      "id": "j21LMq-l",
-      "title": "Mere Dil Da Tota Bolda",
-      "artist": "Sher Miandad Khan",
-      "actual_artists": [
-        "Sher Miandad Khan"
-      ],
-      "album": "Menu Maff Kar De",
-      "year_metadata": 2001,
-      "language_metadata": "punjabi",
-      "evidence": "qawwali_artist_catalog",
-      "audio_url": "https://aac.saavncdn.com/369/c6902b9f8946e7bbd6f6ed262dd38b31_48.mp4"
+      "album": "I Am Karachi Qawwali Night",
+      "year_metadata": 2020,
+      "language_metadata": "urdu",
+      "evidence": "qawwali_metadata",
+      "audio_url": "https://aac.saavncdn.com/462/1f51e238df929cef3c415ade515450bf_48.mp4"
     }
   ],
   "audit": {
@@ -415,7 +407,8 @@
         {
           "title": "Ya Allah Mere Dil Ki Duaa Sunle Heart Touching Sufi Qawwali",
           "artists": [
-            "Fan Of Nusrat Fateh Ali Khan"
+            "Fan Of Nusrat Fateh Ali Khan",
+            "Kanha Kamboj"
           ],
           "query": "Nusrat Fateh Ali Khan qawwali"
         },
@@ -461,7 +454,8 @@
         {
           "title": "A Akele Aanewale Tu Akeia",
           "artists": [
-            "Aziz Naaz"
+            "Aziz Naaz",
+            "Neha Kakkar"
           ],
           "query": "Aziz Mian qawwali"
         }
@@ -474,13 +468,7 @@
       "artist_mismatch_examples": [
         {
           "title": "Bhar Do Jhooli Meri",
-          "artists": [
-            "Junaid Sultani",
-            "Sahil Sangwan",
-            "Mitta Ror",
-            "Santu Sarpanch",
-            "Dinesh Thukran"
-          ],
+          "artists": [],
           "query": "Sabri Brothers qawwali"
         },
         {
@@ -504,18 +492,18 @@
       "artist_mismatch": 2,
       "artist_mismatch_examples": [
         {
-          "title": "Main Banda E",
-          "artists": [
-            "Tanvir Uddin",
-            "Abdullah Ctw"
-          ],
-          "query": "Ghulam Farid Sabri"
-        },
-        {
           "title": "Aa Vas Mandadre Kol",
           "artists": [
             "Surinder Kaur",
             "Ram Saran Das"
+          ],
+          "query": "Ghulam Farid Sabri"
+        },
+        {
+          "title": "Main Banda E",
+          "artists": [
+            "Tanvir Uddin",
+            "Abdullah Ctw"
           ],
           "query": "Ghulam Farid Sabri"
         }
@@ -553,7 +541,8 @@
         {
           "title": "Ya Allah Mere Dil Ki Duaa Sunle Heart Touching Sufi Qawwali",
           "artists": [
-            "Fan Of Nusrat Fateh Ali Khan"
+            "Fan Of Nusrat Fateh Ali Khan",
+            "Kanha Kamboj"
           ],
           "query": "Rahat Fateh Ali Khan qawwali"
         },
@@ -581,7 +570,8 @@
         {
           "title": "Muharram Ki Sabse Gam Bhari Qawwali",
           "artists": [
-            "Ashif Sabri"
+            "Ashif Sabri",
+            "Neha Kakkar"
           ],
           "query": "Amjad Sabri qawwali"
         },
@@ -595,13 +585,7 @@
         },
         {
           "title": "Bhar Do Jhooli Meri",
-          "artists": [
-            "Junaid Sultani",
-            "Sahil Sangwan",
-            "Mitta Ror",
-            "Santu Sarpanch",
-            "Dinesh Thukran"
-          ],
+          "artists": [],
           "query": "Amjad Sabri qawwali"
         }
       ],
@@ -646,9 +630,18 @@
     },
     "Wadali Brothers": {
       "total": 43,
-      "accepted": 40,
+      "accepted": 39,
       "duplicate": 3,
-      "artist_mismatch_examples": [],
+      "artist_mismatch": 1,
+      "artist_mismatch_examples": [
+        {
+          "title": "Tu Maane",
+          "artists": [
+            "Mayank Saxena"
+          ],
+          "query": "Wadali Brothers"
+        }
+      ],
       "qawwali_unverified_examples": []
     },
     "Sher Miandad Khan": {
